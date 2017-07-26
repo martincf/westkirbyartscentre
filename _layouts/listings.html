@@ -1,0 +1,8 @@
+{% include header.html %}
+
+{{ content }}
+{% if page.title == 'Events' %}
+  {% include eventslist.html %}
+{% endif %}
+
+{% include footer.html %}

@@ -1,0 +1,23 @@
+<ul>
+  <!-- Get the server's time minus 1 day (to allow events to show on same day) -->
+  {% assign currentDate = site.time | date: '%s' %}
+  {% assign currentDateInt = currentDate | plus:0 | minus: 86400 %}
+
+  {% for event in site.events %}
+    <!-- Get all the events dates -->
+    {% assign eventStartDate = event.date | date: '%s' %}
+    {% assign eventStartDateInt = eventStartDate | plus:0 %}
+
+    <!-- Compare event start date to server date (all future events and today's events should show) -->
+    {% if eventStartDateInt >= currentDateInt %}
+
+    <li>
+        <a href="{{ event.url }}">
+          {{ event.title }}
+        </a>
+        <p>{{ event.excerpt }}</p>
+        {{ event.date | date: '%d %b, %Y' }} {{ event.type }}
+    </li>
+      {% endif %}
+    {% endfor %}
+</ul>

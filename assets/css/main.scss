@@ -1,0 +1,33 @@
+---
+# main.scss
+---
+
+/* Imports */
+@import "mixins";
+@import "base";
+@import "colours";
+@import "navigation";
+
+body {
+  font-size: $font-med;
+  line-height: 1.35;
+}
+
+// +++ Temporary wireframe styles
+a:link, a:visited, a:hover, a:active {
+  color: $blue;
+}
+
+// Home
+.mission {
+  min-height: 500px;
+  padding: 0 $size-med;
+  background: #ccc url(/assets/images/) 0 0 no-repeat;
+}
+.mission-statement {
+  text-align: center;
+  font-size: 48px;
+  h2 {
+    margin: $size-large auto;
+  }
+}

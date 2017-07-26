@@ -1,0 +1,53 @@
+// Media queries
+@mixin mq($point) {
+	@if $point==wide {
+		@media (min-width: 1200px) {
+			@content;
+		}
+	}
+	@else if $point==large {
+		@media (max-width: 1199px) and (min-width: 992px) {
+			@content;
+		}
+	}
+	@else if $point==medium {
+		@media (max-width: 1096px) {
+			@content;
+		}
+	}
+	@else if $point==lower-medium {
+		@media (max-width: 900px) {
+			@content;
+		}
+	}
+	@else if $point==smartphone {
+		@media (max-width: 767px) {
+			@content;
+		}
+	}
+	@else if $point==small-smartphone {
+		@media (max-width: 480px) {
+			@content;
+		}
+	}
+
+}
+
+// Standard site widths
+$size-small: 10px;
+$size-med: 25px;
+$size-large: 50px;
+$size-super: 100px;
+
+// Standard font sizes
+$font-small: 14px;
+$font-med: 18px;
+$font-large: 24px;
+$font-super: 48px;
+
+// Quick show
+@mixin show($width) {
+  border: 1px solid blue;
+	border-width: $width;
+  box-sizing: border-box;
+}

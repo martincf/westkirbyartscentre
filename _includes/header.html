@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" media="all" href="{{ site.baseurl }}/assets/css/main.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script type="text/javascript">
+      // For page scrolling
+      $(function() {
+        $('a[href*="#"]:not([href="#"])').click(function() {
+          if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+            var target = $(this.hash);
+            target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+            if (target.length) {
+              $('html, body').animate({
+                scrollTop: target.offset().top
+              }, 500);
+              return false;
+            }
+          }
+        });
+      });
+    </script>
+
+  </head>
+  <body class="{{ page.layout }}">
+  <header>
+    {% include navigation.html %}
+    {% if page.layout == 'home' %}
+      <div class="mission">
+        <h1>
+          <a href="/">
+            The Arts Centre West Kirby
+          </a>
+        </h1>
+        <div class="mission-statement">
+          {{ content }}
+        </div>
+      </div>
+    {% else %}
+    <h1>
+      <a href="/">
+        The Arts Centre West Kirby
+      </a>
+    </h1>
+    {% endif %}
+
+  </header>
