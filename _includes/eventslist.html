@@ -1,17 +1,25 @@
 <ul>
+
+  <!--
+    Current date: currentDateInt
+    Event date: eventDateInt
+    30 days from current date: futureDate
+
+    List all future events up to 30 days from today's date
+
+  -->
   <!-- Get the server's time minus 1 day (to allow events to show on same day) -->
   {% assign currentDate = site.time | date: '%s' %}
   {% assign currentDateInt = currentDate | plus:0 | minus: 86400 %}
-
+  {% assign futureDate = currentDateInt | plus:2592000 %}
   {% for event in site.events %}
     <!-- Get all the events dates -->
-    {% assign eventStartDate = event.date | date: '%s' %}
-    {% assign eventStartDateInt = eventStartDate | plus:0 %}
+    {% assign eventDate = event.date | date: '%s' %}
+    {% assign eventDateInt = eventDate | plus:0 %}
 
     <!-- Compare event start date to server date (all future events and today's events should show) -->
-    {% if eventStartDateInt >= currentDateInt %}
-
-    <li>
+    {% if eventDateInt >= currentDateInt and eventDateInt <= futureDate %}
+    <li style="margin: 1em 0">
         <a href="{{ event.url }}">
           {{ event.title }}
         </a>
