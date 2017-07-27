@@ -24,6 +24,11 @@
       });
     </script>
 
+    {% if page.layout == "eventdetail" %}
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <script src="https://www.paypalobjects.com/api/checkout.js"></script>
+    {% endif %}
+
   </head>
   <body class="{{ page.layout }}">
   <header>

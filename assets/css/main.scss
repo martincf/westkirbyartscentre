@@ -31,3 +31,21 @@ a:link, a:visited, a:hover, a:active {
     margin: $size-large auto;
   }
 }
+// Visit section
+.visit {
+  margin: $size-super 0;
+  display: flex;
+}
+.visit-address {
+  width: 50%;
+}
+.visit-map {
+  width: 50%;
+  min-height: 500px;
+  border: 0;
+}
+// Event detail page
+.event-book {
+  border: 1px solid red;
+}
+// Footer

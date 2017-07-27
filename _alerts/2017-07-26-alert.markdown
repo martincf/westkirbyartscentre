@@ -1,0 +1,7 @@
+---
+layout: page
+title:  "Test Alert"
+permalink: /alerts
+published: true
+---
+This is a test ALERT.

@@ -1,5 +1,5 @@
 ---
-layout: detail
+layout: eventdetail
 title:  "Event test 4"
 price: 10.00
 type: music
