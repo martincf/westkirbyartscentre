@@ -1,25 +1,25 @@
 {% include header.html %}
 
-<h1>Next events</h1>
-
+<section class="eventslist--wrap">
+<h1 class="eventslist--title">Next events</h1>
 {% include eventslist.html %}
-
 <p><a href="#">All events</a></p>
+</section>
 
-
-<h1>Classes at The Arts Centre</h1>
-<p>The Arts Centre is home to a variety of classes taking place throughout the week. From yoga to arts classes, join in one of the many on offer. </p>
-<h2>Highlight class</h2>
-<ul>
-<!-- Get classes from the classes data file and sort them alphabetically (by the class name) -->
-{% assign highlightClass = site.data.classes | limit:1 %}
-{% for class in highlightClass %}
-  <li>
-      <strong>{{ class.name }}</strong><br />
-      {{ class.time }}, {{ class.day }} <br />
-      <p>{{ class.desc }}</p>
-  </li>
-{% endfor %}
-</ul>
-
+<section class="classes-home">
+  <h1>Classes at The Arts Centre</h1>
+  <p>The Arts Centre is home to a variety of classes taking place throughout the week. From yoga to arts classes, join in one of the many on offer. </p>
+  <h2>Highlight class</h2>
+  <ul>
+  <!-- Get classes from the classes data file and sort them alphabetically (by the class name) -->
+  {% assign highlightClass = site.data.classes | limit:1 %}
+  {% for class in highlightClass %}
+    <li>
+        <strong>{{ class.name }}</strong><br />
+        {{ class.time }}, {{ class.day }} <br />
+        <p>{{ class.desc }}</p>
+    </li>
+  {% endfor %}
+  </ul>
+</section>
 {% include footer.html %}

@@ -31,18 +31,79 @@ a:link, a:visited, a:hover, a:active {
     margin: $size-large auto;
   }
 }
-// Visit section
+// Visit footer fection
 .visit {
-  margin: $size-super 0;
+  margin: $size-super 0 0;
   display: flex;
+  padding: $size-med;
+  background-color: #eee;
 }
 .visit-address {
   width: 50%;
+  padding: 0 $size-med;
+  box-sizing: padding-box;
 }
 .visit-map {
   width: 50%;
   min-height: 500px;
   border: 0;
+  padding: 0 $size-med;
+  box-sizing: padding-box;
+}
+
+// Footer-site
+.footer-site {
+  background-color: #ccc;
+  padding: $size-large;
+}
+
+// Content
+.content {
+  margin: $size-med auto;
+  width: 70%;
+  @include mq(medium) {
+
+  }
+  @include mq(small-smartphone) {
+
+  }
+
+  h1 {
+    margin: $size-large 0;
+    font-size: $font-super;
+  }
+
+}
+// Event list
+.eventslist--wrap {
+  margin: $size-med auto;
+  width: 90%;
+}
+.eventslist--title {
+  text-align: center;
+}
+.eventlist {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -moz-flex;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.eventlist-item {
+  width: 47.5%;
+  box-sizing: border-box;
+  padding: $size-large;
+  background-color: #eee;
+  margin: $size-med 0;
+  &:nth-of-type(odd) {
+    margin-right: 2.5%;
+  }
+  &:nth-of-type(even) {
+    margin-left: 2.5%;
+  }
 }
 // Event detail page
 .event-book {
