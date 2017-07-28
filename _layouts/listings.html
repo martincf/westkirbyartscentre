@@ -1,11 +1,13 @@
 {% include header.html %}
-
-{{ content }}
 {% if page.title == 'Events' %}
+{{ content }}
   {% include eventslist.html %}
 {% endif %}
 {% if page.title == 'Classes' %}
+<main class="content">
+  {{ content }}
   {% include classeslist.html %}
-{% endif %}
+</main>
 
+{% endif %}
 {% include footer.html %}
