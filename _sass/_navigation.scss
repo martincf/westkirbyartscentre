@@ -1,12 +1,16 @@
 .site-nav {
   background-color: $black;
   padding: $size-med;
-
+  font-family: $font-display;
+  text-transform: uppercase;
 }
 .site-nav-wrap {
   display: flex;
 }
 .site-nav-item {
+  font-size: $font-large;
   margin-right: $size-small;
-
+  a:link, a:visited, a:hover, a:active {
+    color: white;
+  }
 }
