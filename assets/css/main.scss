@@ -54,7 +54,7 @@ a:link, a:visited, a:hover, a:active {
     color: white;
     word-spacing: -15%;
     background-color: transparentize($purple, 0.05);
-    padding: $size-med;
+    padding: $size-med $size-large;
     display: inline-block;
   }
 }
@@ -113,6 +113,12 @@ a:link, a:visited, a:hover, a:active {
 }
 .eventslist--title {
   text-align: center;
+  margin: $size-super 0 $size-large;
+  font-family: $font-display;
+  text-transform: uppercase;
+  font-size: $font-large;
+  color: $black;
+  font-weight: 300;
 }
 .eventlist {
   display: -webkit-box;
@@ -135,6 +141,15 @@ a:link, a:visited, a:hover, a:active {
   }
   &:nth-of-type(even) {
     margin-left: 2.5%;
+  }
+  &:nth-of-type(1n+0) {
+    background-color: $pink;
+  }
+  &:nth-of-type(2n+0) {
+    background-color: $darkblue;
+  }
+  &:nth-of-type(3n+0) {
+    background-color: $yellow;
   }
 }
 .eventlist-item-link--title {
