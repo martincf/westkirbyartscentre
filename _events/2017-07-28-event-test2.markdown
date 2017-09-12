@@ -1,9 +1,0 @@
----
-layout: eventdetail
-title:  "Event test 2"
-price: 10.00
-type: music
-image:
-permalink: /events/my-test-event2
----
-This is a test event in the _events folder in Jekyll.

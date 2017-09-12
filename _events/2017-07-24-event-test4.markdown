@@ -2,7 +2,7 @@
 layout: eventdetail
 title:  "Event test 4"
 price: 10.00
-type: music
+type: Folk music
 image:
 permalink: /events/my-test-event4
 ---

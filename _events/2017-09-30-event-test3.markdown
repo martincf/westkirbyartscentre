@@ -1,0 +1,10 @@
+---
+layout: eventdetail
+title:  "Josh Harty"
+price: 10.00
+time: 7pm-10pm
+type: Country, blues, and folk music
+image: joshharty
+permalink: /events/my-test-event3
+---
+Harty presents a unique blend of American music, a must-hear for those who keep the tradition of country, blues and folk close to their hearts.

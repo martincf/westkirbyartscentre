@@ -1,9 +1,10 @@
 ---
 layout: eventdetail
-title:  "Event test 5"
+title:  "Henry Priestman"
 price: 10.00
-type: music
-image:
+time: 7pm-10pm
+type: Jazz music
+image: henrypriestman
 permalink: /events/my-test-event5
 ---
 This is a test event in the _events folder in Jekyll.

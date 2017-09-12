@@ -21,10 +21,9 @@ a:link, a:visited, a:hover, a:active {
 }
 
 .header-section {
-  display: block;
-  width: 5em;
-  padding: $size-med;
-  background-color: $black;
+  display: inline-block;
+  padding: $size-small $size-med;
+  background-color: $green;
   color: white;
   text-align: center;
   font-family: $font-display;
@@ -33,7 +32,8 @@ a:link, a:visited, a:hover, a:active {
   position: absolute;
   top: -25px;
   left: 50%;
-  margin-left: -2.5em;
+  transform: translateX(-50%);
+  white-space: nowrap;
 }
 
 // Home
@@ -75,13 +75,33 @@ a:link, a:visited, a:hover, a:active {
   }
 }
 .classes-home {
-  margin: $size-med auto;
-  width: 70%;
-
+  margin: 0;
+  // width: 70%;
+  position: relative;
+  padding: ($size-super * 2);
+  background-color: $darkblue;
+  color: white;
+  font-size: $font-large;
+}
+.classes-home--title {
+  margin: $size-med 0 0;
+  font-size: $font-large;
+  background-color: $pink;
+  display: inline-block;
+  padding: $size-small;
+}
+.classes-home--highlight {
+  background-color: darken($purple, 10%);
+  padding: $size-med;
+}
+.classes-home--classname {
+  font-family: $font-display;
+  font-weight: 200;
+  font-size: $font-super;
 }
 // Visit footer fection
 .visit-wrap {
-  margin-top: $size-super;
+  margin-top: 0;
   background-color: $yellow;
   position: relative;
   padding-top: $size-med;
@@ -92,17 +112,28 @@ a:link, a:visited, a:hover, a:active {
   padding: $size-large;
 }
 .visit-address {
-  width: 50%;
+  width: 45%;
   padding: 0 $size-med;
   box-sizing: padding-box;
+  margin-left: 5%;
+  font-size: $font-large;
+  font-weight: 200;
 }
 .visit-map {
-  width: 50%;
+  width: 45%;
   min-height: 500px;
   border: 0;
   padding: 0;
   box-sizing: padding-box;
   border: $size-small solid white;
+}
+.visit-address--title {
+  font-size: $font-large;
+  color: $purple;
+}
+.visit-address--address {
+  font-style: normal;
+  margin: $size-med 0;
 }
 
 // Footer-site
@@ -142,6 +173,10 @@ a:link, a:visited, a:hover, a:active {
   color: $black;
   font-weight: 300;
 }
+.eventslist--all {
+  text-align: center;
+  margin: $size-large 0;
+}
 .eventlist {
   display: -webkit-box;
   display: -moz-box;
@@ -155,9 +190,13 @@ a:link, a:visited, a:hover, a:active {
 .eventlist-item {
   width: 47.5%;
   box-sizing: border-box;
-  padding: $size-large;
-  background-color: #eee;
+  padding: $size-super 0;
+  min-height: 400px;
   margin: $size-med 0;
+  background: $purple url() 0 0 no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
   &:nth-of-type(odd) {
     margin-right: 2.5%;
   }
@@ -174,10 +213,31 @@ a:link, a:visited, a:hover, a:active {
     background-color: $yellow;
   }
 }
+.eventlist-item-link {
+  display: block;
+  margin: $size-super 0 0;
+  padding: $size-med;
+  background-color: transparentize($black, 0.05);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  min-height: 150px;
+  box-sizing: border-box;
+}
 .eventlist-item-link--title {
-  font-size: $size-large;
+  font-size: $size-med;
   font-family: $font-display;
-  font-weight: 200;
+  font-weight: 300;
+  color: $yellow;
+}
+.eventlist-item-link--data {
+  color: $pink;
+  font-size: $font-large;
+  font-family: $font-display;
+  font-weight: 300;
+}
+.eventlist-item-link--excerpt {
+  color: white;
 }
 // Event detail page
 .event-book {
