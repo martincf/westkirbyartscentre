@@ -46,11 +46,21 @@
         </div>
       </div>
     {% else %}
-    <h1>
+    <div class="siteheader">
+      <h2 class="siteheader-title">
+        {% if page.layout == 'eventdetail' %}
+          {{ page.section_title }}
+        {% else %}
+        {{ page.title }}
+        {% endif %}
+      </h2>
+      <h1 class="logo">
       <a href="/">
-        <img src="{{ baseurl }}/assets/images/logo.png" alt="The Arts Centre West Kirby" />
+        <img src="{{ baseurl }}/assets/images/logo-artscentre-inverted.png" alt="The Arts Centre West Kirby" />
       </a>
     </h1>
+
+  </div>
     {% endif %}
 
   </header>

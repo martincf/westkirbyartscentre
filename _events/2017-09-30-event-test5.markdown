@@ -1,6 +1,7 @@
 ---
 layout: eventdetail
 title:  "Henry Priestman"
+section_title: Music event
 price: 10.00
 time: 7pm-10pm
 type: Jazz music

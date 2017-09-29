@@ -1,6 +1,7 @@
 ---
 layout: eventdetail
 title:  "Josh Harty"
+section_title: Music event
 price: 10.00
 time: 7pm-10pm
 type: Country, blues, and folk music

@@ -1,6 +1,7 @@
 ---
 layout: eventdetail
 title:  "Gregson & Simcock"
+section_title: Music event
 price: 12.00
 time: "7pm-10pm"
 type: Folk music

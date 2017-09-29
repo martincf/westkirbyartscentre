@@ -1,6 +1,7 @@
 ---
 layout: eventdetail
 title:  "Event test 4"
+section_title: Music event
 price: 10.00
 type: Folk music
 image:

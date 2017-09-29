@@ -37,7 +37,7 @@ a:link, a:visited, a:hover, a:active {
 }
 
 // Home
-.logo {
+  .logo {
   padding: $size-med;
   text-align: center;
   img {
@@ -79,16 +79,21 @@ a:link, a:visited, a:hover, a:active {
   // width: 70%;
   position: relative;
   padding: ($size-super * 2);
-  background-color: $darkblue;
+  background-color: darken($purple, 20%);
   color: white;
   font-size: $font-large;
 }
 .classes-home--title {
-  margin: $size-med 0 0;
+  margin: $size-large 0 0;
   font-size: $font-large;
   background-color: $pink;
   display: inline-block;
   padding: $size-small;
+}
+.classes-home--intro {
+  margin: $size-large 0;
+  font-size: $font-super;
+  font-weight: 200;
 }
 .classes-home--highlight {
   background-color: darken($purple, 10%);
@@ -98,6 +103,30 @@ a:link, a:visited, a:hover, a:active {
   font-family: $font-display;
   font-weight: 200;
   font-size: $font-super;
+}
+// Sitewide header (not home)
+.siteheader {
+  // background-color: lighten($black,75 %);
+}
+.siteheader .logo {
+  text-align: left;
+  img {
+    max-width: 250px;
+    margin-left: 0;
+    margin-top: -40px;
+  //   position: fixed;
+  //   z-index: 1001;
+  //   right: 25px;
+  //   top: 15px;
+      }
+}
+.siteheader-title {
+  float: right;
+  font-size: $font-super;
+  font-family: $font-display;
+  text-transform: uppercase;
+  margin: $size-small $size-med;
+  color: $pink ;
 }
 // Visit footer fection
 .visit-wrap {
