@@ -49,28 +49,30 @@ a:link, a:visited, a:hover, a:active {
 }
 .mission {
   min-height: 600px;
-  padding: 0 $size-med;
+  padding: 0;
   background: $purple url(/assets/images/example3.jpg) 0 0 no-repeat;
   background-size: cover;
   background-position: 0 -100px;
   position: relative;
-
+  width: 100%;
+  box-sizing: border-box;
 }
 .mission-statement {
   text-align: center;
-  font-size: 80px;
   position: absolute;
   bottom: 0;
   text-align: center;
   width: 100%;
   left: 0;
+  background-color: transparentize($purple, 0.5);
+
   h2 {
     text-transform: uppercase;
     font-family: $font-display;
-    font-weight: 200;
+    font-weight: 400;
+    font-size: $font-super;
     color: white;
     word-spacing: -15%;
-    background-color: transparentize($purple, 0.5);
     padding: $size-med $size-large;
     display: inline-block;
   }
@@ -199,8 +201,8 @@ a:link, a:visited, a:hover, a:active {
   margin: $size-super 0 $size-large;
   font-family: $font-display;
   text-transform: uppercase;
-  font-size: $font-large;
-  color: $black;
+  font-size: $font-super;
+  color: $yellow;
   font-weight: 300;
 }
 .eventslist--all {
@@ -216,6 +218,7 @@ a:link, a:visited, a:hover, a:active {
   display: flex;
   -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
+  margin: 0 auto;
 }
 .eventlist-item {
   width: 47.5%;
@@ -228,20 +231,20 @@ a:link, a:visited, a:hover, a:active {
   background-position: center;
   position: relative;
   &:nth-of-type(odd) {
-    margin-right: 2.5%;
+    margin-right: 5%;
   }
-  &:nth-of-type(even) {
-    margin-left: 2.5%;
-  }
-  &:nth-of-type(1n+0) {
-    background-color: $pink;
-  }
-  &:nth-of-type(2n+0) {
-    background-color: $darkblue;
-  }
-  &:nth-of-type(3n+0) {
-    background-color: $yellow;
-  }
+  // &:nth-of-type(even) {
+  //   margin-left: 2.5%;
+  // }
+  // &:nth-of-type(1n+0) {
+  //   background-color: $pink;
+  // }
+  // &:nth-of-type(2n+0) {
+  //   background-color: $darkblue;
+  // }
+  // &:nth-of-type(3n+0) {
+  //   background-color: $yellow;
+  // }
 }
 .eventlist-item-link {
   display: block;
@@ -261,7 +264,7 @@ a:link, a:visited, a:hover, a:active {
   color: $yellow;
 }
 .eventlist-item-link--data {
-  color: $pink;
+  color: lighten($purple,50%);
   font-size: $font-large;
   font-family: $font-display;
   font-weight: 300;

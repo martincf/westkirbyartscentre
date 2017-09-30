@@ -1,7 +1,9 @@
 {% include header.html %}
 {% if page.title == 'Events' %}
 {{ content }}
+<section class="eventslist--wrap">
   {% include eventslist.html %}
+</section>
 {% endif %}
 {% if page.title == 'Classes' %}
 <main class="content">
