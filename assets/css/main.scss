@@ -58,18 +58,19 @@ a:link, a:visited, a:hover, a:active {
 }
 .mission-statement {
   text-align: center;
-  font-size: 48px;
+  font-size: 80px;
   position: absolute;
-  bottom: -25px;
+  bottom: 0;
   text-align: center;
   width: 100%;
+  left: 0;
   h2 {
     text-transform: uppercase;
     font-family: $font-display;
     font-weight: 200;
     color: white;
     word-spacing: -15%;
-    background-color: transparentize($purple, 0.05);
+    background-color: transparentize($purple, 0.5);
     padding: $size-med $size-large;
     display: inline-block;
   }
@@ -106,14 +107,14 @@ a:link, a:visited, a:hover, a:active {
 }
 // Sitewide header (not home)
 .siteheader {
-  // background-color: lighten($black,75 %);
+  background-color: darken($purple,18%);
 }
 .siteheader .logo {
   text-align: left;
   img {
-    max-width: 250px;
+    max-width: 300px;
     margin-left: 0;
-    margin-top: -40px;
+    margin-top: -35px;
   //   position: fixed;
   //   z-index: 1001;
   //   right: 25px;
@@ -122,11 +123,11 @@ a:link, a:visited, a:hover, a:active {
 }
 .siteheader-title {
   float: right;
-  font-size: $font-super;
+  font-size: calc(3 * 24px);
   font-family: $font-display;
   text-transform: uppercase;
-  margin: $size-small $size-med;
-  color: $pink ;
+  margin: $size-small $size-super 0 0;
+  color: white;
 }
 // Visit footer fection
 .visit-wrap {

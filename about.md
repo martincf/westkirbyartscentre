@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the text for the About page.
+West Kirby Arts Centre is an independently run venue in West Kirby, Wirral, aiming to encourage creativity and provide greater access to the Arts!
