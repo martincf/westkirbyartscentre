@@ -1,66 +1,63 @@
-{% include header.html %}
-<main class="content">
-<h1>{{ page.title }}</h1>
-<p>&pound;{{ page.price }}
-  Number of tickets: <input type="number" id="ticketNo" value="1" />
+<div class="event--wrap" style="background-image: url({{ baseurl }}/assets/images/events/{{ page.image }}.jpg);">
+  {% include header.html %}
+  <main class="content event--content">
+    <!-- <h1 class="event--title">{{ page.title }}</h1> -->
 
-</p>
-<div id="paypal-button"></div>
-<script>
-    paypal.Button.render({
-        env: 'sandbox', // Or 'production'
-        client: {
-            sandbox:    'AVosSv7HYDbBVhFmwXqq0XVzaAmjhLArJNVU70PuF9GuogeIte44yuIZYfCoWEYd250Bo30aYcJaUtLi',
-            production: 'xxxxxxxxx'
-        },
+  <p>&pound;{{ page.price }}
+    Number of tickets: <input type="number" id="ticketNo" value="1" />
+  </p>
+  <div id="paypal-button"></div>
+  <script>
+      paypal.Button.render({
+          env: 'sandbox', // Or 'production'
+          client: {
+              sandbox:    'AVosSv7HYDbBVhFmwXqq0XVzaAmjhLArJNVU70PuF9GuogeIte44yuIZYfCoWEYd250Bo30aYcJaUtLi',
+              production: 'xxxxxxxxx'
+          },
+          style: {
+              size: 'responsive',
+              color: 'gold',
+              shape: 'rect',
+              label: 'pay',
+              // fundingicons: true
+          },
+          commit: true, // Show a 'Pay Now' button
+          payment: function(data, actions) {
+            // Get value of ticket number input, multiply by price and give the total to Paypal
+            ticketNos = document.getElementById("ticketNo").value;
+            price = {{ page.price }}
+            TicketTotal = price * ticketNos
+              return actions.payment.create({
+                  payment: {
+                      transactions: [
+                          {
+                              amount: { total: TicketTotal, currency: 'GBP' },
+                              description: 'The Art Centre West Kirby ticket(s) purchase',
+                              item_list:
+                                {
+                                  items: [
+                                    { name: '{{ page.title }} ticket(s)', currency: 'GBP', price: '{{ page.price }}', quantity: ticketNos }
+                                  ]
+                                }
+                          }
+                      ]
+                  }
+              });
+          },
 
-        style: {
-            size: 'responsive',
-            color: 'gold',
-            shape: 'rect',
-            label: 'pay',
-            // fundingicons: true
-        },
+          onAuthorize: function(data, actions) {
+              return actions.payment.execute().then(function(payment) {
 
-        commit: true, // Show a 'Pay Now' button
+                  // The payment is complete!
+                  // You can now show a confirmation message to the customer
+              });
+          }
 
-        payment: function(data, actions) {
-
-          // Get value of ticket number input, multiply by price and give the total to Paypal
-          ticketNos = document.getElementById("ticketNo").value;
-          price = {{ page.price }}
-          TicketTotal = price * ticketNos
-
-            return actions.payment.create({
-                payment: {
-                    transactions: [
-                        {
-                            amount: { total: TicketTotal, currency: 'GBP' },
-                            description: 'The Art Centre West Kirby ticket(s) purchase',
-                            item_list:
-                              {
-                                items: [
-                                  { name: '{{ page.title }} ticket(s)', currency: 'GBP', price: '{{ page.price }}', quantity: ticketNos }
-                                ]
-                              }
-                        }
-                    ]
-                }
-            });
-        },
-
-        onAuthorize: function(data, actions) {
-            return actions.payment.execute().then(function(payment) {
-
-                // The payment is complete!
-                // You can now show a confirmation message to the customer
-            });
-        }
-
-    }, '#paypal-button');
-</script>
+      }, '#paypal-button');
+  </script>
 
 
-{{ content }}
-</main>
+  {{ page.content }}
+  </main>
+</div>
 {% include footer.html %}

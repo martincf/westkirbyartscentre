@@ -1,6 +1,6 @@
 .site-nav {
-  background-color: darken($purple, 24%);
-  padding: $size-med;
+  background-color: transparentize($black, .1);
+  padding: $size-med 0;
   font-family: $font-display;
   text-transform: uppercase;
   // position: fixed;
@@ -9,6 +9,9 @@
 }
 .site-nav-wrap {
   display: flex;
+  width: 70%;
+  margin: 0 auto;
+  justify-content: center;
 }
 .site-nav-item {
   font-size: $font-large;
@@ -16,4 +19,13 @@
   a:link, a:visited, a:hover, a:active {
     color: white;
   }
+}
+.facebook {
+
+}
+.facebook--link {
+  display: inline-block;
+  width: 1.5em;
+  text-indent: -10000px;
+  background: transparent url(/assets/images/logo-fb.svg) 0 0 no-repeat;
 }

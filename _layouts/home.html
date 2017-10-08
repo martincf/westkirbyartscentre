@@ -1,7 +1,7 @@
 {% include header.html %}
 
 <section class="eventslist--wrap">
-<h1 class="eventslist--title">Upcoming events</h1>
+<h1 class="header-section">Upcoming events</h1>
 {% include eventslist.html %}
 <p class="eventslist--all">
   <a href="/eventslist">All events</a>
@@ -9,6 +9,7 @@
 </section>
 
 <section class="classes-home">
+  <div class="classes-home--contentwrap">
   <h1 class="header-section">Classes at The Arts Centre</h1>
   <p class="classes-home--intro">The Arts Centre is home to a variety of classes taking place throughout the week. From yoga to art classes, join in one of the many on offer. </p>
   <h2 class="classes-home--title">Highlight class</h2>
@@ -23,5 +24,6 @@
     </li>
   {% endfor %}
   </ul>
+</div>
 </section>
 {% include footer.html %}

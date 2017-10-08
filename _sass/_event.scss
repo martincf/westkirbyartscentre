@@ -1,0 +1,20 @@
+// Event detail page
+.event--wrap {
+  background: transparent url(/assets/images/example.jpg) 0 0 no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.event--wrap header {
+  margin-bottom: $size-super;
+}
+.event--title {
+  // color: white;
+  font-size: $size-super;
+}
+.event--content {
+  background-color: white;
+  padding: $size-med $size-med $size-super;
+  margin-top: 400px !important;
+}
+.event-book {
+}

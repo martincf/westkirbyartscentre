@@ -8,11 +8,14 @@
 @import "fonts";
 @import "colours";
 @import "navigation";
+@import "eventlist";
+@import "event";
 
 body {
   font-size: $font-med;
   font-family: $font-body;
   line-height: 1.35;
+
 }
 
 // +++ Temporary wireframe styles
@@ -23,8 +26,8 @@ a:link, a:visited, a:hover, a:active {
 .header-section {
   display: inline-block;
   padding: $size-small $size-med;
-  background-color: $green;
-  color: white;
+  background-color: white;
+  color: $pink;
   text-align: center;
   font-family: $font-display;
   text-transform: uppercase;
@@ -37,8 +40,12 @@ a:link, a:visited, a:hover, a:active {
 }
 
 // Home
-  .logo {
-  padding: $size-med;
+.home {
+  background-color: darken($purple, 25%);
+  background-color: $purple;
+}
+.logo {
+  padding: $size-med $size-super;
   text-align: center;
   img {
     max-width: 500px;
@@ -50,7 +57,7 @@ a:link, a:visited, a:hover, a:active {
 .mission {
   min-height: 600px;
   padding: 0;
-  background: $purple url(/assets/images/example3.jpg) 0 0 no-repeat;
+  background: white url(/assets/images/example3.jpg) 0 0 no-repeat;
   background-size: cover;
   background-position: 0 -100px;
   position: relative;
@@ -60,46 +67,55 @@ a:link, a:visited, a:hover, a:active {
 .mission-statement {
   text-align: center;
   position: absolute;
-  bottom: 0;
-  text-align: center;
-  width: 100%;
-  left: 0;
-  background-color: transparentize($purple, 0.5);
+  bottom: $size-super;
+  width: 70%;
+  left: 15%;
 
   h2 {
-    text-transform: uppercase;
+    // text-transform: uppercase;
+    margin: 0 auto;
     font-family: $font-display;
     font-weight: 400;
-    font-size: $font-super;
+    font-size: $size-large;
     color: white;
     word-spacing: -15%;
     padding: $size-med $size-large;
-    display: inline-block;
+    // display: inline-block;
+    border: $size-small solid white;
+    border-color: transparentize(white, 0.5);
+
   }
 }
 .classes-home {
   margin: 0;
   // width: 70%;
   position: relative;
-  padding: ($size-super * 2);
-  background-color: darken($purple, 20%);
+  background: white url(/assets/images/classes.jpg) top right no-repeat;
+  background-size: cover;
   color: white;
   font-size: $font-large;
+  padding: ($size-super * 2);
+
+}
+.classes-home--contentwrap {
+
 }
 .classes-home--title {
-  margin: $size-large 0 0;
+  margin: 0 0 $size-large;
   font-size: $font-large;
   background-color: $pink;
   display: inline-block;
   padding: $size-small;
 }
 .classes-home--intro {
-  margin: $size-large 0;
   font-size: $font-super;
   font-weight: 200;
+  padding: $size-super;
+  background-color: transparentize($darkblue, 0.05);
+
 }
 .classes-home--highlight {
-  background-color: darken($purple, 10%);
+  background-color: darken($yellow, 10%);
   padding: $size-med;
 }
 .classes-home--classname {
@@ -109,13 +125,13 @@ a:link, a:visited, a:hover, a:active {
 }
 // Sitewide header (not home)
 .siteheader {
-  background-color: darken($purple,18%);
+  // background-color: darken($purple,18%);
 }
 .siteheader .logo {
   text-align: left;
   img {
     max-width: 300px;
-    margin-left: 0;
+    margin-left: -80px;
     margin-top: -35px;
   //   position: fixed;
   //   z-index: 1001;
@@ -131,12 +147,13 @@ a:link, a:visited, a:hover, a:active {
   margin: $size-small $size-super 0 0;
   color: white;
 }
-// Visit footer fection
+// Visit footer section
 .visit-wrap {
   margin-top: 0;
-  background-color: $yellow;
+  background-color: $black;
   position: relative;
   padding-top: $size-med;
+  color: white;
 }
 .visit {
   margin: $size-super 0 0;
@@ -161,16 +178,26 @@ a:link, a:visited, a:hover, a:active {
 }
 .visit-address--title {
   font-size: $font-large;
-  color: $purple;
+  color: $yellow;
 }
 .visit-address--address {
   font-style: normal;
   margin: $size-med 0;
 }
 
+// Footer
+.footer-site {
+  background-color: darken($black, 5%);
+  color: white;
+}
+.footer-site-logo {
+  max-width: 200px;
+  vertical-align: middle;
+  float: right;
+}
+
 // Footer-site
 .footer-site {
-  background-color: #ccc;
   padding: $size-large;
 }
 
@@ -190,99 +217,4 @@ a:link, a:visited, a:hover, a:active {
     font-size: $font-super;
   }
 
-}
-// Event list
-.eventslist--wrap {
-  margin: $size-med auto;
-  width: 90%;
-}
-.eventslist--title {
-  text-align: center;
-  margin: $size-super 0 $size-large;
-  font-family: $font-display;
-  text-transform: uppercase;
-  font-size: $font-super;
-  color: $yellow;
-  font-weight: 300;
-}
-.eventslist--all {
-  text-align: center;
-  margin: $size-large 0;
-}
-.eventlist {
-  display: -webkit-box;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: -moz-flex;
-  display: -webkit-flex;
-  display: flex;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  margin: 0 auto;
-}
-.eventlist-item {
-  width: 47.5%;
-  box-sizing: border-box;
-  padding: $size-super 0;
-  min-height: 400px;
-  margin: $size-med 0;
-  background: $purple url() 0 0 no-repeat;
-  background-size: cover;
-  background-position: center;
-  position: relative;
-  &:nth-of-type(odd) {
-    margin-right: 5%;
-  }
-  // &:nth-of-type(even) {
-  //   margin-left: 2.5%;
-  // }
-  // &:nth-of-type(1n+0) {
-  //   background-color: $pink;
-  // }
-  // &:nth-of-type(2n+0) {
-  //   background-color: $darkblue;
-  // }
-  // &:nth-of-type(3n+0) {
-  //   background-color: $yellow;
-  // }
-}
-.eventlist-item-link {
-  display: block;
-  margin: $size-super 0 0;
-  padding: $size-med;
-  background-color: transparentize($black, 0.05);
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  min-height: 150px;
-  box-sizing: border-box;
-}
-.eventlist-item-link--title {
-  font-size: $size-med;
-  font-family: $font-display;
-  font-weight: 300;
-  color: $yellow;
-}
-.eventlist-item-link--data {
-  color: lighten($purple,50%);
-  font-size: $font-large;
-  font-family: $font-display;
-  font-weight: 300;
-}
-.eventlist-item-link--excerpt {
-  color: white;
-}
-// Event detail page
-.event-book {
-  border: 1px solid red;
-}
-// Footer
-.footer-site {
-  background-color: $black;
-  color: white;
-}
-.footer-site-logo {
-  max-width: 200px;
-  vertical-align: middle;
-  float: right;
 }
