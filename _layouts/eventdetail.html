@@ -2,11 +2,12 @@
   {% include header.html %}
   <main class="content event--content">
     <!-- <h1 class="event--title">{{ page.title }}</h1> -->
-
-  <p>&pound;{{ page.price }}
-    Number of tickets: <input type="number" id="ticketNo" value="1" />
+  <div class="event--pay">
+  <p class="event--price">&pound;{{ page.price }}</p>
+  <p class="event--tickets">
+    Number of tickets: <input type="number" id="ticketNo" value="1" class="event--ticketno" />
   </p>
-  <div id="paypal-button"></div>
+  <div id="paypal-button" class="event--paypal"></div>
   <script>
       paypal.Button.render({
           env: 'sandbox', // Or 'production'
@@ -16,7 +17,7 @@
           },
           style: {
               size: 'responsive',
-              color: 'gold',
+              color: 'blue',
               shape: 'rect',
               label: 'pay',
               // fundingicons: true
@@ -55,9 +56,15 @@
 
       }, '#paypal-button');
   </script>
-
-
-  {{ page.content }}
+</div>
+  <div class="event--data">
+      <!-- Get event date -->
+      <p class="event--date">{{ page.time }} – {{ page.date | date: '%d %b, %Y' }}</p>
+      <p class="event--genre">{{ page.type }}</p>
+  </div>
+  <article  markdown="1" class="event--details">
+    {{ page.content | markdownify }}
+  </article>
   </main>
 </div>
 {% include footer.html %}

@@ -4,7 +4,7 @@
 }
 .eventslist--wrap {
   margin: 0 auto;
-  width: 70%;
+  width: 80%;
   position: relative;
   padding: $size-super 0;
 }
@@ -70,13 +70,13 @@
   box-sizing: border-box;
 }
 .eventlist-item-link--title {
-  font-size: $size-med;
+  font-size: $size-large;
   font-family: $font-display;
-  font-weight: 300;
+  font-weight: 700;
   color: $yellow;
 }
 .eventlist-item-link--data {
-  color: lighten($yellow,20%);
+  color: lighten($pink,20%);
   font-size: $font-large;
   font-family: $font-display;
   font-weight: 300;

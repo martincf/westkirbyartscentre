@@ -1,8 +1,12 @@
 // Event detail page
+.eventdetail {
+  background-color: $purple;
+}
 .event--wrap {
   background: transparent url(/assets/images/example.jpg) 0 0 no-repeat;
   background-size: cover;
   background-position: center;
+  margin-bottom: 200px;
 }
 .event--wrap header {
   margin-bottom: $size-super;
@@ -14,7 +18,47 @@
 .event--content {
   background-color: white;
   padding: $size-med $size-med $size-super;
-  margin-top: 400px !important;
+  margin-top: 350px !important;
+  position: relative;
+  bottom: -50px;
 }
-.event-book {
+
+.event--pay {
+    width: 30%;
+    padding: $size-med;
+    float: right;
+    margin: -50px 0 $size-med $size-med;
+    background-color: $yellow;
+}
+.event--price {
+  font-size: $size-large;
+  font-weight: 700;
+  color: $purple;
+}
+.event--tickets {
+
+}
+.event--ticketno {
+  font-family: $font-body;
+  font-size: $size-med;
+  width: 3em;
+  padding-left: .25em;
+  border: none;
+}
+.event--paypal {
+  margin: $size-med 0;
+}
+.event--data {
+  margin: $size-med 0;
+  font-size: $size-med;
+}
+.event--details {
+  width: 60%;
+  p:nth-of-type(1) {
+    font-weight: 700;
+    font-size: $size-med;
+  }
+  p {
+    margin: 0 0 $size-med;
+  }
 }

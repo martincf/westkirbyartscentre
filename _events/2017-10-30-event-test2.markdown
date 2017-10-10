@@ -1,10 +1,15 @@
 ---
 layout: eventdetail
-title:  "Event test 2"
+title:  "Billy Kemp"
 section_title: Music event
-price: 10.00
-type: Punk rock music
-image: gregson
-permalink: /events/my-test-event2
+price: 10
+time: 7pm-9pm
+date: 2017-11-02
+type: Blues music
+image: billykemp
+permalink: /events/billy-kemp
 ---
-This is a test event in the _events folder in Jekyll. This is a test event in the _events folder in Jekyll. This is a test event in the _events folder in Jekyll.
+
+My name is Billy Kemp, and I’m a musician. I’ve been playing guitar for forty-five years and also play the banjo, bass, harmonica, piano and anything you can get a sound out of.
+
+I live in Nashville, Tennessee where I have hung my hat infrequently, since I spend so much of my time on the road. I average five or six tours annually, which take me all over the United States, Canada and the British Isles. I like hearing the ways people talk, especially their different accents. And then there are all of the stories.
