@@ -1,48 +1,82 @@
 // Event detail page
 .eventdetail {
-  background-color: $purple;
+  background-color: $black;
 }
 .event--wrap {
   background: transparent url(/assets/images/example.jpg) 0 0 no-repeat;
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
   margin-bottom: 200px;
 }
 .event--wrap header {
-  margin-bottom: $size-super;
+  margin-bottom: $size-special;
 }
 .event--title {
-  // color: white;
+  color: white;
   font-size: $size-super;
+  width: 70%;
+  margin: 0 auto;
+  span {
+    background-color: transparentize($black, 0.5);
+    display: inline-block;
+    padding: $size-small $size-med;
+    font-size: $size-super;
+    font-family: $font-display;
+    margin-left: -25px;
+  }
 }
 .event--content {
   background-color: white;
   padding: $size-med $size-med $size-super;
-  margin-top: 350px !important;
+  margin-top: 0 !important;
   position: relative;
   bottom: -50px;
 }
 
 .event--pay {
     width: 30%;
-    padding: $size-med;
+    padding: $size-large $size-med $size-small $size-med;
     float: right;
     margin: -50px 0 $size-med $size-med;
     background-color: $yellow;
+    position: relative;
+}
+.event--pay-title {
+  width: 40%;
+  margin: -75px 0 0 !important;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: $size-small;
+  background-color: $pink;
+  color: white;
+  font-size: $size-med !important;
+  text-align: center;
+  font-family: $font-display;
+  text-transform: uppercase;
+  position: absolute;
 }
 .event--price {
   font-size: $size-large;
   font-weight: 700;
   color: $purple;
+  width: 35%;
+  display: inline-block;
+  vertical-align: bottom;
 }
 .event--tickets {
-
+  background-color: transparentize(white, .5);
+  padding: $size-small;
+  box-sizing: border-box;
+  width: 60%;
+  display: inline-block;
 }
 .event--ticketno {
   font-family: $font-body;
   font-size: $size-med;
   width: 3em;
-  padding-left: .25em;
+  padding-left: .5em;
+  margin-left: 1em;
   border: none;
 }
 .event--paypal {
@@ -51,6 +85,12 @@
 .event--data {
   margin: $size-med 0;
   font-size: $size-med;
+}
+.event--genre {
+  color: lighten($purple, 25%);
+}
+.event--date {
+  font-weight: 700;
 }
 .event--details {
   width: 60%;

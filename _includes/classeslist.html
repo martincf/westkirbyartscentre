@@ -1,12 +1,9 @@
 <ul class="classlist">
-<!-- Get classes from the classes data file and sort them alphabetically (by the class name) -->
-{% assign sortedClasses = site.data.classes | sort: 'name' %}
-{% for class in sortedClasses %}
-  <li>
-      <strong>{{ class.name }}</strong><br />
-      {{ class.time }}, {{ class.day }} - &pound;{{ class.price }}<br />
-      <tel>{{ class.tel }}</tel> | Email: <a href="{{ class.email }}">{{ class.email }}</a><br />
-      <p>{{ class.desc }}</p>
-  </li>
-{% endfor %}
+  {% assign classes = site.data.classes %}
+  {% for class in classes %}
+    <h2 class="class--day">{{ class.day }}</h2>
+    {% include class.html %}
+
+  {% endfor %}
+
 </ul>

@@ -1,11 +1,13 @@
 <div class="event--wrap" style="background-image: url({{ baseurl }}/assets/images/events/{{ page.image }}.jpg);">
   {% include header.html %}
+
+  <h1 class="event--title"><span>{{ page.title }}</span></h1>
   <main class="content event--content">
-    <!-- <h1 class="event--title">{{ page.title }}</h1> -->
   <div class="event--pay">
+    <h1 class="event--pay-title">Book tickets</h1>
   <p class="event--price">&pound;{{ page.price }}</p>
   <p class="event--tickets">
-    Number of tickets: <input type="number" id="ticketNo" value="1" class="event--ticketno" />
+    Tickets: <input type="number" id="ticketNo" value="1" class="event--ticketno" />
   </p>
   <div id="paypal-button" class="event--paypal"></div>
   <script>

@@ -31,7 +31,7 @@
     {% endif %}
 
   </head>
-  <body class="{{ page.layout }}">
+  <body class="{{ page.layout }} {% if page.title == "Classes" %}classes-wrap{% endif %} {{ page.title }}">
   <header>
     {% include navigation.html %}
     {% if page.layout == 'home' %}
@@ -50,13 +50,12 @@
       </div>
     {% else %}
     <div class="siteheader">
-      <h2 class="siteheader-title">
+      <!-- <h2 class="siteheader-title">
         {% if page.layout == 'eventdetail' %}
-          {{ page.title }}
         {% else %}
         {{ page.title }}
         {% endif %}
-      </h2>
+      </h2> -->
       <h1 class="logo">
       <a href="/">
         <img src="{{ baseurl }}/assets/images/logo-artscentre.png" alt="The Arts Centre West Kirby" />

@@ -3,13 +3,19 @@
 <!-- <main class="content">
   {{ content }}
 </main> -->
+
+<h1 class="event--title"><span>{{ page.title }}</span></h1>
 <section class="eventslist--wrap">
   {% include eventslist.html %}
 </section>
 {% endif %}
 {% if page.title == 'Classes' %}
-<main class="content">
-  {{ content }}
+
+<h1 class="event--title"><span>{{ page.title }}</span></h1>
+<main class="content classes-content">
+  <div class="classes-intro">
+    {{ content }}
+  </div>
   {% include classeslist.html %}
 </main>
 

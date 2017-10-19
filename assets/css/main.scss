@@ -77,7 +77,7 @@ a:link, a:visited, a:hover, a:active {
 .mission {
   min-height: 600px;
   padding: 0;
-  background: white url(/assets/images/example.jpg) 0 0 no-repeat;
+  background: white url(/assets/images/example3.jpg) 0 0 no-repeat;
   background-size: cover;
   background-position: 0 -100px;
   position: relative;
@@ -117,7 +117,7 @@ a:link, a:visited, a:hover, a:active {
   color: white;
   font-size: $font-large;
   padding: ($size-super * 2);
-
+  // background-attachment: fixed;
 }
 .classes-home--contentwrap {
 
@@ -145,6 +145,58 @@ a:link, a:visited, a:hover, a:active {
   font-weight: 200;
   font-size: $font-super;
 }
+
+
+.classes-wrap {
+  background: transparent url(/assets/images/classes2.jpg) 0 0 no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.classes-content {
+  background-color: white;
+
+}
+.classes-intro {
+  font-size: $size-med;
+  font-weight: 700;
+  margin: 0 $size-super $size-large;
+  padding: $size-super 0 $size-med;
+  color: $purple;
+}
+.classlist {
+  margin: 0;
+}
+.class {
+  margin: 0;
+  padding: $size-med $size-super $size-med;
+
+  background-color: $yellow;
+  i {
+    font-style: normal;
+    color: darken($yellow, 15%);
+    margin: 0 .25em;
+  }
+}
+.class--day {
+  color: white;
+  background-color: $black;
+  font-family: $font-display;
+  padding: $size-small $size-super $size-small $size-super;
+  font-size: $size-med;
+  text-transform: uppercase;
+  font-weight: 300;
+  margin: 0;
+}
+.class--title {
+  font-size: $size-large;
+  color: $black;
+  font-family: $font-display;
+}
+.class--desc {
+  margin: $size-med 0 0;
+}
+
+
 // Sitewide header (not home)
 .siteheader {
   // background-color: darken($purple,18%);
@@ -222,11 +274,27 @@ a:link, a:visited, a:hover, a:active {
 .footer-site {
   padding: $size-large;
 }
+// Background images
+.About {
+  background: transparent url(/assets/images/classes3.jpg) 0 0 no-repeat;
+  background-size: contain;
+}
+.Hire {
+  background: transparent url(/assets/images/classes2.jpg) 0 0 no-repeat;
+  background-size: contain;
+}
+.Facilities {
+  background: transparent url(/assets/images/classes2.jpg) 0 0 no-repeat;
+  background-size: contain;
+}
 
 // Content
 .content {
   margin: $size-med auto;
   width: 70%;
+  // padding: $size-super;
+  box-sizing: border-box;
+  background-color: white;
   @include mq(medium) {
 
   }

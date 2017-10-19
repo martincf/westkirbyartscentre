@@ -2,8 +2,9 @@
 layout: eventdetail
 title:  "Henry Priestman"
 section_title: Music event
-price: 10.00
+price: 10
 time: 7pm-10pm
+date: 2017-10-30
 type: Jazz music
 image: henrypriestman
 permalink: /events/my-test-event5

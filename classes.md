@@ -4,6 +4,4 @@ title: Classes
 permalink: /classes
 ---
 
-# All classes
-
-This is the classes page.
+There's plenty of different types of classes available every week at the Arts Centre. Browse the list below and if you want to take part, get in touch with the class contact included in the listing.
