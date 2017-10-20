@@ -1,6 +1,7 @@
   <li class="class">
+    <div class="class--image" style="background-image: url({{ baseurl }}/assets/images/{{ class.image }}.jpg);"></div>
       <strong class="class--title">{{ class.name }}</strong><br />
-      {{ class.time }} – &pound;{{ class.price }}<br />
+      <span class="class--data">{{ class.time }} – &pound;{{ class.price }}</span><br />
       Telephone <tel>{{ class.tel }}</tel> <i>|</i> Email <a href="{{ class.email }}">{{ class.email }}</a><br />
       <p class="class--desc">{{ class.desc }}</p>
   </li>

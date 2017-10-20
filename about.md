@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+image: classes2
 permalink: /about/
 ---
 

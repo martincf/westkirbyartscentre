@@ -1,0 +1,119 @@
+// classes
+
+.classes-home {
+  margin: 0;
+  // width: 70%;
+  position: relative;
+  background: white url(/assets/images/classes.jpg) top right no-repeat;
+  background-size: cover;
+  color: white;
+  font-size: $font-large;
+  padding: ($size-super * 2);
+  // background-attachment: fixed;
+}
+.classes-home--contentwrap {
+
+}
+.classes-home--title {
+  margin: 0 0 $size-large;
+  font-size: $font-large;
+  background-color: $pink;
+  display: inline-block;
+  padding: $size-small;
+}
+.classes-home--intro {
+  font-size: $font-super;
+  font-weight: 200;
+  padding: $size-super;
+  background-color: transparentize($darkblue, 0.05);
+
+}
+.classes-home--highlight {
+  background-color: darken($yellow, 10%);
+  padding: $size-med;
+}
+.classes-home--classname {
+  font-family: $font-display;
+  font-weight: 200;
+  font-size: $font-super;
+}
+
+
+.classes-wrap {
+  background: transparent url(/assets/images/classes2.jpg) 0 0 no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.classes-content {
+  margin: $size-med auto $size-super;
+  width: 70%;
+  // padding: $size-super;
+  box-sizing: border-box;
+  background-color: white;
+}
+.classes-intro {
+  font-size: $size-med;
+  font-weight: 700;
+  margin: 0 $size-super $size-large;
+  padding: $size-super 0 $size-med;
+  color: $purple;
+}
+.classlist {
+  margin: 0;
+}
+.class {
+  margin: 0;
+  padding: $size-med $size-super $size-med;
+  background-color: $yellow;
+  padding-left: $size-special;
+  position: relative;
+  min-height: calc(0.85 * #{$size-special});
+  i {
+    font-style: normal;
+    color: darken($yellow, 15%);
+    margin: 0 .25em;
+  }
+  a {
+    &:link,&:visited {
+      color: $pink;
+    }
+    &:hover,&:active {
+      color: darken($pink, 20%);
+    }
+  }
+}
+.class--image {
+  position: absolute;
+  left: $size-med;
+  top: $size-med;
+  width: calc(2 * #{$size-super});
+  height: calc(2 * #{$size-super});
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border: 5px solid $yellow;
+  border-color: lighten($yellow, 30%)
+
+}
+.class--day {
+  color: white;
+  background-color: $black;
+  font-family: $font-display;
+  padding: $size-small $size-super $size-small $size-med;
+  font-size: $size-med;
+  text-transform: uppercase;
+  font-weight: 300;
+  margin: 0;
+}
+.class--title {
+  font-size: $size-large;
+  color: $black;
+  font-family: $font-display;
+}
+.class--data {
+  font-size: $size-med;
+  font-weight: 700;
+}
+.class--desc {
+  margin: $size-med 0 0;
+}

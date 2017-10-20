@@ -31,7 +31,13 @@
     {% endif %}
 
   </head>
-  <body class="{{ page.layout }} {% if page.title == "Classes" %}classes-wrap{% endif %} {{ page.title }}">
+  <body
+    class="{{ page.layout }} {% if page.title == "Classes" %}classes-wrap{% endif %} {{ page.title }}"
+    {% if page.layout == "eventdetail" %}
+      style="background-image: url({{ baseurl }}/assets/images/events/{{ page.image }}.jpg);">
+    {% else %}
+      style="background-image: url({{ baseurl }}/assets/images/{{ page.image }}.jpg);">
+    {% endif %}
   <header>
     {% include navigation.html %}
     {% if page.layout == 'home' %}

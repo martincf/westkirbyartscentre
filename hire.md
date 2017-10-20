@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Hire & resources
+title: Hire
+image: classes2
 permalink: /hire/
 ---
 
