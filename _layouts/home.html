@@ -12,10 +12,10 @@
   <div class="classes-home--contentwrap">
   <h1 class="header-section">Classes at The Arts Centre</h1>
   <p class="classes-home--intro">The Arts Centre is home to a variety of classes taking place throughout the week. From yoga to art classes, join in one of the many on offer. </p>
-  <h2 class="classes-home--title">Highlight class</h2>
-  <ul>
+  <!-- <h2 class="classes-home--title">Highlight class</h2>
+  <ul> -->
   <!-- Get classes from the classes data file and sort them alphabetically (by the class name) -->
-  {% assign highlightClass = site.data.classes %}
+  <!-- {% assign highlightClass = site.data.classes %}
   {% for class in highlightClass limit:1 %}
     <li class="classes-home--highlight">
         <strong class="classes-home--classname">{{ class.name }}</strong><br />
@@ -23,7 +23,10 @@
         <p>{{ class.desc }}</p>
     </li>
   {% endfor %}
-  </ul>
+  </ul> -->
+  <p class="eventslist--all">
+    <a href="/classes">All classes &gt;</a>
+  </p>
 </div>
 </section>
 {% include footer.html %}

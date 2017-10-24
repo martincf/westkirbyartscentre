@@ -2,6 +2,7 @@
 layout: eventdetail
 title:  "Gregson & Simcock"
 section_title: Music event
+bookable: yes
 price: 5
 time: 7pm-10pm
 date: 2017-10-30

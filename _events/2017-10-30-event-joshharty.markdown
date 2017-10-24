@@ -2,6 +2,7 @@
 layout: eventdetail
 title:  "Josh Harty"
 section_title: Music event
+bookable: yes
 price: 10
 time: 7pm-10pm
 date: 2017-10-30

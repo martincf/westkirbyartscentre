@@ -5,11 +5,19 @@
   <main class="content event--content">
   <div class="event--pay">
     <h1 class="event--pay-title">Book tickets</h1>
-  <p class="event--price">&pound;{{ page.price }}</p>
-  <p class="event--tickets">
-    Tickets: <input type="number" id="ticketNo" value="1" class="event--ticketno" />
-  </p>
-  <div id="paypal-button" class="event--paypal"></div>
+    {% if page.bookable == false %}
+
+      <p class="event--nobooking">Tickets must be booked via the organiser:</p>
+      <button class="event--organisertickets">
+        <a href="{{ page.organiser_url }}">Organiser website &gt;</a>
+      </button>
+    {% elsif page.bookable == true %}
+
+    <p class="event--price">&pound;{{ page.price }}</p>
+    <p class="event--tickets">
+      Tickets: <input type="number" id="ticketNo" value="1" class="event--ticketno" />
+    </p>
+    <div id="paypal-button" class="event--paypal"></div>
   <script>
       paypal.Button.render({
           env: 'sandbox', // Or 'production'
@@ -58,6 +66,7 @@
 
       }, '#paypal-button');
   </script>
+  {% endif %}
 </div>
   <div class="event--data">
       <!-- Get event date -->

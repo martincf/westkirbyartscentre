@@ -2,6 +2,7 @@
 layout: eventdetail
 title:  "Billy Kemp"
 section_title: Music event
+bookable: yes
 price: 10
 time: 7pm-9pm
 date: 2017-11-02

@@ -114,6 +114,30 @@
     position: absolute;
   }
 }
+.event--nobooking {
+  margin-top: $size-med;
+}
+.event--organisertickets {
+  width: 100%;
+  padding: 0;
+
+  a {
+    display: block;
+    margin: $size-med $size-small;
+    padding: $size-med;
+    border-radius: 5px;
+    background-color: $purple;
+    font-size: $size-med;
+    font-weight: 700;
+
+    &:link, &:visited {
+      color: white;
+    }
+    &:hover, &:active {
+      background-color: lighten($purple, 20%);
+    }
+  }
+}
 .event--details {
   width: 90%;
   margin: $size-large auto;
