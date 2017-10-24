@@ -2,18 +2,21 @@
 .listings {
   background-color: $purple;
 }
+.home-events .eventlist {
+  padding-top: $size-super;
+}
 .eventslist--wrap {
   margin: 0 auto;
   width: 80%;
   position: relative;
-  padding: 0;
+  padding: 0 0 $size-super;
 }
 .eventslist--title {
   text-align: center;
   margin: $size-super 0 $size-large;
   font-family: $font-display;
   text-transform: uppercase;
-  font-size: $font-super;
+  font-size: $font-large;
   color: $yellow;
   font-weight: 300;
 }
@@ -70,7 +73,7 @@
   box-sizing: border-box;
 }
 .eventlist-item-link--title {
-  font-size: $size-large;
+  font-size: calc(1.5 * #{$size-med});
   font-family: $font-display;
   font-weight: 700;
   color: $yellow;

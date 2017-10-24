@@ -61,7 +61,7 @@
 </div>
   <div class="event--data">
       <!-- Get event date -->
-      <p class="event--date">{{ page.time }} – {{ page.date | date: '%d %b, %Y' }}</p>
+      <p class="event--date">{{ page.date | date: '%A, %d %b %Y' }} – {{ page.time }} </p>
       <p class="event--genre">{{ page.type }}</p>
   </div>
   <article  markdown="1" class="event--details">

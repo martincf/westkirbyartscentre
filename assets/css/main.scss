@@ -109,7 +109,25 @@ a:link, a:visited, a:hover, a:active {
   }
 }
 
+.eventslist--all a {
 
+  display: block;
+  margin: $size-super auto $size-super;
+  width: $size-special;
+  padding: $size-small;
+  border: 5px solid white;
+  border-color: transparentize(white,0.25);
+  font-family: $font-display;
+  font-size: $size-large;
+  &:link, &:visited {
+    color: transparentize(white, 0.25);
+  }
+  &:hover, &:active {
+    color: white;
+    border-color: transparentize(white,0.75);
+
+  }
+}
 // Sitewide header (not home)
 .siteheader {
   // background-color: darken($purple,18%);

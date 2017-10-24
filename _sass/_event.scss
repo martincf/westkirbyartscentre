@@ -14,51 +14,53 @@
 }
 .event--title {
   color: white;
-  font-size: $size-super;
   width: 70%;
   margin: 0 auto;
   span {
     background-color: transparentize($black, 0.5);
     display: inline-block;
     padding: $size-small $size-med;
-    font-size: $size-super;
+    font-size: $size-large;
     font-family: $font-display;
     margin-left: -25px;
   }
 }
 .event--content {
   background-color: white;
-  padding: $size-med $size-med $size-super;
+  padding: 0 $size-med $size-super;
   margin-top: 0 !important;
   position: relative;
   bottom: -50px;
+  padding-top: 0;
 }
 
 .event--pay {
     width: 30%;
-    padding: $size-large $size-med $size-small $size-med;
-    float: right;
-    margin: -50px 0 $size-med $size-med;
-    background-color: $yellow;
-    position: relative;
+    padding: $size-med $size-med 0 $size-med;
+    margin: -300px 0 $size-med $size-med;
+    background-color: transparentize($yellow, 0.05);
+    position: absolute;
+    right: $size-med;
+    top: calc(1.25 * #{$size-super});
 }
 .event--pay-title {
-  width: 40%;
-  margin: -75px 0 0 !important;
-  left: 50%;
-  transform: translateX(-50%);
-  padding: $size-small;
+  // width: 40%;
+  margin: -55px 0 $size-small !important;
+  // left: $size-small;
+  // transform: translateX(-50%);
+  padding: calc(0.5 * #{$size-small}) $size-small;
   background-color: $pink;
   color: white;
   font-size: $size-med !important;
   text-align: center;
   font-family: $font-display;
   text-transform: uppercase;
+  display: inline-block;
   position: absolute;
 }
 .event--price {
   font-size: $size-large;
-  font-weight: 700;
+  font-weight: 900;
   color: $purple;
   width: 35%;
   display: inline-block;
@@ -66,17 +68,20 @@
 }
 .event--tickets {
   background-color: transparentize(white, .5);
-  padding: $size-small;
+  padding: $size-small $size-small $size-small 0;
   box-sizing: border-box;
   width: 60%;
   display: inline-block;
+  float: right;
+  text-align: right;
 }
 .event--ticketno {
   font-family: $font-body;
   font-size: $size-med;
-  width: 3em;
+  width: 2.25em;
   padding-left: .5em;
-  margin-left: 1em;
+  margin-left: .5em;
+  text-align: center;
   border: none;
 }
 .event--paypal {
@@ -85,15 +90,33 @@
 .event--data {
   margin: $size-med 0;
   font-size: $size-med;
+  width: 90%;
+  margin: $size-small auto;
+
 }
 .event--genre {
   color: lighten($purple, 25%);
 }
 .event--date {
   font-weight: 700;
+  font-size: $size-med;
+  color: $pink;
+  position: relative;
+  &:before {
+    background: white url(/assets/images/calendar.svg) 0 0 no-repeat;
+    display: block;
+    content: "\00a0\00a0";
+    color: white;
+    width: 35px;
+    height: 35px;
+    left: -42px;
+    top: -2px;
+    position: absolute;
+  }
 }
 .event--details {
-  width: 60%;
+  width: 90%;
+  margin: $size-large auto;
   p:nth-of-type(1) {
     font-weight: 700;
     font-size: $size-med;
