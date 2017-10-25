@@ -17,6 +17,9 @@ body {
   font-family: $font-body;
   line-height: 1.35;
 }
+a {
+  transition: color 0.3s ease;
+}
 // parallax
 .parallax {
   perspective: 1px;
@@ -38,9 +41,7 @@ body {
   transform: translateZ(-1px);
 }
 
-// +++ Temporary wireframe styles
 a:link, a:visited, a:hover, a:active {
-  color: $blue;
 }
 
 .header-section {
@@ -57,6 +58,17 @@ a:link, a:visited, a:hover, a:active {
   left: 50%;
   transform: translateX(-50%);
   white-space: nowrap;
+  @include mq(small-smartphone) {
+    padding: $size-small;
+    font-size: $font-large;
+    max-width: 90%;
+    position: static;
+    transform: translateX(0);
+    left: 0;
+    margin: $size-med auto $size-small;
+    white-space: normal;
+    // display: block;
+  }
 }
 
 // Home
@@ -67,12 +79,26 @@ a:link, a:visited, a:hover, a:active {
 .logo {
   padding: $size-med $size-super;
   text-align: center;
+  @include mq(small-smartphone) {
+    padding: $size-med;
+    text-align: left;
+    background-color: $black;
+    margin-top: -100px;
+  }
   img {
     max-width: 500px;
     margin-top: -35px;
     margin-left: -75px;
+    @include mq(small-smartphone) {
+      position: relative;
+      z-index: 4;
+      max-width: 200px;
+      top: 20px;
+      margin-left: 0;
+    }
 
   }
+
 }
 .mission {
   min-height: 600px;
@@ -84,6 +110,13 @@ a:link, a:visited, a:hover, a:active {
   width: 100%;
   box-sizing: border-box;
   background-attachment: fixed;
+  @include mq(small-smartphone) {
+    min-height: 400px;
+    margin-top: 100px;
+    background-size: cover;
+    background-position: 50%;
+
+  }
 }
 .mission-statement {
   text-align: center;
@@ -91,9 +124,11 @@ a:link, a:visited, a:hover, a:active {
   bottom: $size-small;
   width: 70%;
   left: 15%;
-
+  @include mq(small-smartphone) {
+    width: 90%;
+    left: 5%;
+  }
   h2 {
-    // text-transform: uppercase;
     margin: 0 auto;
     font-family: $font-display;
     font-weight: 400;
@@ -101,11 +136,12 @@ a:link, a:visited, a:hover, a:active {
     color: white;
     word-spacing: -15%;
     padding: $size-med $size-large;
-    // display: inline-block;
-    // border: $size-small solid white;
-    // border-color: transparentize(white, 0.5);
     background-color: transparentize($black, 0.5);
+    @include mq(small-smartphone) {
+      font-size: $size-med;
+      padding: $size-small;
 
+    }
   }
 }
 
@@ -125,32 +161,46 @@ a:link, a:visited, a:hover, a:active {
   &:hover, &:active {
     color: white;
     border-color: transparentize(white,0.75);
-
   }
+  @include mq(small-smartphone) {
+    font-size: $size-med;
+    width: 60%;
+  }
+
 }
+.allclasses a {
+  background-color: transparentize($purple,0.8);
+}
+
+
 // Sitewide header (not home)
 .siteheader {
-  // background-color: darken($purple,18%);
+  @include mq(small-smartphone) {
+    margin-bottom: $size-med;
+  }
 }
 .siteheader .logo {
   text-align: left;
+  display: block;
+
   img {
     max-width: 300px;
     margin-left: -80px;
     margin-top: -35px;
-  //   position: fixed;
-  //   z-index: 1001;
-  //   right: 25px;
-  //   top: 15px;
-      }
+    @include mq(small-smartphone) {
+      max-width: 200px;
+      margin-left: 0;
+      margin-top: 75px;
+    }
+  }
 }
 .siteheader-title {
-  float: right;
-  font-size: calc(3 * 24px);
-  font-family: $font-display;
-  text-transform: uppercase;
-  margin: $size-small $size-super 0 0;
-  color: white;
+  // float: right;
+  // font-size: calc(3 * 24px);
+  // font-family: $font-display;
+  // text-transform: uppercase;
+  // margin: $size-small $size-super 0 0;
+  // color: white;
 }
 // Visit footer section
 .visit-wrap {
@@ -159,11 +209,23 @@ a:link, a:visited, a:hover, a:active {
   position: relative;
   padding-top: $size-med;
   color: white;
+  @include mq(small-smartphone) {
+    .header-section {
+      margin: 0 auto;
+      display: block;
+    }
+  }
+
 }
 .visit {
   margin: $size-super 0 0;
   display: flex;
   padding: $size-large;
+  @include mq(small-smartphone) {
+    margin-top: $size-small;
+    display: block;
+    padding: $size-small;
+  }
 }
 .visit-address {
   width: 45%;
@@ -172,6 +234,12 @@ a:link, a:visited, a:hover, a:active {
   margin-left: 5%;
   font-size: $font-large;
   font-weight: 200;
+  @include mq(small-smartphone) {
+    width: auto;
+    margin-left: 0;
+    font-size: $font-med;
+    margin-top: $size-med;
+  }
 }
 .visit-map {
   width: 45%;
@@ -180,6 +248,13 @@ a:link, a:visited, a:hover, a:active {
   padding: 0;
   box-sizing: padding-box;
   border: $size-small solid white;
+  @include mq(small-smartphone) {
+    width: 100%;
+    margin-left: 0;
+    font-size: $font-med;
+    min-height: 300px;
+    border: 0;
+  }
 }
 .visit-address--title {
   font-size: $font-large;
@@ -204,6 +279,17 @@ a:link, a:visited, a:hover, a:active {
 // Footer-site
 .footer-site {
   padding: $size-large;
+  @include mq(small-smartphone) {
+    padding: $size-med;
+    p {
+      text-align: center;
+    }
+    p img {
+      float: none;
+      display: block;
+      margin: $size-med auto;
+    }
+  }
 }
 // Background images
 .About {
@@ -230,6 +316,8 @@ a:link, a:visited, a:hover, a:active {
 
   }
   @include mq(small-smartphone) {
+    width: 96%;
+    padding: $size-med;
 
   }
 

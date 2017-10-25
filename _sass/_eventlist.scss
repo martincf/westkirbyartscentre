@@ -4,12 +4,20 @@
 }
 .home-events .eventlist {
   padding-top: $size-super;
+  @include mq(small-smartphone) {
+    padding-top: $size-med;
+  }
 }
 .eventslist--wrap {
   margin: 0 auto;
   width: 80%;
   position: relative;
   padding: 0 0 $size-super;
+  @include mq(small-smartphone) {
+    width: 100%;
+    padding: 0 $size-small;
+    box-sizing: border-box;
+  }
 }
 .eventslist--title {
   text-align: center;
@@ -34,7 +42,12 @@
   -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
   margin: 0 auto;
+  @include mq(small-smartphone) {
+    display: block;
+  }
+
 }
+
 .eventlist-item {
   width: 47.5%;
   box-sizing: border-box;
@@ -60,6 +73,12 @@
   // &:nth-of-type(3n+0) {
   //   background-color: $yellow;
   // }
+  @include mq(small-smartphone) {
+    width: 100%;
+    margin: $size-small 0;
+    min-height: 300px;
+  }
+
 }
 .eventlist-item-link {
   display: block;
@@ -71,18 +90,29 @@
   width: 100%;
   min-height: 150px;
   box-sizing: border-box;
+  @include mq(small-smartphone) {
+    min-height: 50px;
+  }
+
 }
 .eventlist-item-link--title {
   font-size: calc(1.5 * #{$size-med});
   font-family: $font-display;
   font-weight: 700;
   color: $yellow;
+  @include mq(small-smartphone) {
+    font-size: $size-med;
+  }
+
 }
 .eventlist-item-link--data {
   color: lighten($pink,20%);
   font-size: $font-large;
   font-family: $font-display;
   font-weight: 300;
+  @include mq(small-smartphone) {
+    font-size: calc(2 * #{$size-small});
+  }
 }
 .eventlist-item-link--excerpt {
   color: white;

@@ -16,6 +16,10 @@
   color: white;
   width: 70%;
   margin: 0 auto;
+  @include mq(small-smartphone) {
+    width: 96%;
+
+  }
   span {
     background-color: transparentize($black, 0.5);
     display: inline-block;
@@ -23,6 +27,11 @@
     font-size: $size-large;
     font-family: $font-display;
     margin-left: -25px;
+    @include mq(small-smartphone) {
+      font-size: $font-super;
+      padding: $size-small $size-small;
+      margin-left: 0;
+    }
   }
 }
 .event--content {
@@ -32,8 +41,14 @@
   position: relative;
   bottom: -50px;
   padding-top: 0;
-}
 
+}
+.eventdetail .content {
+  @include mq(small-smartphone) {
+    padding: 0 0 $size-med;
+    width: 96%;
+  }
+}
 .event--pay {
     width: 30%;
     padding: $size-med $size-med 0 $size-med;
@@ -42,12 +57,19 @@
     position: absolute;
     right: $size-med;
     top: calc(1.25 * #{$size-super});
+    @include mq(small-smartphone) {
+      width: auto;
+      padding: $size-small $size-small 1px;
+      margin: $size-med 0;
+      background-color: transparentize($yellow, 0.05);
+      position: static;
+      right: 0;
+      top: 0;
+
+    }
 }
 .event--pay-title {
-  // width: 40%;
   margin: -55px 0 $size-small !important;
-  // left: $size-small;
-  // transform: translateX(-50%);
   padding: calc(0.5 * #{$size-small}) $size-small;
   background-color: $pink;
   color: white;
@@ -57,6 +79,10 @@
   text-transform: uppercase;
   display: inline-block;
   position: absolute;
+  @include mq(small-smartphone) {
+    margin: 0 0 0;
+
+  }
 }
 .event--price {
   font-size: $size-large;
@@ -92,7 +118,10 @@
   font-size: $size-med;
   width: 90%;
   margin: $size-small auto;
-
+  @include mq(small-smartphone) {
+    margin: 0 auto;
+    font-size: $font-med;
+  }
 }
 .event--genre {
   color: lighten($purple, 25%);
@@ -102,6 +131,10 @@
   font-size: $size-med;
   color: $pink;
   position: relative;
+  @include mq(small-smartphone) {
+    margin: 0 0;
+    font-size: $font-med;
+  }
   &:before {
     background: white url(/assets/images/calendar.svg) 0 0 no-repeat;
     display: block;
@@ -112,6 +145,9 @@
     left: -42px;
     top: -2px;
     position: absolute;
+    @include mq(small-smartphone) {
+      content: none;
+    }
   }
 }
 .event--nobooking {
