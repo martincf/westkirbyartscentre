@@ -137,7 +137,7 @@ a:link, a:visited, a:hover, a:active {
     font-family: $font-display;
     font-weight: 400;
     font-size: $size-large;
-    color: white;
+    color: $yellow;
     word-spacing: -15%;
     padding: $size-med $size-large;
     background-color: transparentize($black, 0.5);
