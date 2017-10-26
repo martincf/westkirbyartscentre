@@ -33,6 +33,9 @@
       padding: 0 0 $size-med;
     }
   }
+  a:hover, a:active {
+    color: lighten($purple, 20%);
+  }
 }
 .facebook {
 
@@ -42,7 +45,12 @@
   width: 1.5em;
   text-indent: -10000px;
   background: transparent url($baseurl + "/assets/images/logo-fb.svg") 0 0 no-repeat;
+  @include transition();
+  &:hover {
+    transform: scale(1.1);
+  }
 }
+
 
 // Hamburger menu
 input#burger {

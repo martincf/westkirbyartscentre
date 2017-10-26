@@ -1,7 +1,7 @@
 ---
 title: main.scss
 ---
-$baseurl: "{{ site.baseurl }}";
+$baseurl: "{{ site.baseurl }}"; // To compile site.baseurl in bg images included in compiled scss files.
 
 /* Imports */
 @import "mixins";
@@ -329,4 +329,31 @@ a:link, a:visited, a:hover, a:active {
     font-size: $font-super;
   }
 
+    a:link, a:visited {
+      color: $pink;
+    }
+    ul {
+      margin: $size-med 0;
+      li {
+        margin: 0 1.5em 1em;
+        &:before {
+          content: "\2022";
+          float: left;
+          text-align: right;
+          margin: -5px 0 0 -2.5em;
+          width: 2em;
+          font-size: $font-large;
+          color: $pink;
+        }
+      }
+    }
+    h2 {
+      font-size: $font-large;
+      margin-bottom: $size-med;
+    }
+    h3 {
+    }
+    h4 {
+      color: darken($pink, 40%);
+    }
 }

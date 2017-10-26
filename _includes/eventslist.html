@@ -19,10 +19,12 @@
     {% if eventDateInt >= currentDateInt and eventDateInt <= futureDate %}
     <li class="eventlist-item" style="background-image: url({{ site.baseurl }}/assets/images/events/{{ event.image }}.jpg);">
         <a class="eventlist-item-link" href="{{ site.baseurl }}/{{ event.url }}">
-          <h1 class="eventlist-item-link--title">{{ event.title }}</h1>
-          <h2 class="eventlist-item-link--data">
-            {{ event.date | date: '%d %b, %Y' }} – {{ event.type }}
-          </h2>
+          <div class="eventlist-item-link--wrap">
+            <h1 class="eventlist-item-link--title">{{ event.title }}</h1>
+            <h2 class="eventlist-item-link--data">
+              {{ event.date | date: '%d %b, %Y' }} – {{ event.type }}
+            </h2>
+          </div>
         </a>
     </li>
       {% endif %}
