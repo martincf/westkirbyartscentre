@@ -41,7 +41,7 @@
   display: inline-block;
   width: 1.5em;
   text-indent: -10000px;
-  background: transparent url(/assets/images/logo-fb.svg) 0 0 no-repeat;
+  background: transparent url($baseurl + "/assets/images/logo-fb.svg") 0 0 no-repeat;
 }
 
 // Hamburger menu

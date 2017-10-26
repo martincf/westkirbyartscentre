@@ -8,7 +8,7 @@ time: 7pm-10pm
 date: 2017-10-30
 type: Country, blues, and folk music
 image: joshharty
-permalink: /joshharty
+permalink: event/joshharty
 ---
 
 Harty presents a unique blend of American music, a must-hear for those who keep the tradition of country, blues and folk close to their hearts.

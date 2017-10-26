@@ -1,6 +1,7 @@
 ---
-# main.scss
+title: main.scss
 ---
+$baseurl: "{{ site.baseurl }}";
 
 /* Imports */
 @import "mixins";
@@ -102,7 +103,7 @@ a:link, a:visited, a:hover, a:active {
 .mission {
   min-height: 600px;
   padding: 0;
-  background: white url(/assets/images/example3.jpg) 0 0 no-repeat;
+  background: white url({{ site.baseurl }}/assets/images/example3.jpg) 0 0 no-repeat;
   background-size: cover;
   background-position: 0 -100px;
   position: relative;
@@ -295,15 +296,15 @@ a:link, a:visited, a:hover, a:active {
 }
 // Background images
 .About {
-  background: transparent url(/assets/images/classes3.jpg) 0 0 no-repeat;
+  background: transparent url({{ site.baseurl }}/assets/images/classes3.jpg) 0 0 no-repeat;
   background-size: contain;
 }
 .Hire {
-  background: transparent url(/assets/images/classes2.jpg) 0 0 no-repeat;
+  background: transparent url({{ site.baseurl }}/assets/images/classes2.jpg) 0 0 no-repeat;
   background-size: contain;
 }
 .Facilities {
-  background: transparent url(/assets/images/classes2.jpg) 0 0 no-repeat;
+  background: transparent url({{ site.baseurl }}/assets/images/classes2.jpg) 0 0 no-repeat;
   background-size: contain;
 }
 

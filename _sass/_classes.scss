@@ -1,9 +1,8 @@
-// classes
 
 .classes-home {
   margin: 0;
   position: relative;
-  background: white url(/assets/images/classes.jpg) top right no-repeat;
+  background: white url($baseurl + "/assets/images/classes.jpg") top right no-repeat;
   background-size: cover;
   color: white;
   font-size: $font-large;
@@ -54,7 +53,7 @@
 
 
 .classes-wrap {
-  background: transparent url(/assets/images/classes2.jpg) 0 0 no-repeat;
+  background: transparent url($baseurl + "/assets/images/classes2.jpg") 0 0 no-repeat;
   background-size: cover;
   background-attachment: fixed;
 }

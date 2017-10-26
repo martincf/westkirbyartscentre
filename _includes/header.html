@@ -34,9 +34,9 @@
   <body
     class="{{ page.layout }} {% if page.title == "Classes" %}classes-wrap{% endif %} {{ page.title }}"
     {% if page.layout == "eventdetail" %}
-      style="background-image: url({{ baseurl }}/assets/images/events/{{ page.image }}.jpg);">
+      style="background-image: url({{ site.baseurl }}/assets/images/events/{{ page.image }}.jpg);">
     {% else %}
-      style="background-image: url({{ baseurl }}/assets/images/{{ page.image }}.jpg);">
+      style="background-image: url({{ site.baseurl }}/assets/images/{{ page.image }}.jpg);">
     {% endif %}
   <header>
     {% include navigation.html %}
@@ -44,7 +44,7 @@
       <div class="mission">
         <h1 class="logo">
           <a href="/">
-            <img src="{{ baseurl }}/assets/images/logo-artscentre.png" alt="The Arts Centre West Kirby" />
+            <img src="{{ site.baseurl }}/assets/images/logo-artscentre.png" alt="The Arts Centre West Kirby" />
           </a>
         </h1>
         <div class="mission-statement">
@@ -59,7 +59,7 @@
 
       <h1 class="logo">
       <a href="/">
-        <img src="{{ baseurl }}/assets/images/logo-artscentre.png" alt="The Arts Centre West Kirby" />
+        <img src="{{ site.baseurl }}/assets/images/logo-artscentre.png" alt="The Arts Centre West Kirby" />
       </a>
     </h1>
 

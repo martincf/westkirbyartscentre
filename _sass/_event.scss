@@ -1,7 +1,7 @@
 // Event detail page
 .eventdetail {
   background-color: $black;
-  background: transparent url(/assets/images/example.jpg) 0 0 no-repeat;
+  background: transparent url($baseurl + "/assets/images/example.jpg") 0 0 no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -156,7 +156,7 @@
     font-size: $font-med;
   }
   &:before {
-    background: white url(/assets/images/calendar.svg) 0 0 no-repeat;
+    background: white url($baseurl + "/assets/images/calendar.svg") 0 0 no-repeat;
     display: block;
     content: "\00a0\00a0";
     color: white;
