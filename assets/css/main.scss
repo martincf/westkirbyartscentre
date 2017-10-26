@@ -109,6 +109,10 @@ a:link, a:visited, a:hover, a:active {
   width: 100%;
   box-sizing: border-box;
   background-attachment: fixed;
+  @include mq(medium) {
+    min-height: 500px;
+  }
+
   @include mq(small-smartphone) {
     min-height: 400px;
     margin-top: 100px;
@@ -243,6 +247,9 @@ a:link, a:visited, a:hover, a:active {
   padding: 0;
   box-sizing: padding-box;
   border: $size-small solid white;
+  @include mq(medium) {
+    min-height: 300px;
+  }
   @include mq(small-smartphone) {
     width: 100%;
     margin-left: 0;

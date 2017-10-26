@@ -73,6 +73,9 @@
   // &:nth-of-type(3n+0) {
   //   background-color: $yellow;
   // }
+  @include mq(medium) {
+    min-height: 300px;
+  }
   @include mq(small-smartphone) {
     width: 100%;
     margin: $size-small 0;
@@ -90,6 +93,9 @@
   width: 100%;
   min-height: 150px;
   box-sizing: border-box;
+  @include mq(medium) {
+    min-height: 100px;
+  }
   @include mq(small-smartphone) {
     min-height: 50px;
   }
@@ -100,6 +106,9 @@
   font-family: $font-display;
   font-weight: 700;
   color: $yellow;
+  @include mq(medium) {
+    font-size: $font-large;
+  }
   @include mq(small-smartphone) {
     font-size: $size-med;
   }
@@ -110,6 +119,9 @@
   font-size: $font-large;
   font-family: $font-display;
   font-weight: 300;
+  @include mq(medium) {
+    font-size: $font-med;
+  }
   @include mq(small-smartphone) {
     font-size: calc(2 * #{$size-small});
   }

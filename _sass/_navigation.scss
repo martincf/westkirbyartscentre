@@ -20,9 +20,13 @@
 .site-nav-item {
   font-size: $font-large;
   margin-right: $size-med;
+  @include mq(medium) {
+    font-size: $font-med;
+  }
   @include mq(small-smartphone) {
     margin-right: 0;
   }
+
   a:link, a:visited, a:hover, a:active {
     color: white;
     @include mq(small-smartphone) {
