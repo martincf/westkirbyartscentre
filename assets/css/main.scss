@@ -91,7 +91,7 @@ a:link, a:visited, a:hover, a:active {
     margin-left: -75px;
     @include mq(small-smartphone) {
       position: relative;
-      z-index: 4;
+      z-index: 2;
       max-width: 200px;
       top: 20px;
       margin-left: 0;
