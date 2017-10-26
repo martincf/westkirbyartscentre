@@ -280,23 +280,25 @@ a:link, a:visited, a:hover, a:active {
   color: white;
 }
 .footer-site-logo {
-  max-width: 200px;
+  max-width: 175px;
   vertical-align: middle;
   float: right;
+  margin-top: -25px;
 }
 
 // Footer-site
 .footer-site {
   padding: $size-large;
   @include mq(small-smartphone) {
-    padding: $size-med;
+    padding: $size-large;
     p {
       text-align: center;
+      font-size: $font-small;
     }
     p img {
       float: none;
       display: block;
-      margin: $size-med auto;
+      margin: $size-small auto $size-med;
     }
   }
 }
