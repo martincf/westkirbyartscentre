@@ -89,7 +89,7 @@
     background-color: transparentize($black, 0.075);
   }
   &:hover .eventlist-item-link--title {
-    color: lighten($yellow, 15%);
+    color: lighten($purple, 55%);
   }
 }
 .eventlist-item-link {
@@ -128,7 +128,7 @@
   }
 }
 .eventlist-item-link--data {
-  color: lighten($pink,20%);
+  color: lighten(white,20%);
   font-size: $font-large;
   font-family: $font-display;
   font-weight: 300;

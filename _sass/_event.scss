@@ -132,6 +132,10 @@
 }
 .event--paypal {
   margin: $size-med 0;
+  @include transition();
+  &:hover {
+    transform: scale(1.05);
+  }
 }
 .event--data {
   margin: $size-med 0;
@@ -184,18 +188,19 @@
 
   a {
     display: block;
-    margin: $size-med $size-small;
-    padding: $size-med;
+    margin: $size-med 0;
+    padding: $size-small;
     border-radius: 5px;
     background-color: $purple;
     font-size: $size-med;
     font-weight: 700;
-
+    @include transition();
     &:link, &:visited {
       color: white !important;
     }
     &:hover, &:active {
       background-color: lighten($purple, 20%);
+      transform: scale(1.05);
     }
     @include mq(medium) {
       padding: $size-small;
