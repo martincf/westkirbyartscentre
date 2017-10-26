@@ -41,12 +41,12 @@
 }
 
 // Hamburger menu
+input#burger {
+  display: none;
+}
 
 body {
   @include mq(small-smartphone) {
-    input#burger {
-      display: none;
-    }
     input + label {
       position: fixed;
       top: 30px;

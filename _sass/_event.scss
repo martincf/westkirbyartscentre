@@ -26,7 +26,6 @@
     padding: $size-small $size-med;
     font-size: $size-large;
     font-family: $font-display;
-    margin-left: -25px;
     @include mq(small-smartphone) {
       font-size: $font-super;
       padding: $size-small $size-small;

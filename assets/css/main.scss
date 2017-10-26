@@ -62,12 +62,11 @@ a:link, a:visited, a:hover, a:active {
     padding: $size-small;
     font-size: $font-large;
     max-width: 90%;
-    position: static;
-    transform: translateX(0);
-    left: 0;
     margin: $size-med auto $size-small;
     white-space: normal;
-    // display: block;
+    display: inline-block;
+    position: relative;
+    margin: $size-med auto 0;
   }
 }
 
@@ -115,7 +114,7 @@ a:link, a:visited, a:hover, a:active {
     margin-top: 100px;
     background-size: cover;
     background-position: 50%;
-
+    margin-bottom: $size-large;
   }
 }
 .mission-statement {
@@ -194,14 +193,7 @@ a:link, a:visited, a:hover, a:active {
     }
   }
 }
-.siteheader-title {
-  // float: right;
-  // font-size: calc(3 * 24px);
-  // font-family: $font-display;
-  // text-transform: uppercase;
-  // margin: $size-small $size-super 0 0;
-  // color: white;
-}
+
 // Visit footer section
 .visit-wrap {
   margin-top: 0;
@@ -211,8 +203,11 @@ a:link, a:visited, a:hover, a:active {
   color: white;
   @include mq(small-smartphone) {
     .header-section {
-      margin: 0 auto;
-      display: block;
+      display: inline-block;
+      position: relative;
+      left: 50%;
+      transform: translateX(-50%);
+      margin: $size-med auto 0;
     }
   }
 
