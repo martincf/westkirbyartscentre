@@ -20,10 +20,10 @@
 .site-nav-item {
   font-size: $font-large;
   margin-right: $size-med;
-  @include mq(medium) {
+  @include mq(smartphone and medium) {
     font-size: $font-med;
   }
-  @include mq(small-smartphone) {
+  @include mq(small-smartphone and smartphone) {
     margin-right: 0;
   }
 
