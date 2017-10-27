@@ -12,10 +12,14 @@
   width: 70%;
   margin: 0 auto;
   justify-content: center;
+  @include mq(lower-medium) {
+    width: 96%;
+  }
   @include mq(small-smartphone) {
     display: block;
     width: auto;
   }
+
 }
 .site-nav-item {
   font-size: $font-large;
@@ -25,6 +29,9 @@
   }
   @include mq(small-smartphone and smartphone) {
     margin-right: 0;
+  }
+  @include mq(lower-medium) {
+    margin-right: $size-small;
   }
 
   a:link, a:visited, a:hover, a:active {

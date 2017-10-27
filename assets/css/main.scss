@@ -96,6 +96,9 @@ a:link, a:visited, a:hover, a:active {
       top: 20px;
       margin-left: 0;
     }
+    @include mq(lower-medium) {
+      max-width: 300px;
+    }
 
   }
 
@@ -114,12 +117,15 @@ a:link, a:visited, a:hover, a:active {
     min-height: 500px;
   }
 
-  @include mq(small-smartphone) {
+  @include mq(small-smartphone and lower-medium) {
     min-height: 400px;
     margin-top: 100px;
     background-size: cover;
     background-position: 50%;
     margin-bottom: $size-large;
+  }
+  @include mq(lower-medium) {
+    margin-top: 0;
   }
 }
 .mission-statement {
@@ -141,7 +147,7 @@ a:link, a:visited, a:hover, a:active {
     word-spacing: -15%;
     padding: $size-med $size-large;
     background-color: transparentize($black, 0.5);
-    @include mq(small-smartphone) {
+    @include mq(small-smartphone and lower-medium) {
       font-size: $size-med;
       padding: $size-small;
 
@@ -227,7 +233,7 @@ a:link, a:visited, a:hover, a:active {
   margin: $size-super 0 0;
   display: flex;
   padding: $size-large;
-  @include mq(small-smartphone) {
+  @include mq(small-smartphone and lower-medium) {
     margin-top: $size-small;
     display: block;
     padding: $size-small;
@@ -240,7 +246,7 @@ a:link, a:visited, a:hover, a:active {
   margin-left: 5%;
   font-size: $font-large;
   font-weight: 200;
-  @include mq(small-smartphone) {
+  @include mq(small-smartphone and lower-medium) {
     width: auto;
     margin-left: 0;
     font-size: $font-med;
@@ -257,7 +263,7 @@ a:link, a:visited, a:hover, a:active {
   @include mq(medium) {
     min-height: 300px;
   }
-  @include mq(small-smartphone) {
+  @include mq(small-smartphone and lower-medium) {
     width: 100%;
     margin-left: 0;
     font-size: $font-med;
@@ -289,7 +295,7 @@ a:link, a:visited, a:hover, a:active {
 // Footer-site
 .footer-site {
   padding: $size-large;
-  @include mq(small-smartphone) {
+  @include mq(small-smartphone and lower-medium) {
     padding: $size-large;
     p {
       text-align: center;
@@ -326,7 +332,7 @@ a:link, a:visited, a:hover, a:active {
   @include mq(medium) {
 
   }
-  @include mq(small-smartphone) {
+  @include mq(small-smartphone and lower-medium) {
     width: 96%;
     padding: $size-med;
 

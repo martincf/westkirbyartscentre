@@ -7,7 +7,7 @@
   color: white;
   font-size: $font-large;
   padding: ($size-super * 2);
-  @include mq(small-smartphone) {
+  @include mq(small-smartphone and lower-medium) {
     padding: $size-med;
   }
 }
@@ -35,11 +35,11 @@
   @include mq(medium) {
     font-size: $font-super;
   }
-  @include mq(small-smartphone) {
+  @include mq(small-smartphone and lower-medium) {
     font-size: $font-large;
     padding: $size-med;
-
   }
+
 }
 .classes-home--highlight {
   background-color: darken($yellow, 10%);
@@ -62,7 +62,7 @@
   width: 70%;
   box-sizing: border-box;
   background-color: white;
-  @include mq(small-smartphone) {
+  @include mq(small-smartphone and lower-medium) {
     width: 96%;
   }
 
@@ -73,7 +73,7 @@
   margin: 0 $size-super $size-large;
   padding: $size-super 0 $size-med;
   color: $purple;
-  @include mq(small-smartphone) {
+  @include mq(small-smartphone and lower-medium) {
     padding: $size-med;
     margin: 0;
     font-size: $font-med;
