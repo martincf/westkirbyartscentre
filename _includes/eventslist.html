@@ -16,17 +16,30 @@
     {% assign eventDateInt = eventDate | plus:0 %}
 
     <!-- Compare event start date to server date (all future events and today's events should show) -->
-    {% if eventDateInt >= currentDateInt and eventDateInt <= futureDate %}
-    <li class="eventlist-item" style="background-image: url({{ site.baseurl }}/assets/images/events/{{ event.image }}.jpg);">
-        <a class="eventlist-item-link" href="{{ site.baseurl }}/{{ event.url }}">
-          <div class="eventlist-item-link--wrap">
-            <h1 class="eventlist-item-link--title">{{ event.title }}</h1>
-            <h2 class="eventlist-item-link--data">
-              {{ event.date | date: '%d %b, %Y' }} – {{ event.type }}
-            </h2>
-          </div>
-        </a>
-    </li>
+    {% if page.title == "Home" %}
+      {% if eventDateInt >= currentDateInt and eventDateInt <= futureDate %}
+      <li class="eventlist-item" style="background-image: url({{ site.baseurl }}/assets/images/events/{{ event.image }}.jpg);">
+          <a class="eventlist-item-link" href="{{ site.baseurl }}/{{ event.url }}">
+            <div class="eventlist-item-link--wrap">
+              <h1 class="eventlist-item-link--title">{{ event.title }}</h1>
+              <h2 class="eventlist-item-link--data">
+                {{ event.date | date: '%d %b, %Y' }} – {{ event.type }}
+              </h2>
+            </div>
+          </a>
+      </li>
+        {% endif %}
+      {% else %}
+      <li class="eventlist-item" style="background-image: url({{ site.baseurl }}/assets/images/events/{{ event.image }}.jpg);">
+          <a class="eventlist-item-link" href="{{ site.baseurl }}/{{ event.url }}">
+            <div class="eventlist-item-link--wrap">
+              <h1 class="eventlist-item-link--title">{{ event.title }}</h1>
+              <h2 class="eventlist-item-link--data">
+                {{ event.date | date: '%d %b, %Y' }} – {{ event.type }}
+              </h2>
+            </div>
+          </a>
+      </li>
       {% endif %}
     {% endfor %}
 </ul>
