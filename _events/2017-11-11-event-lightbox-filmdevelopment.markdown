@@ -1,6 +1,6 @@
 ---
 layout: eventdetail
-title:  "Film photography workshops"
+title:  "Darkroom workshops"
 section_title: Art
 bookable: no
 organiser_url: http://lightbox.photo/learn/

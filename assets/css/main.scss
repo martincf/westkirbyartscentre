@@ -227,7 +227,12 @@ a:link, a:visited, a:hover, a:active {
       margin: $size-med auto 0;
     }
   }
-
+  a {
+    color: lighten($purple,40%);
+    &:hover, &:active {
+      color: lighten($purple,55%);
+    }
+  }
 }
 .visit {
   margin: $size-super 0 0;

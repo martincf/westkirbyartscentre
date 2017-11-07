@@ -10,4 +10,5 @@ type: Folk music
 image: roughislandband
 permalink: /events/roughislandband
 ---
-This is a test event in the _events folder in Jekyll.
+
+Rough Island Band content here.
