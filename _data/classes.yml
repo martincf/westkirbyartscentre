@@ -7,29 +7,29 @@
     "Blah blah blah" and all that jazz. More stuff as a different paragraph.
   tel: 0780 xxx xxx
   email: anyone@anywhere.com
-  image:
+  image: class-fitness
 
 - name: Painting Challenge
   day: Monday
-  time: 1pm-3.30pm
-  price: "-"
+  time: 1pm-3pm
+  price: "15 per session (or £140 for 11 week course)"
   tutor: Joe McGillivray
   desc: |
-    "Blah blah blah" and all that jazz. More stuff as a different paragraph.
-  tel: 0780 xxx xxx
-  email: anyone@anywhere.com
-  image:
+    Classes are taught by Joe McGillivray who has been teaching at degree level in Art Schools for over 30 years. Joe was previously Head of the Art School at Wirral Met College, and latterly Director of Higher Education and Arts.
+  tel: 07414 761 341
+  email: joe.mcgill@hotmail.com
+  image: class-art
 
-- name: Portrait and Figure Drawing and Painting Classes
+- name: Portrait and Figure Drawing and Painting
   day: Monday
-  time: 1pm-3.30pm
-  price: "-"
+  time: 4pm-6pm
+  price: "15 per session (or £140 for 11 week course)"
   tutor: Joe McGillivray
   desc: |
-    "Blah blah blah" and all that jazz. More stuff as a different paragraph.
-  tel: 0780 xxx xxx
-  email: anyone@anywhere.com
-  image:
+    Classes are taught by Joe McGillivray who has been teaching at degree level in Art Schools for over 30 years. Joe was previously Head of the Art School at Wirral Met College, and latterly Director of Higher Education and Arts.
+  tel: 07414 761 341
+  email: joe.mcgill@hotmail.com
+  image: class-art
 
 - name: Fitness Bootcamp
   day: Monday
@@ -40,7 +40,7 @@
     "Blah blah blah" and all that jazz. More stuff as a different paragraph.
   tel: 0780 xxx xxx
   email: anyone@anywhere.com
-  image:
+  image: class-fitness2
 
 - name: Salsa Dancing
   day: Monday
@@ -51,18 +51,18 @@
     "Blah blah blah" and all that jazz. More stuff as a different paragraph.
   tel: 0780 xxx xxx
   email: anyone@anywhere.com
-  image:
+  image: class-dancing
 
-- name: Portrait and Figure Drawing and Painting Classes
+- name: Still Life Drawing and Painting
   day: Tuesday
-  time: 1.30pm-5.30pm
-  price: "-"
+  time: 1.30pm-3.30pm
+  price: "15 per session (or £140 for 11 week course)"
   tutor: Joe McGillivray
   desc: |
-    "Blah blah blah" and all that jazz. More stuff as a different paragraph.
-  tel: 0780 xxx xxx
-  email: anyone@anywhere.com
-  image:
+    Classes are taught by Joe McGillivray who has been teaching at degree level in Art Schools for over 30 years. Joe was previously Head of the Art School at Wirral Met College, and latterly Director of Higher Education and Arts.
+  tel: 07414 761 341
+  email: joe.mcgill@hotmail.com
+  image: class-art
 
 - name: Yoga with Sad
   day: Tuesday
@@ -73,7 +73,7 @@
     "Blah blah blah" and all that jazz. More stuff as a different paragraph.
   tel: 0780 xxx xxx
   email: anyone@anywhere.com
-  image:
+  image: class-yoga2
 
 - name: West Kirby Wailers
   day: Wednesday
@@ -84,7 +84,7 @@
     "Blah blah blah" and all that jazz. More stuff as a different paragraph.
   tel: 0780 xxx xxx
   email: anyone@anywhere.com
-  image:
+  image: class-singing
 
 - name: Yoga with the Yogasmiths
   day: Thursday
@@ -117,7 +117,7 @@
     Awaiting text.
   tel: 07834 268 052
   email: anyone@anywhere.com
-  image:
+  image: class-yoga
 
 - name: Drama Central Youth Drama
   day: Saturday
@@ -128,4 +128,4 @@
     Awaiting text.
   tel: 07834 268 052
   email: anyone@anywhere.com
-  image:
+  image: class-drama

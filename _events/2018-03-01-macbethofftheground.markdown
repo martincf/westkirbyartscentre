@@ -1,6 +1,6 @@
 ---
 layout: eventdetail
-title:  "Machbeth: Off the Ground"
+title:  "Macbeth: Off the Ground"
 section_title: Drama event
 bookable: yes
 organiser_url:
@@ -9,6 +9,7 @@ time: 9.30pm-5.30pm
 date: 2018-03-01
 type: Drama
 image: macbeth
+venue: 
 permalink: /events/macbeth-off-the-ground
 ---
 
