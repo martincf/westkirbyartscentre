@@ -196,6 +196,10 @@ a:link, a:visited, a:hover, a:active {
   text-align: left;
   display: block;
   padding: $size-small $size-super;
+  @include mq(small-smartphone) {
+    padding: 0 0 0 $size-small;
+    margin-top: -60px;
+  }
 
   img {
     max-width: 275px;
@@ -206,7 +210,7 @@ a:link, a:visited, a:hover, a:active {
       max-width: 200px;
       margin-left: 0;
       margin-top: 75px;
-      padding: 0;
+      padding-left: 0;
     }
     &:hover {
       transform: scale(1.05);
