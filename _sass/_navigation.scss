@@ -11,7 +11,7 @@
   display: flex;
   width: 70%;
   margin: 0 auto;
-  justify-content: center;
+  justify-content: flex-end;
   @include mq(lower-medium) {
     width: 96%;
   }
