@@ -9,4 +9,4 @@ The building is available for hire for regular events and one-off occasions incl
 
 Please [contact us](hello@westkirbyartscentre.org.uk) for more information on availability and charges.
 
-![The hall]({{ site.baseurl }}/assets/images/hall2.jpg)
+![The hall]({{ site.baseurl }}/assets/images/hall3.jpg)

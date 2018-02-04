@@ -206,6 +206,15 @@ a:link, a:visited, a:hover, a:active {
     margin-left: -80px;
     margin-top: -72px;
     @include transition();
+    @include mq(medium) {
+      max-width: 150px;
+    }
+    @include mq(lower-medium) {
+      max-width: 200px;
+    }
+    @include mq(smartphone) {
+      max-width: 200px;
+    }
     @include mq(small-smartphone) {
       max-width: 200px;
       margin-left: 0;
@@ -398,5 +407,8 @@ a:link, a:visited, a:hover, a:active {
     }
     p {
       margin: 0 0 1em;
+    }
+    p+h2 {
+      margin-top: 2em;
     }
 }

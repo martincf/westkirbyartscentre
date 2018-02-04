@@ -14,8 +14,9 @@
 }
 .event--title {
   color: white;
-  width: 70%;
-  margin: 0 auto;
+  width: 42%;
+  margin: 0 15%;
+  text-align: left;
 
   @include mq(small-smartphone) {
     width: 96%;
