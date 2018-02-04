@@ -53,7 +53,7 @@
 
 
 .classes-wrap {
-  background: transparent url($baseurl + "/assets/images/classes2.jpg") 0 0 no-repeat;
+  background: $green url($baseurl + "/assets/images/classes2.jpg") 0 0 no-repeat;
   background-size: cover;
   background-attachment: fixed;
 }

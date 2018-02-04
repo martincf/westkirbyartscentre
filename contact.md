@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-image: classes2
+image: 
 permalink: /contact
 ---
 

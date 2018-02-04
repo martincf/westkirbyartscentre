@@ -76,33 +76,33 @@ a:link, a:visited, a:hover, a:active {
   background-color: darken($purple, 25%);
   background-color: $purple;
 }
-.logo {
-  padding: $size-small $size-super;
-  text-align: center;
-  @include mq(small-smartphone) {
-    padding: $size-med;
-    text-align: left;
-    background-color: $black;
-    margin-top: -100px;
-  }
-  img {
-    max-width: 400px;
-    margin-top: -30px;
-    margin-left: -75px;
-    @include mq(small-smartphone) {
-      position: relative;
-      z-index: 2;
-      max-width: 200px;
-      top: 20px;
-      margin-left: 0;
-    }
-    @include mq(lower-medium) {
-      max-width: 300px;
-    }
-
-  }
-
-}
+// .logo {
+//   padding: $size-small $size-super;
+//   text-align: center;
+//   @include mq(small-smartphone) {
+//     padding: $size-med;
+//     text-align: left;
+//     background-color: $black;
+//     margin-top: -100px;
+//   }
+//   img {
+//     max-width: 400px;
+//     margin-top: -30px;
+//     margin-left: -75px;
+//     @include mq(small-smartphone) {
+//       position: relative;
+//       z-index: 2;
+//       max-width: 200px;
+//       top: 20px;
+//       margin-left: 0;
+//     }
+//     @include mq(lower-medium) {
+//       max-width: 300px;
+//     }
+//
+//   }
+//
+// }
 .mission {
   min-height: 600px;
   padding: 0;
@@ -191,14 +191,16 @@ a:link, a:visited, a:hover, a:active {
     margin-bottom: $size-med;
   }
 }
-.siteheader .logo {
+
+.logo {
   text-align: left;
   display: block;
+  padding: $size-small $size-super;
 
   img {
     max-width: 275px;
     margin-left: -80px;
-    margin-top: -35px;
+    margin-top: -72px;
     @include transition();
     @include mq(small-smartphone) {
       max-width: 200px;
@@ -315,19 +317,26 @@ a:link, a:visited, a:hover, a:active {
 }
 // Background images
 .About {
-  background: transparent url({{ site.baseurl }}/assets/images/classes3.jpg) 0 0 no-repeat;
-  background-size: contain;
+  // background: transparent url({{ site.baseurl }}/assets/images/classes3.jpg) 0 0 no-repeat;
+  // background-size: contain;
+  background-color: $darkblue;
+
 }
 .Hire {
-  background: transparent url({{ site.baseurl }}/assets/images/classes2.jpg) 0 0 no-repeat;
-  background-size: contain;
+  // background: transparent url({{ site.baseurl }}/assets/images/classes2.jpg) 0 0 no-repeat;
+  // background-size: contain;
+  background-color: $darkblue;
+
 }
 .Facilities {
-  background: transparent url({{ site.baseurl }}/assets/images/classes2.jpg) 0 0 no-repeat;
-  background-size: contain;
+  // background: transparent url({{ site.baseurl }}/assets/images/classes2.jpg) 0 0 no-repeat;
+  // background-size: contain;
+  background-color: $darkblue;
 }
+.Contact {
+  background-color: $darkblue;
 
-// Content
+}
 .content {
   margin: $size-med auto $size-super;
   width: 70%;
@@ -375,6 +384,7 @@ a:link, a:visited, a:hover, a:active {
     h2 {
       font-size: $font-large;
       margin-bottom: $size-med;
+      color: $blue;
     }
     h3 {
     }

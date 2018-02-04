@@ -1,7 +1,7 @@
 ---
 layout: listings
 title: Classes
-image: classes3
+image: 
 permalink: /classes
 ---
 
