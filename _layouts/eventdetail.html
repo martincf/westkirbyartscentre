@@ -11,56 +11,6 @@
       </button>
     {% elsif page.bookable == true %}
 
-    <!--
-    <div id="paypal-button" class="event--paypal"></div>
-  <script>
-      paypal.Button.render({
-          env: 'sandbox', // Or 'production'
-          client: {
-              sandbox:    'AVosSv7HYDbBVhFmwXqq0XVzaAmjhLArJNVU70PuF9GuogeIte44yuIZYfCoWEYd250Bo30aYcJaUtLi',
-              production: 'xxxxxxxxx'
-          },
-          style: {
-              size: 'responsive',
-              color: 'blue',
-              shape: 'rect',
-              label: 'pay',
-              // fundingicons: true
-          },
-          commit: true, // Show a 'Pay Now' button
-          payment: function(data, actions) {
-            // Get value of ticket number input, multiply by price and give the total to Paypal
-            ticketNos = document.getElementById("ticketNo").value;
-            price = {{ page.price }}
-            TicketTotal = price * ticketNos
-              return actions.payment.create({
-                  payment: {
-                      transactions: [
-                          {
-                              amount: { total: TicketTotal, currency: 'GBP' },
-                              description: 'The Art Centre West Kirby ticket(s) purchase',
-                              item_list:
-                                {
-                                  items: [
-                                    { name: '{{ page.title }} ticket(s)', currency: 'GBP', price: '{{ page.price }}', quantity: ticketNos }
-                                  ]
-                                }
-                          }
-                      ]
-                  }
-              });
-          },
-
-          onAuthorize: function(data, actions) {
-              return actions.payment.execute().then(function(payment) {
-
-                  // The payment is complete!
-                  // You can now show a confirmation message to the customer
-              });
-          }
-
-      }, '#paypal-button');
-  </script> -->
   <p class="event--price">&pound;{{ page.price }}</p>
   <p class="event--tickets">
     Tickets: <input type="number" id="ticketNo" value="1" class="event--ticketno" />
@@ -80,7 +30,6 @@
   <!-- This creates the bu on. When it is selected in the browser, the form submits the purchase details to us. -->
   <input class="event--purchase" type="submit" value="Buy tickets">
   </form>
-  <script language="JavaScript" src="https://secure.worldpay.com/wcc/logo?instId=XXXXX"></script>
   {% endif %}
 </div>
   <div class="event--data">

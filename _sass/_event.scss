@@ -11,6 +11,9 @@
 }
 .eventdetail header {
   margin-bottom: $size-special;
+  @include mq(small-smartphone) {
+    margin-bottom: $size-super;
+  }
 }
 .event--title {
   color: white;
@@ -20,7 +23,7 @@
 
   @include mq(small-smartphone) {
     width: 96%;
-
+    margin: 0 $size-small;
   }
   span {
     background-color: transparentize($black, 0.5);
@@ -33,8 +36,8 @@
 
     }
     @include mq(small-smartphone) {
-      font-size: $font-super;
-      padding: $size-small $size-small;
+      font-size: calc(1.25 * #{$font-large});
+      padding: $size-small;
       margin-left: 0;
     }
   }
@@ -89,7 +92,8 @@
   display: inline-block;
   position: absolute;
   @include mq(small-smartphone) {
-    margin: 0 0 0;
+    margin: -50px 0 0 !important;
+
 
   }
 }
@@ -234,7 +238,15 @@
   color: white;
   text-align: center;
   padding: $size-small;
-  margin: $size-med 0;
+  margin: 0 0 $size-med;
   border-radius: 5px;
   cursor: pointer;
+}
+.video {
+  margin: $size-large auto;
+  display: block;
+  @include mq(small-smartphone) {
+    width: 100% !important;
+    height: auto;
+  }
 }
