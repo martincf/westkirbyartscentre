@@ -248,6 +248,9 @@
   margin: 0 0 $size-med;
   border-radius: 5px;
   cursor: pointer;
+  -webkit-appearance: none;
+
+
 }
 .video {
   margin: $size-large auto;
