@@ -1,10 +1,15 @@
 // Event detail page
 .eventdetail {
   background-color: $black;
-  background: transparent url($baseurl + "/assets/images/example.jpg") 0 0 no-repeat;
+  background: $purple url($baseurl + "/assets/images/example.jpg") 0 0 no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  @include mq(small-smartphone) {
+    background-size: 96%;
+    background-attachment: inherit;
+    background-position: 5px calc(60px + #{$size-super});
+  }
 }
 .eventdetail {
   // margin-bottom: 200px;
@@ -38,7 +43,9 @@
     @include mq(small-smartphone) {
       font-size: calc(1.25 * #{$font-large});
       padding: $size-small;
-      margin-left: 0;
+      margin-left: calc(0px - #{$size-small});
+      margin-top: $size-super;
+
     }
   }
 }
