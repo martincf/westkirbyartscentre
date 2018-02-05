@@ -115,6 +115,9 @@
     font-size: $font-large;
     margin-top: $size-small;
   }
+  @include mq(small-smartphone) {
+    font-size: $font-super;
+  }
 }
 .event--tickets {
   background-color: transparentize(white, .5);
@@ -156,7 +159,7 @@
   margin: $size-small auto;
   @include mq(small-smartphone) {
     margin: 0 auto;
-    font-size: $font-med;
+    font-size: $font-large;
   }
 }
 .event--genre {
@@ -169,7 +172,7 @@
   position: relative;
   @include mq(small-smartphone) {
     margin: 0 0;
-    font-size: $font-med;
+    font-size: $font-large;
   }
   &:before {
     background: white url($baseurl + "/assets/images/calendar.svg") 0 0 no-repeat;
