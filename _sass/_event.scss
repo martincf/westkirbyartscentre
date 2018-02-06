@@ -109,8 +109,9 @@
   font-weight: 900;
   color: $purple;
   width: 35%;
-  display: inline-block;
+  float: left;
   vertical-align: bottom;
+  margin-bottom: 0 !important;
   @include mq(medium) {
     font-size: $font-large;
     margin-top: $size-small;
@@ -131,6 +132,17 @@
     font-size: $font-med;
 
   }
+}
+.event--ticketssummary {
+  margin: 0 0;
+  clear: both;
+  text-align: right;
+  text-transform: uppercase;
+  font-weight: 300;
+  color: darken($yellow, 40%);
+}
+.event--totaltickets {
+  display: none;
 }
 .event--ticketno {
   font-family: $font-body;
@@ -251,8 +263,13 @@
   margin: 0 0 $size-med;
   border-radius: 5px;
   cursor: pointer;
+  @include transition();
   -webkit-appearance: none;
+  &:hover {
+    background-color: lighten($blue, 5%);
+    transform: scale(1.05);
 
+  }
 
 }
 .video {
