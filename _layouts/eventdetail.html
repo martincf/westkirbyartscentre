@@ -13,18 +13,41 @@
 
   <p class="event--price">&pound;{{ page.price }}</p>
   <p class="event--tickets">
-    Tickets: <input type="number" id="ticketNo" value="1" class="event--ticketno" />
+    <script>
+      function getTicketNo() {
+        var tickets = document.getElementById("ticketNo").value;
+        document.getElementById("totalTickets").innerHTML = tickets;
+
+        // var tickets = document.getElementById("ticketNo").value;
+        var ticketsTotal = {{ page.price }} * tickets;
+        document.getElementById("totalPrice").innerHTML = ticketsTotal;
+        document.getElementById("wpTotalPrice").value = ticketsTotal;
+      }
+      function getTicketsTotal() {
+        var allTickets = document.getElementById("ticketNo").value;
+        document.getElementById("wpTotalTickets").value += allTickets;
+      }
+    </script>
+
+    Tickets: <input type="number" id="ticketNo" value="1" class="event--ticketno" onclick="getTicketNo()" />
+
+
+    <p>Total tickets: <span id="totalTickets">1</span> - &pound;<span id="totalPrice">{{ page.price }}</span></p>
+
   </p>
   <form action="https://secure-test.worldpay.com/wcc/purchase" method="POST">
   <!-- This next line contains the testMode parameter - it species that the submission is a test submission -->
   <input type="hidden" name="testMode" value="100">
   <input type="hidden" name="instId" value="1254946">
-  <input type="hidden" name="cartId" value="{{ page.title }} ticket(s)">
-  <input type="hidden" name="amount" value="{{ page.price }}">
+  <input type="hidden" name="cartId" id="wpTotalTickets" value="{{ page.title }} ticket(s) x ">
+  <input type="hidden" name="amount" id="wpTotalPrice" value="">
   <input type="hidden" name="currency" value="GBP">
-  <input class="event--purchase" type="submit" value="Buy tickets">
+  <input class="event--purchase" type="submit" value="Buy tickets" onclick="getTicketsTotal()">
   </form>
   {% endif %}
+
+
+
 </div>
   <div class="event--data">
       <!-- Get event date -->
