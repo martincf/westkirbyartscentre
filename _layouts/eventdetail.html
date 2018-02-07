@@ -19,7 +19,7 @@
     Tickets: <input type="number" min="1" max="15" id="ticketNo" value="1" class="event--ticketno" />
   </p>
   <script>
-    document.getElementById("ticketNo").addEventListener("click", function getTicketNo(){
+    document.getElementById("ticketNo").addEventListener("onchange", function getTicketNo(){
       var tickets = document.getElementById("ticketNo").value;
       document.getElementById("totalTickets").innerHTML = tickets;
 
@@ -46,7 +46,7 @@
         var allTickets = document.getElementById("ticketNo").value;
         document.getElementById("wpTotalTickets").value += allTickets;
       });
-      
+
     </script>
     <input type="hidden" name="cartId" id="wpTotalTickets" value="{{ page.title }} ticket(s) x ">
   </form>
