@@ -19,7 +19,7 @@
     Tickets: <input type="number" min="1" max="15" id="ticketNo" value="1" class="event--ticketno" />
   </p>
   <script>
-    document.getElementById("ticketNo").addEventListener("onchange", function getTicketNo(){
+    document.getElementById("ticketNo").addEventListener("change", function getTicketNo(){
       var tickets = document.getElementById("ticketNo").value;
       document.getElementById("totalTickets").innerHTML = tickets;
 
