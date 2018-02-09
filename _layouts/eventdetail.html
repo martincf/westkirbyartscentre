@@ -65,6 +65,11 @@
   </div>
   <article  markdown="1" class="event--details">
     {{ page.content | markdownify }}
+    {% if page.layout == "eventdetail" %}
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <div class="addthis_inline_share_toolbox"></div>
+    {% endif %}
+
   </article>
   </main>
 {% include footer.html %}

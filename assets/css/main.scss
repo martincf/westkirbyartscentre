@@ -331,7 +331,7 @@ a:link, a:visited, a:hover, a:active {
 }
 // Background images
 .page {
-  background-color: $darkblue;
+  background-color: $pink;
 
 }
 .About {
@@ -415,4 +415,16 @@ a:link, a:visited, a:hover, a:active {
     p+h2 {
       margin-top: 2em;
     }
+}
+.addthis_inline_share_toolbox {
+  margin: $size-large 0 0;
+  &:before {
+    content: "Share this event";
+    display: block;
+    text-transform: uppercase;
+    font-weight: 300;
+    margin-bottom: $size-small;
+    font-size: $font-small;
+    color: lighten($black, 40%);
+  }
 }

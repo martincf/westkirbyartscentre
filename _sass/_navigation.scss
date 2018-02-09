@@ -15,7 +15,7 @@
   @include mq(lower-medium) {
     width: 96%;
   }
-  @include mq(small-smartphone) {
+  @include mq(smartphone) {
     display: block;
     width: auto;
   }
@@ -65,7 +65,7 @@ input#burger {
 }
 
 body {
-  @include mq(small-smartphone) {
+  @include mq(smartphone) {
     input + label {
       position: fixed;
       top: 30px;
