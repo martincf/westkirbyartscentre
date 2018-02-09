@@ -27,10 +27,7 @@
       document.getElementById("totalPrice").innerHTML = ticketsTotal;
       document.getElementById("wpTotalPrice").value = ticketsTotal;
     });
-
-
   </script>
-
 
   <p class="event--ticketssummary">Total <span class="event--totaltickets" id="totalTickets">1</span> &pound;<span id="totalPrice">{{ page.price }}</span></p>
 
@@ -40,7 +37,11 @@
     <input type="hidden" name="instId" value="1254946">
     <input type="hidden" name="amount" id="wpTotalPrice" value="{{ page.price }}">
     <input type="hidden" name="currency" value="GBP">
-    <input id="wpSubmit" class="event--purchase" type="submit" value="Buy tickets">
+    {% if page.price == "TBA" %}
+      <input id="wpSubmit" disabled class="event--purchase disabled" type="submit" value="Buy tickets">
+    {% else %}
+      <input id="wpSubmit" class="event--purchase" type="submit" value="Buy tickets">
+    {% endif %}
     <script>
       document.getElementById("wpSubmit").addEventListener("click", function getTicketsTotal(){
         var allTickets = document.getElementById("ticketNo").value;

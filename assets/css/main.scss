@@ -330,6 +330,10 @@ a:link, a:visited, a:hover, a:active {
   }
 }
 // Background images
+.page {
+  background-color: $darkblue;
+
+}
 .About {
   // background: transparent url({{ site.baseurl }}/assets/images/classes3.jpg) 0 0 no-repeat;
   // background-size: contain;
