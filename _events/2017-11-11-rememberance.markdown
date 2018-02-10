@@ -9,6 +9,7 @@ date: 2017-11-11
 type: Music and poetry
 image: rememberance
 permalink: events/rememberance
+testmode: false
 ---
 
 Songs & Stories for Heroes

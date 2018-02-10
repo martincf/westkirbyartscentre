@@ -10,6 +10,7 @@ date: 2017-11-11
 type: Traditional photography
 image: lightbox1
 permalink: /events/lightbox-filmdev-11nov17
+testmode: false
 ---
 
 **The easiest process within the world of darkroom processing is the task of developing black and white film. Mostly science with a touch of art (and a dash of luck), there's nothing more exciting than developing your own roll of film.**

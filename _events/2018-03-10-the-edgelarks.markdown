@@ -10,6 +10,7 @@ date: 2018-03-10
 type: Blues and folk
 image: edgelarks
 permalink: /events/the-edgelarks
+testmode: false
 ---
 
 The Edgelarks fly in on the tailwind of BBC award winning duo, Phillip Henry and Hannah Martin.

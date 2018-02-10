@@ -9,8 +9,9 @@ time: 9.30pm-5.30pm
 date: 2018-03-01
 type: Drama
 image: macbeth
-venue: 
+venue:
 permalink: /events/macbeth-off-the-ground
+testmode: true
 ---
 
 1st, 2nd and 3rd of March. Modern urban setting and costume.

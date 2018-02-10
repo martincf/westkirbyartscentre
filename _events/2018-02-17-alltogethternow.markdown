@@ -9,6 +9,7 @@ date: 2018-02-17
 type: Music
 image: alltogethernow
 permalink: /events/all-together-now
+testmode: false
 ---
 
 The Celebrated West Kirby - West Kirby Arts Centre House Band perform songs by the Beatles in a charity fundraiser.

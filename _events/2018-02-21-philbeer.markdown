@@ -9,6 +9,7 @@ date: 2018-02-21
 type: Music
 image: philbeer
 permalink: /events/phil-beer
+testmode: false
 ---
 
 An audience with Phil Beer has been described as a glimpse into his world where folk, blues, hymns, the sea, the West Country and a life spent in music combine to make a true show.

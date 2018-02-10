@@ -220,10 +220,13 @@
     margin-top: $size-small;
   }
 }
+.event--nobooking.tempwp {
+  margin: $size-med 0 $size-large;
+}
+
 .event--organisertickets {
   width: 100%;
   padding: 0;
-
 
   a {
     display: block;

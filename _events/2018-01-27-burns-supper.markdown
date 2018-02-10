@@ -9,6 +9,7 @@ date: 2018-01-27
 type: Music and community
 image: christmasceilidh
 permalink: /events/burnssupper
+testmode: false
 ---
 
 Text

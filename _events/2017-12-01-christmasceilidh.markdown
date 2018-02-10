@@ -9,6 +9,7 @@ date: 2017-12-01
 type: Music and dance
 image: christmasceilidh
 permalink: /events/christmasceilidh
+testmode: false
 ---
 
 Christmas Ceilidh content here. Don't use this background image, it's not available.

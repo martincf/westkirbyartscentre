@@ -9,6 +9,7 @@ date: 2018-01-28
 type: Education and kids
 image: craft
 permalink: /events/crafternoons-jan2018
+testmode: false
 ---
 Here is your chance to get creative. It’s the perfect way to beat the January blues and escape the stresses of life. Have fun with art, learn new skills and mix traditional methods with contemporary techniques to create your very own 3d merman or mermaid.
 

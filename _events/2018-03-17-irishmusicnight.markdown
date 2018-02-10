@@ -10,6 +10,7 @@ date: 2018-03-17
 type: Music
 image: irishmusic
 permalink: /events/irish-music-night
+testmode: false
 ---
 
 Celebrate St Patrick and all things Irish.

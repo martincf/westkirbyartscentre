@@ -7,7 +7,7 @@ permalink: /contact
 
 ## Get in touch
 
-Please [email us](hello@westkirbyartscentre.org.uk) or leave a message on <tel>0748 4537502</tel> for information about hiring the space or for general details.
+Please [email us](hello@westkirbyartscentre.org.uk) or leave a message on [07484 537 502](tel:07484537502) for information about hiring the space or for general details.
 
 Please email [westkirbyartscentrepress@gmail.com](westkirbyartscentrepress@gmail.com) for press information on any of our events.
 

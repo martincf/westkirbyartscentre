@@ -9,6 +9,7 @@ date: 2017-11-15
 type: Folk music
 image: roughislandband
 permalink: /events/roughislandband
+testmode: false
 ---
 
 Rough Island Band content here.
