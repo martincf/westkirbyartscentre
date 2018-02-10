@@ -147,16 +147,24 @@
 .event--ticketno {
   font-family: $font-body;
   font-size: $size-med;
-  width: 2.25em;
+  width: 2.5em;
   padding-left: .5em;
   margin-left: .5em;
-  text-align: center;
+  text-align: right;
   border: none;
+  border-radius: 0;
+  -webkit-appearance: none;
+  background: white url($baseurl + "/assets/images/select-arrow.svg") right center no-repeat;
+  background-size: 12px;
+  background-position: 80% center;
+
   @include mq(medium) {
     font-size: $font-med;
-
   }
 }
+.event--ticketno option {
+    font-size; $font-small;
+  }
 .event--paypal {
   margin: $size-med 0;
   @include transition();
@@ -204,7 +212,8 @@
 .addthis_inline_share_toolbox_41ud {
   margin: $size-med 0 0;
 }
-.event--nobooking {
+
+.content .event--nobooking {
   margin-top: $size-med;
   @include mq(medium) {
     font-size: calc(1.25 * #{$font-small});
