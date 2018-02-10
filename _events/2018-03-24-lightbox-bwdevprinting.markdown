@@ -24,3 +24,8 @@ What to expect on the day:
 - a relaxed atmosphere where making mistakes is expected;
 - all chemicals, equipment, film sleeves will be provided;
 - a sense of pride at having used science to create art.
+
+## About Lightbox Darkroom
+Established in 2017 and located in the West Kirby Arts Centre, Lightbox Darkroom is an open film photography darkroom available for hire and for learning.
+
+Lightbox provides a darkroom service and learning environment to those who want to explore film photography beyond the camera. A longer term aim is for Lightbox to meaningfully contribute to the world of photography and art.
