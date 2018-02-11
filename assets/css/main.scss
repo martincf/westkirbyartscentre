@@ -106,7 +106,7 @@ a:link, a:visited, a:hover, a:active {
 .mission {
   min-height: 600px;
   padding: 0;
-  background: white url({{ site.baseurl }}/assets/images/eventnight2.jpg) 0 0 no-repeat;
+  background: white url({{ site.baseurl }}/assets/images/hall4.jpg) 0 0 no-repeat;
   background-size: cover;
   background-position: center -100px;
   position: relative;
@@ -208,12 +208,19 @@ a:link, a:visited, a:hover, a:active {
     @include transition();
     @include mq(medium) {
       max-width: 150px;
+      margin-top: 5px;
+    }
+    @include mq(medium) {
+      max-width: 150px;
+      margin-top: -75px;
     }
     @include mq(lower-medium) {
       max-width: 150px;
+      margin-top: -75px;
     }
     @include mq(smartphone) {
       max-width: 150px;
+      margin-top: 0;
     }
     @include mq(small-smartphone) {
       max-width: 150px;
@@ -283,6 +290,7 @@ a:link, a:visited, a:hover, a:active {
   border: $size-small solid white;
   @include mq(medium) {
     min-height: 300px;
+    margin-top: $size-large;
   }
   @include mq(small-smartphone and lower-medium) {
     width: 100%;

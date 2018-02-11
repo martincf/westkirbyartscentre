@@ -10,6 +10,12 @@
     background-attachment: inherit;
     background-position: 5px calc(60px + #{$size-super});
   }
+  @include mq(medium) {
+    background-size: 100%;
+    background-position: center top;
+    background-color: $black;
+
+  }
 }
 .eventdetail {
   // margin-bottom: 200px;
@@ -18,6 +24,9 @@
   margin-bottom: $size-special;
   @include mq(small-smartphone) {
     margin-bottom: $size-super;
+  }
+  @include mq(lower-medium) {
+    margin-bottom: $size-small;
   }
 }
 .event--title {
@@ -28,6 +37,10 @@
 
   @include mq(small-smartphone) {
     width: 96%;
+    margin: 0 $size-small;
+  }
+  @include mq(medium) {
+    width: 46%;
     margin: 0 $size-small;
   }
   span {
@@ -44,10 +57,16 @@
       font-size: calc(1.25 * #{$font-large});
       padding: $size-small;
       margin-left: calc(0px - #{$size-small});
-      margin-top: $size-super;
+      // margin-top: $size-super;
 
     }
   }
+}
+.eventdetail .event--title span {
+  @include mq(small-smartphone) {
+    margin-top: $size-super;
+  }
+
 }
 .event--content {
   background-color: white;
@@ -74,7 +93,7 @@
     top: calc(1.25 * #{$size-super});
     @include mq(medium) {
       margin-top: -275px;
-
+      width: 40%;
     }
     @include mq(small-smartphone) {
       width: auto;
@@ -193,6 +212,10 @@
   @include mq(small-smartphone) {
     margin: 0 0;
     font-size: $font-large;
+  }
+  @include mq(medium) {
+    margin-top: $size-super;
+    width: 50%;
   }
   &:before {
     background: white url($baseurl + "/assets/images/calendar.svg") 0 0 no-repeat;
