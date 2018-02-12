@@ -19,7 +19,7 @@
     {% if page.title == "Home" %}
       {% if eventDateInt >= currentDateInt and eventDateInt <= futureDate %}
       <li class="eventlist-item" style="background-image: url({{ site.baseurl }}/assets/images/events/{{ event.image }}.jpg);">
-          <a class="eventlist-item-link" href="{{ site.baseurl }}/{{ event.url }}">
+          <a class="eventlist-item-link" href="{{ event.url }}">
             <div class="eventlist-item-link--wrap">
               <h1 class="eventlist-item-link--title">{{ event.title }}</h1>
               <h2 class="eventlist-item-link--data">
@@ -33,7 +33,7 @@
         {% if eventDateInt >= currentDateInt %}
 
           <li class="eventlist-item" style="background-image: url({{ site.baseurl }}/assets/images/events/{{ event.image }}.jpg);">
-              <a class="eventlist-item-link" href="{{ site.baseurl }}/{{ event.url }}">
+              <a class="eventlist-item-link" href="{{ event.url }}">
                 <div class="eventlist-item-link--wrap">
                   <h1 class="eventlist-item-link--title">{{ event.title }}</h1>
                   <h2 class="eventlist-item-link--data">

@@ -10,6 +10,7 @@ type: Music
 image: alltogethernow
 permalink: /events/all-together-now
 testmode: false
+tags: event
 ---
 
 The Celebrated West Kirby - West Kirby Arts Centre House Band perform songs by the Beatles in a charity fundraiser.
