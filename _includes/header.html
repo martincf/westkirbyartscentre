@@ -57,8 +57,6 @@
     class="{{ page.layout }} {% if page.title == "Classes" %}classes-wrap{% endif %} {{ page.title }}"
     {% if page.layout == "eventdetail" %}
       style="background-image: url({{ site.baseurl }}/assets/images/events/{{ page.image }}.jpg);">
-    {% else %}
-      style="background-image: url({{ site.baseurl }}/assets/images/{{ page.image }}.jpg);">
     {% endif %}
   <header>
     {% include navigation.html %}
