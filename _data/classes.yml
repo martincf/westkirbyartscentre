@@ -45,11 +45,11 @@
 - name: Salsa Dancing
   day: Monday
   time: 8.00pm-10.00pm
-  price: "4.00"
+  price: "4.00 in advance; £5 on the day."
   tutor: Jackie Williams
   desc: |
     Come and join the Ballrom Blitz family and start your very own strictly journey.
-  tel:
+  tel: 07799 701 815
   email:
   image: class-dancing
 
