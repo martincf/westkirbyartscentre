@@ -11,7 +11,7 @@ type: Drama
 image: macbeth
 venue:
 permalink: /events/macbeth-off-the-ground
-testmode: true
+testmode: false
 ---
 
 1st, 2nd and 3rd of March. Modern urban setting and costume.
