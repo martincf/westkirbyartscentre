@@ -9,7 +9,7 @@ date: 2017-11-10
 type: Folk music
 image: tilstonlowe
 permalink: /events/tilstonlowe
-testmode: false
+testmode: true
 ---
 
 Steve Tiltson, Jez Lowe & Hugh Bradley, award winning songwriters take to the stage.

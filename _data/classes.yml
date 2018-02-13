@@ -4,9 +4,9 @@
   price: "5.00 per session"
   tutor: Simon Large
   desc: |
-    "Blah blah blah" and all that jazz. More stuff as a different paragraph.
-  tel: 0780 xxx xxx
-  email: anyone@anywhere.com
+    One-to-one and group personal fitness training.
+  tel:
+  email:
   image: class-fitness
 
 - name: Painting Challenge
@@ -37,9 +37,9 @@
   price: "4.00"
   tutor: Ron the Trainer
   desc: |
-    "Blah blah blah" and all that jazz. More stuff as a different paragraph.
-  tel: 0780 xxx xxx
-  email: anyone@anywhere.com
+    Fitness bootcamp classes every Monday evening.
+  tel:
+  email:
   image: class-fitness2
 
 - name: Salsa Dancing
@@ -48,9 +48,9 @@
   price: "4.00"
   tutor: Jackie Williams
   desc: |
-    "Blah blah blah" and all that jazz. More stuff as a different paragraph.
-  tel: 0780 xxx xxx
-  email: anyone@anywhere.com
+    Come and join the Ballrom Blitz family and start your very own strictly journey.
+  tel:
+  email:
   image: class-dancing
 
 - name: Still Life Drawing and Painting
@@ -70,9 +70,9 @@
   price: "4.00"
   tutor: Sad
   desc: |
-    "Blah blah blah" and all that jazz. More stuff as a different paragraph.
-  tel: 0780 xxx xxx
-  email: anyone@anywhere.com
+    Yoga classes with Sad every Tuesday evening.
+  tel:
+  email:
   image: class-yoga2
 
 - name: West Kirby Wailers
@@ -81,9 +81,9 @@
   price: "4.00"
   tutor: James Sills
   desc: |
-    "Blah blah blah" and all that jazz. More stuff as a different paragraph.
-  tel: 0780 xxx xxx
-  email: anyone@anywhere.com
+    Singing a mix of traditional and contemporary music from around the world, in harmony, all taught by ear: no audtions, no sheet music, no monthly subscription.
+  tel:
+  email:
   image: class-singing
 
 - name: Yoga with the Yogasmiths
@@ -93,39 +93,39 @@
   tutor: Paul & Steve Smith
   desc: |
     Yogasmiths are Paul Smith and Stephen Smith. We offer a range of yoga from traditional to specialist classes and one to one's.
-  tel: 07834 268 052
-  email: anyone@anywhere.com
+  tel:
+  email: enquiries@yogasmiths.org
   image: class-yogasmith
 
 - name: Folk in the afternoon
   day: Friday
   time: 1pm-5.30pm
   price: "4.00"
-  tutor: Paul & Steve Smith
+  tutor:
   desc: |
     Please note: This event is only on the 2nd Friday of every month!
-  tel: 07834 268 052
-  email: anyone@anywhere.com
+  tel:
+  email:
   image: events/acousticharvest
 
 - name: Rooted Rebel Yoga
   day: Saturday
   time: 8.30am-9.30am
   price: "4.00"
-  tutor: A Name
+  tutor:
   desc: |
-    Awaiting text.
-  tel: 07834 268 052
-  email: anyone@anywhere.com
+    Yoga classes every Saturday morning.
+  tel:
+  email:
   image: class-yoga
 
 - name: Drama Central Youth Drama
   day: Saturday
   time: 1.00pm-3.00pm
   price: "4.00"
-  tutor: A Name
+  tutor:
   desc: |
-    Awaiting text.
-  tel: 07834 268 052
-  email: anyone@anywhere.com
+    Creative and imaginative drama workshops and productions for young people aged 6 - 18. We focus on building confidence, self-esteem, team work skills and bringing imagination and ideas to life.
+  tel:
+  email: 
   image: class-drama
