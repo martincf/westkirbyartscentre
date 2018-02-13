@@ -1,12 +1,12 @@
 - name: The Movement Personal Training
   day: Monday-Friday
   time: 6.30am-12.30pm
-  price: "5.00 per session"
+  price: "-"
   tutor: Simon Large
   desc: |
-    One-to-one and group personal fitness training.
-  tel:
-  email:
+    One-to-one and small group personalised fitness training. Healthy eating and lifestyle coaching, injury prevention and rehab, deep tissue massage.
+  tel: 07960 391 274
+  email: silarge@themovementwirral.co.uk
   image: class-fitness
 
 - name: Painting Challenge
@@ -71,19 +71,19 @@
   tutor: Sad
   desc: |
     Yoga classes with Sad every Tuesday evening.
-  tel:
-  email:
+  tel: "-"
+  email: "-"
   image: class-yoga2
 
 - name: West Kirby Wailers
   day: Wednesday
   time: 2.45pm-4.00pm
-  price: "4.00"
+  price: "5.00 per week or £25 for 6 sessions"
   tutor: James Sills
   desc: |
     Singing a mix of traditional and contemporary music from around the world, in harmony, all taught by ear: no audtions, no sheet music, no monthly subscription.
-  tel:
-  email:
+  tel: "-"
+  email: "-"
   image: class-singing
 
 - name: Yoga with the Yogasmiths
@@ -99,33 +99,44 @@
 
 - name: Folk in the afternoon
   day: Friday
-  time: 1pm-5.30pm
-  price: "4.00"
-  tutor:
+  time: 2pm-5pm
+  price: "3.00"
+  tutor: "-"
   desc: |
     Please note: This event is only on the 2nd Friday of every month!
-  tel:
-  email:
+  tel: "-"
+  email: "-"
   image: events/acousticharvest
 
 - name: Rooted Rebel Yoga
   day: Saturday
   time: 8.30am-9.30am
   price: "4.00"
-  tutor:
+  tutor: "-"
   desc: |
     Yoga classes every Saturday morning.
-  tel:
-  email:
+  tel: "-"
+  email: "-"
   image: class-yoga
+
+- name: Lizzie's Yin and Yang Yoga
+  day: Saturday
+  time: 1.30am-11.30am
+  price: "4.00"
+  tutor: "Lizzie"
+  desc: |
+    Medatative yoga classes. Drop in class open to all available. Classes fortnightly every 2nd and 4th Saturday of the month.
+  tel: "07929 045 450"
+  email: "-"
+  image: class-yoga2
 
 - name: Drama Central Youth Drama
   day: Saturday
   time: 1.00pm-3.00pm
   price: "4.00"
-  tutor:
+  tutor: "-"
   desc: |
     Creative and imaginative drama workshops and productions for young people aged 6 - 18. We focus on building confidence, self-esteem, team work skills and bringing imagination and ideas to life.
-  tel:
-  email: 
+  tel: "-"
+  email: "-"
   image: class-drama
