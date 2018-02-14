@@ -47,7 +47,7 @@
 
   <form action="https://secure-test.worldpay.com/wcc/purchase" method="POST">
     <!-- This next line contains the testMode parameter - it species that the submission is a test submission -->
-    <input type="hidden" name="testMode" value="0">
+    <input type="hidden" name="testMode" value="100">
     <input type="hidden" name="instId" value="1254946">
     <input type="hidden" name="amount" id="wpTotalPrice" value="{{ page.price }}">
     <input type="hidden" name="currency" value="GBP">
