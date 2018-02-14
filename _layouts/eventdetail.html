@@ -4,19 +4,22 @@
   <div class="event--pay">
     <h1 class="event--pay-title">Book tickets</h1>
     {% if page.bookable == false %}
-
       <p class="event--nobooking">Tickets must be booked via the organiser:</p>
       <button class="event--organisertickets">
         <a href="{{ page.organiser_url }}">Organiser website &gt;</a>
       </button>
+
+    {% elsif page.bookable == true and page.testmode == true and page.price == "SOLDOUT" %}
+      <div class="event--soldout">
+        <h2>Sold out</h2>
+        <p>We're sorry, this event is now sold out.</p>
+      </div>
     {% elsif page.bookable == true and page.testmode == true %}
   <p class="event--price">&pound;{{ page.price }}</p>
 
   <!-- Ticket calc -->
-
   <p class="event--tickets">
     Tickets:
-    <!-- <input type="number" min="1" max="15" id="ticketNo" value="1" class="event--ticketno" /> -->
     <select required id="ticketNo" class="event--ticketno">
       <optgroup>
         <option value="1">1</option>

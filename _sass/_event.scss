@@ -119,8 +119,6 @@
   position: absolute;
   @include mq(small-smartphone) {
     margin: -50px 0 0 !important;
-
-
   }
 }
 .event--price {
@@ -150,6 +148,21 @@
   @include mq(medium) {
     font-size: $font-med;
 
+  }
+}
+.content .event--soldout {
+  h2 {
+    margin-top: $size-med;
+    background-color: $black;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    padding: $size-small;
+    transform: rotate(-2deg);
+  }
+  p {
+    text-align: center;
+    margin-bottom: $size-med;
   }
 }
 .event--ticketssummary {
