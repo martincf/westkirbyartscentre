@@ -7,7 +7,7 @@ price: 10
 time: 7pm-10pm
 date: 2017-10-23
 type: Test event
-image: craft
+image: 
 permalink: /events/worldpaytest
 testmode: true
 ---
