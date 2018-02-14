@@ -65,6 +65,10 @@
     </script>
     <input type="hidden" name="cartId" id="wpTotalTickets" value="{{ page.title }} ticket(s) x ">
   </form>
+  <div class="event--wpcards">
+    <script language="JavaScript" src="https://secure.worldpay.com/wcc/logo?instId=1254946"></script>
+    <p><a href="{{ site.baseurl }}/refund-policy">Review our refund policy</a></p>
+  </div>
 
   <!-- Temporary placeholder for Worldpay confirmation -->
   {% elsif page.bookable == true and page.testmode == false %}

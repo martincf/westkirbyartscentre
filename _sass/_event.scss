@@ -248,7 +248,20 @@
   background-color: white;
   padding: $size-small;
 }
-
+.event--wpcards {
+  background-color: white;
+  padding: $size-small 0 0;
+  margin-bottom: $size-small;
+  table img {
+    max-width: 100px;
+  }
+  p {
+    background-color: $yellow;
+    font-size: $font-small;
+    text-align: center;
+    padding-top: $size-small;
+  }
+}
 .event--organisertickets {
   width: 100%;
   padding: 0;
