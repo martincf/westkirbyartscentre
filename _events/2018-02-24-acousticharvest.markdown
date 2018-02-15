@@ -3,13 +3,13 @@ layout: eventdetail
 title:  "Acoustic Harvest - a Tribute to Neil Young"
 section_title: Music event
 bookable: yes
-price: 6
+price: SOLDOUT
 time: 7pm-10pm
 date: 2018-02-24
 type: Music
 image: acousticharvest
 permalink: /events/acoustic-harvest
-testmode: false
+testmode: true
 ---
 
 Canadian born singer, songwriter Neil Young released his fourth album Harvest in 1972. At that time he was considered the most successful singer/songwriter in the world.
