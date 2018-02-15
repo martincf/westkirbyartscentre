@@ -34,13 +34,12 @@
   width: 42%;
   margin: 0 15%;
   text-align: left;
-
-  @include mq(small-smartphone) {
-    width: 96%;
-    margin: 0 $size-small;
-  }
   @include mq(medium) {
     width: 46%;
+    margin: 0 $size-small;
+  }
+  @include mq(small-smartphone) {
+    width: 96%;
     margin: 0 $size-small;
   }
   span {
@@ -222,13 +221,14 @@
   font-size: $size-med;
   color: $pink;
   position: relative;
-  @include mq(small-smartphone) {
-    margin: 0 0;
-    font-size: $font-large;
-  }
   @include mq(medium) {
     margin-top: $size-super;
     width: 50%;
+  }
+  @include mq(small-smartphone) {
+    margin: 0 0;
+    font-size: $font-large;
+    width: 100%;
   }
   &:before {
     background: white url($baseurl + "/assets/images/calendar.svg") 0 0 no-repeat;
