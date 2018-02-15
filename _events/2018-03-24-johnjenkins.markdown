@@ -6,7 +6,7 @@ bookable: yes
 organiser_url:
 price: 6
 time: 7pm-10pm
-date: 2018-03-17
+date: 2018-03-24
 type: Music
 image: johnjenkins
 permalink: /events/john-jenkins-and-the-james-street-band

@@ -7,12 +7,11 @@ permalink: /refund-policy/
 
 ## Returns and Refunds Policy
 
-Please read this policy carefully. This is the Return and Refund Policy of West Kirby Arts Centre. .
+This is the Return and Refund Policy of West Kirby Arts Centre.
 
 ### Tickets
 
-We issue refunds for tickets if a refund request is communicated to us by email or telephone, up to 4 hours before an event start time.
-
+If you need to cancel your tickets before an event or are unhappy with an event, we are happy to issue a full refund.
 
 ### Contact us
 
