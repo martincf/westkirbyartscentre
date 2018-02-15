@@ -106,7 +106,7 @@ a:link, a:visited, a:hover, a:active {
 .mission {
   min-height: 600px;
   padding: 0;
-  background: white url({{ site.baseurl }}/assets/images/hall4.jpg) 0 0 no-repeat;
+  background: $black url({{ site.baseurl }}/assets/images/hall4.jpg) 0 0 no-repeat;
   background-size: cover;
   background-position: center -100px;
   position: relative;
@@ -126,6 +126,11 @@ a:link, a:visited, a:hover, a:active {
   }
   @include mq(lower-medium) {
     margin-top: 0;
+  }
+  @include mq(small-smartphone) {
+    background-attachment: inherit;
+    background-position: 0 200px;
+    background-size: 100%;
   }
 }
 .mission-statement {
