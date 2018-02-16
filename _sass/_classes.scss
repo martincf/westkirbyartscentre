@@ -2,6 +2,8 @@
 .classes-home {
   margin: 0;
   position: relative;
+  background: white url($baseurl + "/assets/images/classes.jpg") top right no-repeat;
+  background-size: cover;
   color: white;
   font-size: $font-large;
   padding: ($size-super * 2);
