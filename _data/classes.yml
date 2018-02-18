@@ -50,7 +50,7 @@
   desc: |
     Come and join the Ballrom Blitz family and start your very own strictly journey.
   tel: 07799 701 815
-  email:
+  email: jackie@ballroom-blitz.co.uk
   image: class-dancing
 
 - name: Still Life Drawing and Painting
@@ -81,9 +81,11 @@
   price: "5.00 per week or £25 for 6 sessions"
   tutor: James Sills
   desc: |
-    Singing a mix of traditional and contemporary music from around the world, in harmony, all taught by ear: no audtions, no sheet music, no monthly subscription.
+    Singing a mix of traditional and contemporary music from around the world, in harmony, all taught by ear: no auditions, no sheet music, no monthly subscription.
   tel: "-"
   email: "-"
+  web: http://www.facebook.com/jsillsmusic
+  webtitle: Facebook
   image: class-singing
 
 - name: Yoga with the Yogasmiths
@@ -97,13 +99,13 @@
   email: enquiries@yogasmiths.org
   image: class-yogasmith
 
-- name: Folk in the afternoon
+- name: Afternoon Folk
   day: Friday
   time: 2pm-5pm
   price: "3.00"
   tutor: "-"
   desc: |
-    Please note: This event is only on the 2nd Friday of every month!
+    Come and perform in the sing around, sing along or just listen. All welcome. Please note: This event is only on the 2nd Friday of every month!
   tel: "-"
   email: "-"
   image: events/acousticharvest
@@ -137,6 +139,6 @@
   tutor: "-"
   desc: |
     Creative and imaginative drama workshops and productions for young people aged 6 - 18. We focus on building confidence, self-esteem, team work skills and bringing imagination and ideas to life.
-  tel: "-"
+  tel: "07718 282 900"
   email: "-"
   image: class-drama

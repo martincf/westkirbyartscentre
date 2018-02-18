@@ -2,6 +2,24 @@
     <div class="class--image" style="background-image: url({{ site.baseurl }}/assets/images/{{ class.image }}.jpg);"></div>
       <strong class="class--title">{{ class.name }}</strong>
       <span class="class--data">{{ class.time }} – &pound;{{ class.price }}</span>
-      <span class="class--contact">Telephone <tel>{{ class.tel }}</tel> <i>|</i> Email <a href="{{ class.email }}">{{ class.email }}</a></span>
+      <span class="class--contact">
+        {% if class.tel %}
+          Telephone <tel>{{ class.tel }}</tel>
+          {% else %}
+            Tel: &ndash;
+          {% endif %}
+        <i>|</i>
+        {% if class.email %}
+          Email <a href="mailto;{{ class.email }}">{{ class.email }}</a></span>
+        {% else %}
+          Email: &ndash;
+        {% endif %}
+        <i>|</i>
+        {% if class.web %}
+          Web <a href="{{ class.web }}">{{ class.webtitle }}</a>
+          {% else %}
+            Web: &ndash;
+          {% endif %}
+
       <p class="class--desc">{{ class.desc }}</p>
   </li>
