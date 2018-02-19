@@ -10,7 +10,6 @@ date: 2018-04-21
 type: Craft
 image: lightbox1
 permalink: /events/lightbox-black-and-white-dev-and-printing-mar2018
-testmode: false
 ---
 
 Learn how to develop and then print your own film black and white photography images.

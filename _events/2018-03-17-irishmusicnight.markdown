@@ -10,7 +10,6 @@ date: 2018-03-17
 type: Folk
 image: Irish-Music-Night
 permalink: /events/Irish-Music-Night
-testmode: false
 ---
 
 Celebrate St Patrick and all things Irish. St Patrick’s Day celebration concert with John Walsh and Keith Price of Cream of the Barley with guest celtic harpist, Barbara Haugh and Irish dancer.

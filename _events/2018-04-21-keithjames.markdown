@@ -10,7 +10,6 @@ date: 2018-04-21
 type: Music
 image: acousticharvest
 permalink: /events/keith-james
-testmode: false
 ---
 
 Keith James gives you a concert of Cohen’s amazing material in the most intimate and sensitive way imaginable, exposing the solitary inner strength of his greatest songs in their original perfect form.

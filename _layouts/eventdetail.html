@@ -9,12 +9,12 @@
         <a href="{{ page.organiser_url }}">Organiser website &gt;</a>
       </button>
 
-    {% elsif page.bookable == true and page.testmode == true and page.price == "SOLDOUT" %}
+    {% elsif page.bookable == true and page.price == "SOLDOUT" %}
       <div class="event--soldout">
         <h2>Sold out</h2>
         <p>We're sorry, this event is now sold out.</p>
       </div>
-    {% elsif page.bookable == true and page.testmode == true %}
+    {% elsif page.bookable == true %}
   <p class="event--price">&pound;{{ page.price }}</p>
 
   <!-- Ticket calc -->
@@ -48,9 +48,9 @@
 
   <p class="event--ticketssummary">Total <span class="event--totaltickets" id="totalTickets">1</span> &pound;<span id="totalPrice">{{ page.price }}</span></p>
 
-  <form action="https://secure-test.worldpay.com/wcc/purchase" method="POST">
+  <form action="https://secure.worldpay.com/wcc/purchase" method="POST">
     <!-- This next line contains the testMode parameter - it species that the submission is a test submission -->
-    <input type="hidden" name="testMode" value="100">
+    <input type="hidden" name="testMode" value="0">
     <input type="hidden" name="instId" value="1254946">
     <input type="hidden" name="amount" id="wpTotalPrice" value="{{ page.price }}">
     <input type="hidden" name="currency" value="GBP">

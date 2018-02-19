@@ -10,7 +10,6 @@ date: 2018-03-24
 type: Music
 image: johnjenkins
 permalink: /events/john-jenkins-and-the-james-street-band
-testmode: false
 ---
 
 John Jenkins is a Liverpool born singer songwriter.

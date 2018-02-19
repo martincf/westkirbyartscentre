@@ -10,7 +10,6 @@ date: 2018-02-24
 type: Craft
 image: colourdev
 permalink: /events/lightbox-colour-development-feb2018
-testmode: false
 ---
 
 The process of developing colour film can be a daunting prospect, but is actually fairly straightforward with the right guidance and equipment. Join our workshop to find out how to develop your own C41 (colour) film.

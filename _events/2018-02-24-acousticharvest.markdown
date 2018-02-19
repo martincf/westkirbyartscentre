@@ -9,7 +9,6 @@ date: 2018-02-24
 type: Music
 image: acousticharvest
 permalink: /events/acoustic-harvest
-testmode: true
 ---
 
 Canadian born singer, songwriter Neil Young released his fourth album Harvest in 1972. At that time he was considered the most successful singer/songwriter in the world.
