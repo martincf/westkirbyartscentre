@@ -151,6 +151,10 @@
 .class--contact {
   a {
     margin-right: $size-small;
+    @include mq(small-smartphone) {
+      display: block;
+      margin: $size-small 0 0;
+    }
   }
 }
 .class--desc {
