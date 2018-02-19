@@ -8,8 +8,8 @@ price: 6
 time: 7pm-10pm
 date: 2018-05-19
 type: Ballad, Folk, Tribute
-image: DYLAN-AT-THE-GASLIGHT-CAFE
-permalink: /events/-DYLAN-AT-THE-GASLIGHT-CAFE
+image: dylan-at-the-gaslight-cafe
+permalink: /events/-dylan-at-the-gaslight-cafe
 ---
 A year after officially changing his name to Bob Dylan in 1962, the future voice of a generation was still virtually unknown outside Greenwich Village. Dylan secured a residency at Manhattan's Gaslight Café.
 
