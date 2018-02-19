@@ -148,6 +148,11 @@
   margin: $size-small 0 0;
   display: block;
 }
+.class--contact {
+  a {
+    margin-right: $size-small;
+  }
+}
 .class--desc {
   margin: $size-med 0 0;
 }

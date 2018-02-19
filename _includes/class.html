@@ -4,22 +4,23 @@
       <span class="class--data">{{ class.time }} – &pound;{{ class.price }}</span>
       <span class="class--contact">
         {% if class.tel %}
-          Telephone <tel>{{ class.tel }}</tel>
-          {% else %}
-            Tel: &ndash;
-          {% endif %}
-        <i>|</i>
-        {% if class.email %}
-          Email <a href="mailto:{{ class.email }}">{{ class.email }}</a></span>
+        <a href="{{ class.tel }}">
+          <i class="fas fa-phone"></i> {{ class.tel }}
+        </a>
         {% else %}
-          Email: &ndash;
         {% endif %}
-        <i>|</i>
+        {% if class.email %}
+        <a href="mailto:{{ class.email }}">
+          <i class="fas fa-envelope"></i> Email
+        </a>
+        {% else %}
+        {% endif %}
         {% if class.web %}
-          Web <a href="{{ class.web }}">{{ class.webtitle }}</a>
-          {% else %}
-            Web: &ndash;
-          {% endif %}
+        <a href="{{ class.web }}">
+          <i class="fas fa-globe"></i> {{ class.webtitle }}
+        </a>
+        {% else %}
+        {% endif %}
 
       <p class="class--desc">{{ class.desc }}</p>
   </li>

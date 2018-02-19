@@ -64,6 +64,9 @@
     {% if page.layout == "eventdetail" %}
       <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     {% endif %}
+    {% if page.title == "Classes" %}
+      <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+    {% endif %}
   </head>
   <body
     class="{{ page.layout }} {% if page.title == "Classes" %}classes-wrap{% endif %} {{ page.title }}"
