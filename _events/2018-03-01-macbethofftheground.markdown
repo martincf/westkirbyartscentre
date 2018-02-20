@@ -15,4 +15,4 @@ permalink: /events/macbeth-off-the-ground
 
 1st, 2nd and 3rd of March. Modern urban setting and costume.
 
-**Please note:** the first night, Thursday 1st March, is a full dress rehearsal and is taking place at Calday Grange Grammar School School.
+**Please note:** the first night, Thursday 1st March, is a full dress rehearsal and is taking place at Calday Grange Grammar School.
