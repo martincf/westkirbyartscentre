@@ -7,7 +7,7 @@ organiser_url:
 price: 6
 time: 7pm-10pm
 date: 2018-07-10
-type: Story, Music
+type: "Wirral Festival of Firsts: Story, Music"
 image: Light-and-Dark
 permalink: /events/Light-and-Dark
 ---

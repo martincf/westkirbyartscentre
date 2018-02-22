@@ -7,7 +7,7 @@ organiser_url: https://www.wegottickets.com/event/426533
 price: 25
 time: 9:30am-3:30pm
 date: 2018-07-08
-type: Choir and Folk
+type: "Wirral Festival of Firsts: Choir and Folk"
 image: choirinaday
 permalink: /events/Choir-in-a-Day
 ---

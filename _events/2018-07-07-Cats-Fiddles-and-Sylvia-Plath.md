@@ -7,7 +7,7 @@ organiser_url:
 price: 6
 time: 7pm-10pm
 date: 2018-07-07
-type: Poetry, Music
+type: "Wirral Festival of Firsts: Poetry, Music"
 image: Cats-Fiddles-Sylvia-Plath
 permalink: /events/Cats-Fiddles-and-Sylvia-Plath
 ---
