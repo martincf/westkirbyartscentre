@@ -9,15 +9,15 @@
   <!-- Get the server's time minus 1 day (to allow events to show on same day) -->
   {% assign currentDate = site.time | date: '%s' %}
   {% assign currentDateInt = currentDate | plus:0 | minus: 86400 %}
-  {% assign futureDate = currentDateInt | plus:2592000 %}
+  {% assign futureDate = currentDateInt | plus:3592000 %}
   {% for event in site.events %}
     <!-- Get all the events dates -->
     {% assign eventDate = event.date | date: '%s' %}
     {% assign eventDateInt = eventDate | plus:0 %}
-
+    {% assign eventDraft = event.draft %}
     <!-- Compare event start date to server date (all future events and today's events should show) -->
     {% if page.title == "Home" %}
-      {% if eventDateInt >= currentDateInt and eventDateInt <= futureDate %}
+      {% if eventDateInt >= currentDateInt and eventDateInt <= futureDate and eventDraft != true %}
       <li class="eventlist-item" style="background-image: url({{ site.baseurl }}/assets/images/events/{{ event.image }}.jpg);">
           <a class="eventlist-item-link" href="{{ event.url }}">
             <div class="eventlist-item-link--wrap">
@@ -30,8 +30,7 @@
       </li>
         {% endif %}
       {% else %}
-        {% if eventDateInt >= currentDateInt %}
-
+        {% if eventDateInt >= currentDateInt and eventDraft != true %}
           <li class="eventlist-item" style="background-image: url({{ site.baseurl }}/assets/images/events/{{ event.image }}.jpg);">
               <a class="eventlist-item-link" href="{{ event.url }}">
                 <div class="eventlist-item-link--wrap">
