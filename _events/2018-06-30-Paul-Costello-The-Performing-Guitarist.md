@@ -10,7 +10,7 @@ date: 2018-06-30
 type: "Wirral Festival of Firsts: Music, Classical"
 image: Paul-Costello-The-Performing-Guitarist
 permalink: /events/Paul-Costello-The-Performing-Guitarist
-draft: true
+draft: false
 ---
 
 The Performing Guitarist: This workshop, presented by Paul Costello, is for classical and acoustic guitarists, at all levels, who wish to become more confident performers.
