@@ -8,7 +8,7 @@ price: 7
 time: 2pm-4pm
 date: 2018-06-30
 type: "Wirral Festival of Firsts: Music, Classical"
-image: Paul-Costello-The-Performing-Guitarist
+image: paul-costello-the-performing-guitarist
 permalink: /events/Paul-Costello-The-Performing-Guitarist
 draft: false
 ---

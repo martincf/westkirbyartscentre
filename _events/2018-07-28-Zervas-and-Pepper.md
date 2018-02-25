@@ -8,7 +8,7 @@ price: 12
 time: 7pm-10pm
 date: 2018-07-28
 type: "Wirral Festival of Firsts: Music, Folk"
-image: Zervas-and-Pepper
+image: zervas-and-pepper
 permalink: /events/Zervas-and-Pepper
 draft: false
 ---
