@@ -4,7 +4,7 @@ title:  "John Jenkins and The James Street Band"
 section_title: Music event
 bookable: yes
 organiser_url:
-price: 10
+price: 6
 time: 7pm-10pm
 date: 2018-03-24
 type: Country, Folk, Americana
