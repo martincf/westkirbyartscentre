@@ -6,7 +6,7 @@ bookable: no
 organiser_url: http://www.offtheground.co.uk/index.php?option=com_eventbooking&view=category&layout=table&Itemid=164
 price: 8
 time: 9.30pm-5.30pm
-date: 2018-03-03
+date: 2018-03-01
 type: Drama
 image: macbeth
 venue:
