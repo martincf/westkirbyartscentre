@@ -2,7 +2,7 @@
 layout: eventdetail
 title:  "The Edgelarks"
 section_title: Music event
-bookable: yes
+bookable: no
 organiser_url:
 price: 14
 time: 7pm-10pm
