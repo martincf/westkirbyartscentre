@@ -4,7 +4,7 @@ title:  "Irish Music Night"
 section_title: Music event
 bookable: yes
 organiser_url:
-price: 10
+price: SOLDOUT
 time: 7pm-10pm
 date: 2018-03-17
 type: Folk
