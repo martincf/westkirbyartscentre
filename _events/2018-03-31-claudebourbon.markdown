@@ -1,6 +1,6 @@
 ---
 layout: eventdetail
-published: false
+draft: true
 title:  "Claude Bourbon with medieval & Spanish blues"
 section_title: Music event
 bookable: yes
