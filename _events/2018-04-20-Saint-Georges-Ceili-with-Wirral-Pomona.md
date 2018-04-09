@@ -19,12 +19,12 @@ Doors will open from 6.30pm with food and the fully stocked licensed bar. Music 
 ## Meal/non-meal & child tickets
 Our online bookable tickets are £10 (for entry and a meal).
 
-**For advanced tickets for 6-16 years olds at £6 (including a meal) or adult tickets without a meal at the same price**, please contact the event organiser, [Dave Ellwand](pdellwand@hotmail.com) directly . You can risk getting non-meal tickets on the door but be prepared for disappointment as last time we had a ceili, people were turned away.
+**For advanced tickets for 6-16 years olds at £6 (including a meal) or adult tickets without a meal at the same price**, please contact the event organiser, [Dave Ellwand](mailto:pd@daveellwand.co.uk) directly . You can risk getting non-meal tickets on the door but be prepared for disappointment as last time we had a ceili, people were turned away.
 
 Tickets on the night (at the venue) will be £6 for adults and for 6-16s are £4. Under 5s are free and welcome.
 
 ### Meal preferences
-Please also [contact Dave](pdellwand@hotmail.com) to give your meat/veggie options to assist with catering.
+Please also [contact Dave](mailto:pd@daveellwand.co.uk) to give your meat/veggie options to assist with catering.
 
 
 ## About Wirral Pomona
