@@ -1,7 +1,7 @@
 - name: The Movement Personal Training
   day: Monday-Friday
   time: 6.30am-12.30pm
-  price: "-"
+  price: "... Please get in touch"
   tutor: Simon Large
   desc: |
     One-to-one and small group personalised fitness training. Healthy eating and lifestyle coaching, injury prevention and rehab, deep tissue massage.
@@ -42,16 +42,16 @@
   email:
   image: class-fitness2
 
-- name: Salsa Dancing
-  day: Monday
-  time: 8.00pm-10.00pm
-  price: "4 on the door. No booking, beginners welcome"
-  tutor: Jackie Williams
-  desc: |
-    Come and join the Ballrom Blitz family and start your very own strictly journey. No partner required.
-  tel: 07799 701 815
-  email: jackie@ballroom-blitz.co.uk
-  image: class-dancing
+# - name: Salsa Dancing
+#   day: Monday
+#   time: 8.00pm-10.00pm
+#   price: "4 on the door. No booking, beginners welcome"
+#   tutor: Jackie Williams
+#   desc: |
+#     Come and join the Ballrom Blitz family and start your very own strictly journey. No partner required.
+#   tel: 07799 701 815
+#   email: jackie@ballroom-blitz.co.uk
+#   image: class-dancing
 
 - name: Still Life Drawing and Painting
   day: Tuesday
@@ -88,16 +88,16 @@
   webtitle: Website
   image: class-singing
 
-- name: Ballroom & Latin classes
-  day: Wednesday
-  time: 7.30pm-10.00pm
-  price: "6 per person"
-  tutor: Jackie Williams
-  desc: |
-    Come and join the Ballrom Blitz family and start your very own strictly journey. Includes fun warm up 1 hour ballroom & 1 hour Latin includes practise time)
-  tel: 07799 701 815
-  email: jackie@ballroom-blitz.co.uk
-  image: class-dancing
+# - name: Ballroom & Latin classes
+#   day: Wednesday
+#   time: 7.30pm-10.00pm
+#   price: "6 per person"
+#   tutor: Jackie Williams
+#   desc: |
+#     Come and join the Ballrom Blitz family and start your very own strictly journey. Includes fun warm up 1 hour ballroom & 1 hour Latin includes practise time)
+#   tel: 07799 701 815
+#   email: jackie@ballroom-blitz.co.uk
+#   image: class-dancing
 
 - name: Yoga with the Yogasmiths
   day: Thursday
