@@ -216,6 +216,7 @@
 }
 .event--genre {
   color: lighten($purple, 25%);
+  text-transform: capitalize;
 }
 .event--date {
   font-weight: 700;
