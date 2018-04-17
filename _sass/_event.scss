@@ -122,13 +122,13 @@
   }
 }
 .event--price {
-  font-size: $size-large;
+  font-size: calc(1.4 * #{$size-med});
   font-weight: 900;
   color: $purple;
   width: 35%;
   float: left;
-  vertical-align: bottom;
-  margin-bottom: 0 !important;
+  // vertical-align: bottom;
+  margin-top: .25em !important;
   @include mq(medium) {
     font-size: $font-large;
     margin-top: $size-small;

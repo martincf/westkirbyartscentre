@@ -15,7 +15,12 @@
         <p>We're sorry, this event is now sold out.</p>
       </div>
     {% elsif page.bookable == true %}
-  <p class="event--price">&pound;{{ page.price }}</p>
+
+  <!-- Format price for trailing zeros -->
+  {% assign price_split = page.price | round: 2 | split: "." %}
+  {% assign integral = price_split[0] %}
+  {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
+  <p class="event--price">&pound;{{ integral }}.{{ fractional }}</p>
 
   <!-- Ticket calc -->
   <p class="event--tickets">
@@ -45,8 +50,15 @@
       document.getElementById("wpTotalPrice").value = ticketsTotal;
     });
   </script>
-
-  <p class="event--ticketssummary">Total <span class="event--totaltickets" id="totalTickets">1</span> &pound;<span id="totalPrice">{{ page.price }}</span></p>
+  
+  <p class="event--ticketssummary">
+    Total <span class="event--totaltickets" id="totalTickets">1</span>
+    <!-- Format price for trailing zeros -->
+    {% assign price_split = page.price | round: 2 | split: "." %}
+    {% assign integral = price_split[0] %}
+    {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
+    &pound;<span id="totalPrice">{{ integral }}.{{ fractional }}</span>
+  </p>
 
   <form action="https://secure.worldpay.com/wcc/purchase" method="POST">
     <!-- This next line contains the testMode parameter - it species that the submission is a test submission -->
