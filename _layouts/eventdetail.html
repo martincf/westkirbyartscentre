@@ -14,6 +14,13 @@
         <h2>Sold out</h2>
         <p>We're sorry, this event is now sold out.</p>
       </div>
+    {% elsif page.price == "FREE" %}
+    <div class="event--free">
+      <h2>Free event</h2>
+      <p class="event--nobooking">Tell us how many tickets you'd like...</p>
+      <button class="event--organisertickets">
+        <a href="mailto:hello@westkirbyartscentre.org.uk?subject=Tickets-{{page.title}}">Request tickets &gt;</a>
+      </button>    </div>
     {% elsif page.bookable == true %}
 
   <!-- Format price for trailing zeros -->
@@ -50,7 +57,7 @@
       document.getElementById("wpTotalPrice").value = ticketsTotal;
     });
   </script>
-  
+
   <p class="event--ticketssummary">
     Total <span class="event--totaltickets" id="totalTickets">1</span>
     <!-- Format price for trailing zeros -->
