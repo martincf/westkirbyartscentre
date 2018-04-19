@@ -4,7 +4,7 @@ title:  "Saint George's Ceili with Wirral Pomona"
 section_title: Music event
 bookable: yes
 organiser_url:
-price: 10
+price: CANCELLED
 time: 6:30pm-10pm
 date: 2018-04-20
 type: Folk, Music, Food, Dance

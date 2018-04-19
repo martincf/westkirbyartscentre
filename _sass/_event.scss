@@ -165,6 +165,21 @@
     margin-bottom: $size-med;
   }
 }
+.content .event--cancelled {
+  h2 {
+    margin-top: $size-med;
+    background-color: $black;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    padding: $size-small;
+    transform: rotate(-2deg);
+  }
+  p {
+    text-align: center;
+    margin-bottom: $size-med;
+  }
+}
 .content .event--free {
   h2 {
     margin-top: $size-med;

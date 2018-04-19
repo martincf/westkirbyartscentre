@@ -20,6 +20,11 @@
       {% if eventDateInt >= currentDateInt and eventDateInt <= futureDate and eventDraft != true %}
       <li class="eventlist-item" style="background-image: url({{ site.baseurl }}/assets/images/events/{{ event.image }}.jpg);">
           <a class="eventlist-item-link" href="{{ event.url }}">
+            {% if event.price == "CANCELLED" %}
+              <div class="eventlist-item--banner">
+                CANCELLED
+              </div>
+            {% endif %}
             <div class="eventlist-item-link--wrap">
               <h1 class="eventlist-item-link--title">{{ event.title }}</h1>
               <h2 class="eventlist-item-link--data">
@@ -32,6 +37,11 @@
       {% else %}
         {% if eventDateInt >= currentDateInt and eventDraft != true %}
           <li class="eventlist-item" style="background-image: url({{ site.baseurl }}/assets/images/events/{{ event.image }}.jpg);">
+            {% if event.price == "CANCELLED" %}
+              <div class="eventlist-item--banner">
+                CANCELLED
+              </div>
+            {% endif %}
               <a class="eventlist-item-link" href="{{ event.url }}">
                 <div class="eventlist-item-link--wrap">
                   <h1 class="eventlist-item-link--title">{{ event.title }}</h1>
