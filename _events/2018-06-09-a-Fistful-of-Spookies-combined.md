@@ -8,7 +8,7 @@ price: 20
 time: 4pm-10pm
 date: 2018-06-09
 type: music, voice
-image: a-fistful-of-spookies-combined
+image: fistfulcombined
 permalink: /events/a-fistful-of-spookies-combined
 ---
 
