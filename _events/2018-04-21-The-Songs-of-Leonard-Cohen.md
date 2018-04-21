@@ -4,7 +4,7 @@ title:  "The Songs of Leonard Cohen"
 section_title: Music event
 bookable: yes
 organiser_url:
-price: 12
+price: SOLDOUT
 time: 7pm-10pm
 date: 2018-04-21
 type: Folk, Ballad, Tribute
