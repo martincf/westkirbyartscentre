@@ -1,6 +1,6 @@
 ---
 layout: eventdetail
-title:  "Lightbox: black & white development and printing"
+title:  "Lightbox: black & white darkroom printing"
 section_title: Craft event
 bookable: no
 organiser_url: http://www.lightbox.photo/learn/
