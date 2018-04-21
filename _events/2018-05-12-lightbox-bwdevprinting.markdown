@@ -9,7 +9,7 @@ time: 10am-5pm
 date: 2018-05-12
 type: Craft
 image: lightbox1
-permalink: /events/lightbox-black-and-white-dev-and-printing-mar2018
+permalink: /events/lightbox-black-and-white-dev-and-printing-may2018
 ---
 
 Learn how to develop and then print your own film black and white photography images.

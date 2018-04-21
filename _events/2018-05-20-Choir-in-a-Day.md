@@ -3,6 +3,8 @@ layout: eventdetail
 title:  "Choir in a Day"
 section_title: Music event
 bookable: no
+published: false
+draft: true
 organiser_url: https://www.wegottickets.com/event/426526
 price: 25
 time: 9:30am-3:30pm

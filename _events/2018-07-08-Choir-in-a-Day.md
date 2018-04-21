@@ -10,6 +10,8 @@ date: 2018-07-08
 type: "Wirral Festival of Firsts: Choir and Folk"
 image: choirinaday
 permalink: /events/Choir-in-a-Day
+published: false
+draft: true
 ---
 
 Come and experience the joy of singing at this one-day workshop in the beautiful acoustics of West Kirby Arts Centre.
