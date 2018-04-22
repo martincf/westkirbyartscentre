@@ -10,6 +10,7 @@ date: 2018-04-21
 type: Folk, Ballad, Tribute
 image: The-Songs-of-Leonard-Cohen
 permalink: /events/The-Songs-of-Leonard-Cohen
+published: false
 ---
 
 Keith James in concert
