@@ -75,7 +75,6 @@
   position: relative;
   bottom: -50px;
   padding-top: 0;
-
 }
 .eventdetail .content {
   @include mq(small-smartphone) {
@@ -346,6 +345,14 @@
   }
   p {
     margin: 0 0 $size-med;
+  }
+  strong > em {
+    font-weight: 300;
+    font-size: $font-large;
+    font-style: italic;
+    color: $green;
+    display: block;
+    margin: 1em .5em;
   }
 }
 .event--purchase {
