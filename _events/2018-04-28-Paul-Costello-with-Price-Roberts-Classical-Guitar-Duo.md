@@ -10,6 +10,7 @@ date: 2018-04-28
 type: Jazz, Folk, Classical, World
 image: Paul-Costello-with-Price-Roberts-Classical-Guitar-Duo
 permalink: /events/Paul-Costello-with-Price-Roberts-Classical-Guitar-Duo
+published: false
 ---
 
 Paul Costello has performed, in Europe and the UK, with musicians from the worlds of jazz, classical, folk, and world music.
