@@ -8,7 +8,7 @@ price: 8
 time: 7pm-10pm
 date: 2018-05-26
 type: Folk, Music, Blues
-image: Strike-Another-Match
+image: strike
 permalink: /events/Strike-Another-Match
 ---
 
