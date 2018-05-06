@@ -10,6 +10,7 @@ date: 2018-05-05
 type: Jazz, Folk, Classical, World
 image: Tennessee-Waltz-with-the-Helsby-String-Band
 permalink: /events/-Tennessee-Waltz-with-the-Helsby-String-Band
+published: false
 ---
 Jimmy and Sarah-Lou (also of Jimmy Rae & the Moonshine Girls) are a highly experienced and professional acoustic vocal harmony duo with a passion for all things country and Americana.
 

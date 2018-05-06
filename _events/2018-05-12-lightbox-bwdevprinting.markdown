@@ -12,6 +12,8 @@ image: lightbox1
 permalink: /events/lightbox-black-and-white-dev-and-printing-may2018
 ---
 
+1 space left!
+
 Learn how to develop and then print your own film black and white photography images.
 
 The satisfaction and aesthetic beauty of a silver gelatin print cannot be beaten. Come and learn how to create some wonderful imagery, and finish the day with your own prints to frame and/or sell.
