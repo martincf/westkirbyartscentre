@@ -6,7 +6,7 @@ bookable: no
 organiser_url: http://www.lightbox.photo/learn/
 price: 40
 time: 10am-5pm
-date: 2018-05-12
+date: 2018-06-23
 type: Craft
 image: lightbox1
 permalink: /events/lightbox-black-and-white-dev-and-printing-may2018
