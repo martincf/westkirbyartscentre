@@ -311,29 +311,30 @@
 }
 .event--organisertickets {
   width: 100%;
+  box-sizing: border-box;
   padding: 0;
+  display: block;
+  margin: $size-med 0;
+  padding: $size-small;
+  border-radius: 5px;
+  background-color: $purple;
+  font-size: $size-med;
+  font-weight: 700;
+  text-align: center;
+  @include transition();
 
-  a {
-    display: block;
-    margin: $size-med 0;
+  &:link, &:visited {
+    color: white !important;
+  }
+  &:hover, &:active {
+    background-color: lighten($purple, 20%);
+    transform: scale(1.05);
+  }
+
+  @include mq(medium) {
     padding: $size-small;
-    border-radius: 5px;
-    background-color: $purple;
-    font-size: $size-med;
-    font-weight: 700;
-    @include transition();
-    &:link, &:visited {
-      color: white !important;
-    }
-    &:hover, &:active {
-      background-color: lighten($purple, 20%);
-      transform: scale(1.05);
-    }
-    @include mq(medium) {
-      padding: $size-small;
-      font-size: $font-med;
-      margin: $size-small 0 $size-med;
-    }
+    font-size: $font-med;
+    margin: $size-small 0 $size-med;
   }
 }
 .event--details {

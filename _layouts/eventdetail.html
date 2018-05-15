@@ -5,9 +5,9 @@
     <h1 class="event--pay-title">Book tickets</h1>
     {% if page.bookable == false %}
       <p class="event--nobooking">Tickets must be booked via the organiser:</p>
-      <button class="event--organisertickets">
-        <a href="{{ page.organiser_url }}">Organiser website &gt;</a>
-      </button>
+        <a class="event--organisertickets" href="{{ page.organiser_url }}">
+          Organiser website &gt;
+        </a>
 
     {% elsif page.bookable == true and page.price == "SOLDOUT" %}
       <div class="event--soldout">
