@@ -4,7 +4,7 @@ title:  "Dylan at the Gaslight Café"
 section_title: Music event
 bookable: yes
 organiser_url:
-price: 6
+price: SOLDOUT
 time: 7pm-10pm
 date: 2018-05-19
 type: Ballad, Folk, Tribute
