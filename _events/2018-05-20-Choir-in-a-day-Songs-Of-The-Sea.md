@@ -10,6 +10,7 @@ date: 2018-05-20
 type: Choir and folk
 image: choir-in-a-day-songs-of-the-sea
 permalink: /events/Choir-in-a-day-Songs-Of-The-Sea
+published: false
 ---
 
 Come and experience the joy of singing at this one-day workshop in the beautiful acoustics of West Kirby Arts Centre.
