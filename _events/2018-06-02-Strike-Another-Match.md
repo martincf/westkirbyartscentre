@@ -10,6 +10,7 @@ date: 2018-06-02
 type: Folk, Music, Blues
 image: strike
 permalink: /events/Strike-Another-Match
+published: false
 ---
 
 The Celebrated are the West Kirby Arts Centre house band with a core group of five musicians (Bob Glass, Glyn Jones, Craig Mackintosh, Gareth Padfield and Trevor Smith) formed in 2015 to perform concerts to raise money for charities and have been doing so ever since, with many invited guest musicians. The ‘Strike Another Match Concert’ concert will be their 16th performed at the West Kirby Arts Centre.
