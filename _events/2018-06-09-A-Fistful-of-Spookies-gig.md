@@ -10,9 +10,10 @@ date: 2018-06-09
 type: A capella, voice
 image: A-Fistful-of-Spookies-gig
 permalink: /events/A-Fistful-of-Spookies-gig
+published: false
 ---
 
-Join with A Fistful of Spookies (UK) for an evening of comedy and song with sensational stylings of Tom Waits, Leonard Cohen, The Beach Boys, a stirring of brand newies and thousand year old Georgian songs, guaranteed to woo, charm, cheer & delight. 
+Join with A Fistful of Spookies (UK) for an evening of comedy and song with sensational stylings of Tom Waits, Leonard Cohen, The Beach Boys, a stirring of brand newies and thousand year old Georgian songs, guaranteed to woo, charm, cheer & delight.
 
 A Fistful of Spookies (UK) were abandoned to their own appliances when festival hits The Spooky Men’s Chorale retreated to Australia after sold-out 2015 & 2017 tours. This rambunctious collection of UK Spooks keep alive the flame of Spookiness in Britain. Magnificent fun!
 

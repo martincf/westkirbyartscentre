@@ -10,6 +10,7 @@ date: 2018-06-09
 type: music, voice
 image: fistfulcombined
 permalink: /events/a-fistful-of-spookies-combined
+published: false
 ---
 
 Don't miss out on the full force of the Spooky magic!
