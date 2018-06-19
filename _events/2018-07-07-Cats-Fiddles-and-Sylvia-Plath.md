@@ -4,7 +4,7 @@ title:  "Cats, Fiddles and Sylvia Plath"
 section_title: Music and Poetry Event
 bookable: yes
 organiser_url:
-price: 6
+price: CANCELLED
 time: 7pm-10pm
 date: 2018-07-07
 type: "Wirral Festival of Firsts: Poetry, Music"
