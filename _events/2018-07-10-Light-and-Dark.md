@@ -12,6 +12,8 @@ image: Light-and-Dark
 permalink: /events/Light-and-Dark
 ---
 
+**Please note: doors open 7pm for a 7.30pm start.**
+
 The first part of the evening - Facing the Music (Rosie Glass) is an autobiographical story of Rosie's experiences after surviving a life threatening illness, interspersed with flute pieces recorded by her.
 
 The story takes us through the irony of unexpectedly surviving only to be shown that as a suddenly "dis-abled person" she must often accept what others do not. The story ends with a vision for a changed future, while also including a varied musical programme. 

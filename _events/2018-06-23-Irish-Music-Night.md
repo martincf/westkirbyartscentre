@@ -10,6 +10,7 @@ date: 2018-06-23
 type: folk, music, dance
 image: Irish-Music-Night
 permalink: /events/Irish-Music-Night
+published: false
 ---
 
 Another evening of Irish folk music with John Walsh and Keith Price, following on from their successful St Patrick's evening in March.
