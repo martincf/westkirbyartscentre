@@ -10,6 +10,7 @@ date: 2018-07-01
 type: "Wirral Festival of Firsts: Poetry"
 image: Jackie-Kay
 permalink: /events/Jackie-Kay
+published: false
 ---
 
 Jackie Kay is a poet, novelist and playwright, with many distinctions including her current role as the third modern Makar (Scottish poet laureate).
