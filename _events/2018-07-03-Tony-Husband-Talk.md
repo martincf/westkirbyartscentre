@@ -10,6 +10,7 @@ date: 2018-07-03
 type: "Wirral Festival of Firsts: Writer, Artist"
 image: Tony-Husband-Talk
 permalink: /events/Tony-Husband-Talk
+published: false
 ---
 
 Tony Husband astonished and delighted Festival goers in 2017 with his quick fire cartoons. Tony returns to give a talk based on the story of his father and how dementia slowly took him away from his family. This is documented in his book Take Care, Son: The Story of My Dad and his Dementia (2014).
