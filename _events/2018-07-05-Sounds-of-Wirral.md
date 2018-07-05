@@ -10,6 +10,7 @@ date: 2018-07-05
 type: "Wirral Festival of Firsts: Poetry, Music"
 image: soundsofwirral
 permalink: /events/Sounds-of-Wirral
+published: false
 ---
 
 An evening of original music and poetry on Thursday 5th July at 7.30pm at West Kirby Arts Centre.  
