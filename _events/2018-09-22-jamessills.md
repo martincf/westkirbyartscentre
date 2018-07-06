@@ -6,7 +6,7 @@ bookable: yes
 organiser_url:
 price: 8
 time: 7pm for 7.45pm start
-date: 2018-09-01
+date: 2018-09-22
 type: 60's and 70's
 image: troubadours-photo2
 permalink: /events/-James-Sills-Troubadours
