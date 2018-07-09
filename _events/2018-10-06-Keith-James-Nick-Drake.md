@@ -8,7 +8,7 @@ price: 12
 time: 7pm for 7.45pm start
 date: 2018-10-06
 type: singer songwriter
-image: nickblanket_4.jpg
+image: nickblanket_4
 permalink: /events/-Keith-James-The-Songs-of-Nick-Drake
 ---
 

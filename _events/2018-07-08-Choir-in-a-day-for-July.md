@@ -10,6 +10,7 @@ date: 2018-07-08
 type: Choir and folk
 image: choir-in-a-day-for-july
 permalink: /events/Choir-in-a-day-for-July
+published: false
 ---
 
 Come and experience the joy of singing at this one-day workshop in the beautiful acoustics of West Kirby Arts Centre.

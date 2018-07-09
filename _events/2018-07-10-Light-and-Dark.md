@@ -10,6 +10,7 @@ date: 2018-07-10
 type: "Wirral Festival of Firsts: Story, Music"
 image: Light-and-Dark
 permalink: /events/Light-and-Dark
+published: true
 ---
 
 **Please note: doors open 7pm for a 7.30pm start.**
