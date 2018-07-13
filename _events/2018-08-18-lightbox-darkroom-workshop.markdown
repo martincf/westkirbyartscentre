@@ -6,13 +6,13 @@ bookable: no
 organiser_url: http://www.lightbox.photo/learn/
 price: 40
 time: 10am-5pm
-date: 2018-07-14
+date: 2018-08-18
 type: Craft
 image: lightbox1
-permalink: /events/lightbox-black-and-white-dev-and-printing-may2018
+permalink: /events/lightbox-darkroom-workshop
 ---
 
-1 space left!
+2 space left!
 
 Learn how to develop and then print your own film black and white photography images.
 
