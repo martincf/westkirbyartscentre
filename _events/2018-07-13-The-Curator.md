@@ -10,6 +10,7 @@ date: 2018-07-13
 type: "Wirral Festival of Firsts: Theatre, Play"
 image: The-Curator
 permalink: /events/The-Curator
+published: false
 ---
 
 The Curator is a two act play - written by  Alexander Bishop & Christopher A. Sutcliffe.
