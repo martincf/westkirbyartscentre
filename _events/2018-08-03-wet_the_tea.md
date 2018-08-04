@@ -10,11 +10,12 @@ date: 2018-08-03
 type: irish folk
 image: wetthetea
 permalink: /events/Wet-the-Tea
+published: false
 ---
 
 Wet the Tea is Andy Connally, Andy Saunders and Ciaran Burke.
 
-They are all musicians who have traditional Irish Music roots that were formed in the Liverpool Irish Centre through Comhaltas. Andy Connally plays the flute, whistles, piano and guitar along with providing the vocals. Andy Saunders plays the banjo, bouzouki, mandolin and tenor guitar. Ciaran Burke plays the bodhran and cajon. 
+They are all musicians who have traditional Irish Music roots that were formed in the Liverpool Irish Centre through Comhaltas. Andy Connally plays the flute, whistles, piano and guitar along with providing the vocals. Andy Saunders plays the banjo, bouzouki, mandolin and tenor guitar. Ciaran Burke plays the bodhran and cajon.
 
 Together they blend traditional influences with a modern twist. Tune sets range from haunting slow airs through to blistering reels. Whilst the songs move through traditional Irish, folk, country and more,  Wet the Tea will take you through an interesting musical journey.
 
