@@ -19,7 +19,11 @@
         <h2>Cancelled</h2>
         <p>We're sorry, this event has now been cancelled.</p>
       </div>
-
+    {% elsif page.bookable == true and page.price == "FREENOTICKETS" %}
+      <div class="event--free">
+        <h2>Free</h2>
+        <p>No tickets required, just turn up!</p>
+      </div>
     {% elsif page.price == "FREE" %}
     <div class="event--free">
       <h2>Free event</h2>

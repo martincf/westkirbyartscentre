@@ -10,6 +10,7 @@ date: 2018-08-04
 type: jazz
 image: artisanjazz
 permalink: /events/artisan-jazz
+published: false
 ---
 
 ARTISAN JAZZ - eat, drink, jazz - Featuring piano jazz trio ‘THE JAZZ EXPRESS’ - Tappers Gin COCKTAILS, BRIMSTAGE BEER AND BEER SOMMELIER - MEET ALL THE MAKERS! Hosted by ‘ALEX RILEY’ -
