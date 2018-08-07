@@ -12,7 +12,7 @@ image: an-ideal-husband
 permalink: /events/an-ideal-husband
 ---
 
-A Woolgathers Greenroom Production
+A Woolgatherers Greenroom Production
 
 Sir Robert Chiltern is a successful MP with a beautiful wife and charming family. However, when he is confronted by Mrs Cheveley, who possesses a secret Robert would rather the world never knew, he finds himself in quite the pickle. To save himself from scandal and ruin, he must enlist the help of his friend and confidant, the charming, witty and (long term) bachelor, Lord Goring.
 
