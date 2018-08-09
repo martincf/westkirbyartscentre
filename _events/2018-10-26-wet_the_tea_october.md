@@ -5,7 +5,7 @@ section_title: Music
 bookable: yes
 organiser_url:
 price: 5
-time: 7pm
+time: 7pm for 7.30 start
 date: 2018-10-26
 type: irish folk
 image: wetthetea

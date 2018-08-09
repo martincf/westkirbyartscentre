@@ -5,11 +5,11 @@ section_title: Music
 bookable: yes
 organiser_url:
 price: 5
-time: 7pm for 7.30 start
-date: 2018-11-23
+time:  7pm for 7.30 start
+date: 2018-09-21
 type: irish folk
 image: wetthetea
-permalink: /events/Wet-the-Tea-November
+permalink: /events/Wet-the-Tea-September
 ---
 
 Wet the Tea is Andy Connally, Andy Saunders and Ciaran Burke.
