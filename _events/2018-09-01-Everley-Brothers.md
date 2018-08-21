@@ -4,7 +4,7 @@ title:  "All I have to do is dream"
 section_title: Music
 bookable: yes
 organiser_url:
-price: 8
+price: soldout
 time: 7pm for 7.30pm start
 date: 2018-09-01
 type: American folk
