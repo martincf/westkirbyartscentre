@@ -4,7 +4,7 @@ title:  "Henry Priestman"
 section_title: Music
 bookable: yes
 organiser_url:
-price: 12
+price: SOLDOUT
 time: 7pm-10pm
 date: 2018-09-29
 type: singer songwriter
