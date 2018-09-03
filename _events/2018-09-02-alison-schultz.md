@@ -10,6 +10,7 @@ date: 2018-09-02
 type: poetry
 image: alison-schultz
 permalink: /events/Alison-Schultz
+published: false
 ---
 
 Launch evening for Alison Schultz's volume of poetry.

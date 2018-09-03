@@ -10,6 +10,7 @@ date: 2018-09-01
 type: American folk
 image: everley
 permalink: /events/everley-brothers
+published: false
 ---
 
 £8 advance booking, £10 on the door.
