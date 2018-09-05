@@ -4,7 +4,7 @@ title:  "Wet the Tea"
 section_title: Music
 bookable: yes
 organiser_url:
-price: 5
+price: CANCELLED
 time: 7pm for 7.30 start
 date: 2018-10-26
 type: irish folk
