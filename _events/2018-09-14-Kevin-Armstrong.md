@@ -1,6 +1,6 @@
 ---
 layout: eventdetail
-title:  "An Evening with Kevin Armstong"
+title:  "An Evening with Kevin Armstrong"
 section_title: Music
 bookable: yes
 organiser_url:
@@ -12,7 +12,7 @@ image: david-bowie-kevin-armstrong-mcalpine
 permalink: /events/Kevin-Armstrong
 ---
 
-An evening with Kevin Arstrong
+An evening with Kevin Armstrong
 
 Kevin Armstrong’s guitar playing has accompanied stars including David Bowie, Iggy Pop, Morrissey, Prefab Sprout, Sinéad O'Connor, Roy Orbison, Brian Eno, Grace Jones, Paul McCartney and Thomas Dolby. Kevin guides us, with wit and candour, through his legendary career with specially selected film clips, outrageous anecdotes and inspiring stories. He will also perform selected songs spanning his remarkable back catalogue,
 
