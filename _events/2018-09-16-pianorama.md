@@ -16,7 +16,7 @@ West Kirby Arts Centre needs a new piano.
 
 Leading and emerging pianists from the region will play for 5 hours to raise money for a new piano for the West Kirby Arts Centre. The Arts Centre is a real hub for performance, educational activities and charitable fund-raising. A new piano would enhance all of these activities and facilitate new ones.
 
-### Pick a session and drop in!
+## Pick a session and drop in!
 
 #### 4-5pm Up-and-comers
 Junior and intermediate pianists from across the Wirral and Liverpool.
