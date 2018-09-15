@@ -1,6 +1,6 @@
 ---
 layout: eventdetail
-title:  "Irish night with John Walsh and Keith Price"
+title:  "Irish night with John Walsh, Keith Price – special guest Hughie Jones of The Spinners"
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk

@@ -10,6 +10,7 @@ date: 2018-09-14
 type: guitar
 image: david-bowie-kevin-armstrong-mcalpine
 permalink: /events/Kevin-Armstrong
+published: false
 ---
 
 Kevin Armstrong’s guitar playing has accompanied stars including David Bowie, Iggy Pop, Morrissey, Prefab Sprout, Sinéad O'Connor, Roy Orbison, Brian Eno, Grace Jones, Paul McCartney and Thomas Dolby.
