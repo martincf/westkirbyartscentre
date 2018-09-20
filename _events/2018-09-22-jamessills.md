@@ -4,7 +4,7 @@ title:  "Troubadours"
 section_title: Music
 bookable: yes
 organiser_url:
-price: 8
+price: SOLDOUT
 time: 7pm for 7.45pm start
 date: 2018-09-22
 type: 60's and 70's
