@@ -10,6 +10,7 @@ date: 2018-09-22
 type: 60's and 70's
 image: troubadours-photo2
 permalink: /events/-James-Sills-Troubadours
+published: false
 ---
 Featuring the music of James Taylor, Carole King, Joni Mitchell plus many more, ‘Troubadors’ is a celebration of a golden age of songwriting. The decade from 1965 to 1975 saw the flourishing of a new generation of troubadour singer-songwriters on both sides of the Atlantic, whose music was both poetic and deeply personal.
 

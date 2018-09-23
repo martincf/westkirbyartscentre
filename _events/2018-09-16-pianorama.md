@@ -10,6 +10,7 @@ date: 2018-09-16
 type: Fundraising concert
 image: pianorama
 permalink: /events/pianorama
+published: false
 ---
 
 West Kirby Arts Centre needs a new piano.
