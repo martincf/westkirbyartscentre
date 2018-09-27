@@ -135,7 +135,7 @@
 - name: Rooted Rebel Yoga
   day: Saturday
   time: 9.00am-10.00am
-  price: "4.00"
+  price: "7.00"
   tutor: "Hannah Doran"
   desc: |
     Yoga classes every Saturday morning.
@@ -153,3 +153,16 @@
   tel: 07718 282 900
   email:
   image: class-drama
+
+- name: Lightbox Darkroom workshops
+  day: Saturday
+  time: 9.30am-5.00pm
+  price: "40.00"
+  tutor: "Martin"
+  desc: |
+    Traditional photography workshops for film development and printing. Workshops run at least one Saturday every month. Check out the Lightbox website above for details.
+  tel: 0780 557 4597
+  email: info@lightbox.photo
+  web: https://lightbox.photo/learn/
+  webtitle: Website
+  image: class-lightbox
