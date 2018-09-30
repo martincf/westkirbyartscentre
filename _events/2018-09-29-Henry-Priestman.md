@@ -10,6 +10,7 @@ date: 2018-09-29
 type: singer songwriter
 image: henry-priestman
 permalink: /events/-Henry-Priestman
+published: false
 ---
 
 
