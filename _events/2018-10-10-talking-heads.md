@@ -4,7 +4,7 @@ title: "Alan Bennett's 2 Talking Heads"
 section_title: Drama
 bookable: yes
 organiser_url: wwww.westkirbyartscentre.org.uk
-price: 10
+price: SOLDOUT
 time: 7pm for 7.30pm start
 date: 2018-10-10
 type: Touring Theatre
