@@ -10,6 +10,7 @@ date: 2018-10-05
 type: True Life Stories
 image: diary
 permalink: /events/Captain-Duncans-Diaries
+published: false
 ---
 
 Premier Production of Captain Duncan's Diaries written by Meg Parkes and dramatised for the stage by Ann Warr.

@@ -10,6 +10,7 @@ date: 2018-10-10
 type: Touring Theatre
 image: alanbennett
 permalink: /events/Alan-Bennets-2-talking-heads
+published: false
 ---
 
 Library Theatre Touring Companies production of Alan Bennett's 2 Talking Heads
