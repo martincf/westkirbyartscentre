@@ -10,6 +10,7 @@ date: 2018-10-12
 type: comedy
 image: prosandcomsoctgig
 permalink: /events/prosandcoms
+published: false
 ---
 
 An evening of comedy and music. Featuring...
