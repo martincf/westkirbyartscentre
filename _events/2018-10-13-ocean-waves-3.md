@@ -10,6 +10,7 @@ date: 2018-10-13
 type: Fundraising concert featuring songs of the sea
 image: rnli-flag
 permalink: /events/Ocean-Waves-3
+published: false
 ---
 
 Back by popular demand our annual fundraiser for the RNLI.
