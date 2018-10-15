@@ -4,7 +4,7 @@ title:  "Wet the Tea"
 section_title: Music
 bookable: yes
 organiser_url:
-price: 5
+price: 8
 time: 7pm for 7.30 start
 date: 2018-11-23
 type: irish folk

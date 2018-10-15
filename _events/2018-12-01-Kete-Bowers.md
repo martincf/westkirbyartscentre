@@ -10,6 +10,7 @@ date: 2018-12-01
 type: "Wirral Festival of Firsts: Music, Folk"
 image: Kete-Bowers
 permalink: /events/Kete-Bowers
+published: false
 ---
 
 Singer songwriter from Birkenhead now based on the Essex/Suffolk border His music crosses many genres from Country, Folk, Rock, Americana and Blues.
