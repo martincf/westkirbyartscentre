@@ -6,7 +6,7 @@ bookable: yes
 organiser_url:
 price: CANCELLED
 time: 7pm for 7.30 start
-date: 2018-10-26
+date: 2000-10-26
 type: irish folk
 image: wetthetea
 permalink: /events/Wet-the-Tea-October
