@@ -6,10 +6,11 @@ bookable: yes
 organiser_url: https://www.westkirbyartscentre.org.uk
 price: 20
 time: 10.00am
-date: 2018-11-18
+date: 2000-11-18
 type: Workshop
 image: 2017_Sarah_McQuaid_3
 permalink: /events/Sarah-McQuaid-workshop
+published: false
 ---
 
 In addition to her Saturday evening concert, Sarah will be giving a 90-minute "Introduction to DADGAD" guitar workshop at 10am on the morning of Sunday 18 November.
