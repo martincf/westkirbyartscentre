@@ -10,6 +10,7 @@ date: 2018-10-20
 type: Irish Music
 image: irishmusicnight
 permalink: /events/irish-music-night
+published: false
 ---
 
 Ever popular with the West Kirby audience John Walsh and Keith Price give us another priceless night of Irish music. Tonight their guest is Hughie Jones
