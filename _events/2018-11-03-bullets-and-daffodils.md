@@ -8,8 +8,8 @@ price: 17.50
 time: 7pm for 7.30pm start
 date: 2018-11-03
 type: Musical
-image: bullets
-permalink: /events/bulletsdaffodils
+image: bulletsdaffodils
+permalink: /events/bullets-and-daffodils
 ---
 
 November 2018 sees the centenary of the end of World War 1, but more poignantly, it marks 100 years since the death of locally-educated war poet Wilfred Owen. Wilfred attended the Birkenhead Institute School, as did Wirral musician Dean Johnson, the writer of this stage musical dedicated to Owen.
