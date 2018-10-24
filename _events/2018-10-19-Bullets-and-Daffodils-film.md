@@ -10,6 +10,7 @@ date: 2018-10-19
 type: film night
 image: bullets-and-daffodils-film
 permalink: /events/bullets-and-Daffodils-Film
+published: false
 ---
 
 This is a free event with a request for donations.
