@@ -10,6 +10,7 @@ date: 2018-10-27
 type: Supporting young local talent
 image: autumnlights
 permalink: /events/autumn-lights
+published: false
 ---
 
 LOCAL YOUNG STARS IN CONCERT.
