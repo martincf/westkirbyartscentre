@@ -6,10 +6,11 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 8
 time: 7.30pm
-date: 2018-11-03
+date: 2000-11-03
 type: Beatles songs
 image: beatles-2018001
 permalink: /events/All-Together-Now
+published: false
 ---
 
 
