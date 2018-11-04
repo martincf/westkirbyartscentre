@@ -10,6 +10,7 @@ date: 2018-09-28
 type: music and dance
 image: apples
 permalink: /events/-wirral-pomona-autumn-celidh
+published: false
 ---
 
 Traditional Ceildh with caller and live music from Melrose Melody Makers & Guests.

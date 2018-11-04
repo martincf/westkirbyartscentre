@@ -10,6 +10,7 @@ date: 2018-11-02
 type: Live Folk, Rock, Blues, Country and Celtic Music
 image: eqpfundraiser
 permalink: /events/equipment-fundraiser
+published: false
 ---
 
 LOCAL STARS IN CONCERT to help raise much needed funds to enable the Arts Centre to improve it's stage lighting in preparation for future Musicals and Drama performances.
