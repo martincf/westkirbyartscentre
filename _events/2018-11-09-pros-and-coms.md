@@ -10,6 +10,7 @@ date: 2018-11-09
 type: Comedy, Music
 image: proscoms
 permalink: /events/Pros-and-coms
+published: false
 ---
 
 Trinity: is an eclectic blend of stand-up comedy, musical comedy and live music with performances from Sam Freeman, Kat Molinari  (comedian), and singer-songwriter Ellie Rose Smith hosted by Ash Preston  
