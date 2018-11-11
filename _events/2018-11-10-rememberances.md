@@ -10,6 +10,7 @@ date: 2018-11-10
 type: music, poetry, storytelling
 image: poppyfield
 permalink: /events/Rememberances
+published: false
 ---
 
 A programme of music, poetry and stories on the theme of "Rememberance" A celebration of gratitude, hope and reconciliation
