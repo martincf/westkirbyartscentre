@@ -14,7 +14,7 @@ permalink: /oisin-hassan-singer-songwriters-showcase
 
 Join Oisín Hassan & Friends for an evening of live...soulful music at his first ticketed event in the beautiful venue...The West Kirby Arts Centre with Support from Gareth Heesom and Ahmed Khwaja and a Pop Up stall from Sweet Pea & Little Wolf.
 
-## Oisin Hassan
+## Oisín Hassan
 
 Oisín is a Singer/Songwriter from Liverpool, with such a distinctive powerful voice. He has such a great ability at performing a whole range of styles of music with such a soulful twist. Oisín is greatly influenced by old music and grew up listening to Soul, Folk and Blues Music.
 
@@ -26,7 +26,7 @@ Tickets are on sale now for this event on Friday 14th December via this events p
 
 The next step will be the release of this upcoming single.
 
-- [Oisin's Facebook page](https://www.facebook.com/oisinhassanmusic/)
+- [Oisín's Facebook page](https://www.facebook.com/oisinhassanmusic/)
 - [YouTube video](https://youtu.be/9JUnSc33S00)
 
 ## Ahmed Khwaja
