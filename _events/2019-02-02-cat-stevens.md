@@ -8,7 +8,7 @@ price: 12
 time: 7.00pm for 7.45pm start
 date: 2019-02-02
 type: UNICEF fundraising concert
-image: Keith-james
+image: keith-james
 permalink: /events/Keith-james-cat-stevens
 ---
 
