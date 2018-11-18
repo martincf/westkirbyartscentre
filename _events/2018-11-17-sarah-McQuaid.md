@@ -10,6 +10,7 @@ date: 2018-11-17
 type: Concert
 image: 2017_Sarah_McQuaid_3
 permalink: /events/Sarah-McQuaid
+published: false
 ---
 
 "Finding treasure feels great, and such is the case with musician Sarah McQuaid. The soulful singer, smart and sensuous songwriter, and scintillating guitarist has been hidden in plain sight with three gorgeous solo albums, and her fourth -- the recently-released, critically-acclaimed Walking Into White -- reveals a truly magnificent artist primed to enchant the masses.

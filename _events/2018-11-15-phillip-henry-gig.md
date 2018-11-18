@@ -10,6 +10,7 @@ date: 2018-11-16
 type: world roots music
 image: phillip-henry2
 permalink: /events/Phillip-Henry
+published: false
 ---
 
 In the autumn of 2018, Phillip Henry will celebrate the release of his long awaited solo album True North with a national tour.

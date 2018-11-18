@@ -10,6 +10,7 @@ date: 2018-11-16
 type: Masterclass
 image: phillip-henry1
 permalink: /events/Phillip-Henry-guitar-workshop
+published: false
 ---
 
 Phillip Henry Guitar Workshop

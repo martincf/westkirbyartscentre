@@ -10,6 +10,7 @@ date: 2018-11-16
 type: Slide Guitar
 image: phillip-henry2
 permalink: /events/Phillip-Henry-combined
+published: false
 ---
 
 Phillip Henry Guitar Workshop and Gig combined ticket
