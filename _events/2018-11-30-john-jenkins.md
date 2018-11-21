@@ -4,7 +4,7 @@ title: "John Jenkins and the James Street Band"
 section_title: Music
 bookable: yes
 organiser_url: www.johnjenkinsmusic.com
-price: 6
+price: CANCELLED
 time: 7pm for 7.45pm start
 date: 2018-11-30
 type: singer songwriter
