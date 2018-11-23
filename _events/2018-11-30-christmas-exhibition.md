@@ -2,7 +2,7 @@
 layout: eventdetail
 title: West Kirby Art Group Christmas Show
 section_title: Art
-bookable: no
+bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: FREENOTICKETS
 time: 6pm until 8pm
