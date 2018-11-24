@@ -10,6 +10,7 @@ date: 2018-11-23
 type: irish folk
 image: wetthetea
 permalink: /events/Wet-the-Tea-November
+published: false
 ---
 
 Wet the Tea is Andy Connally, Andy Saunders and Ciaran Burke.
