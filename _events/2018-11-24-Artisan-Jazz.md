@@ -10,6 +10,7 @@ date: 2018-11-24
 type: Jazz Club with artisan food and drink
 image: jazznight-nov2018
 permalink: /events/artisan-jazz
+published: false
 ---
 
 Mono-Tone presents Artisan Jazz
