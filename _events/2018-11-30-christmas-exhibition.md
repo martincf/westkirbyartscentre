@@ -10,6 +10,7 @@ date: 2018-11-30
 type: Christmas Exhibition opening night
 image: xmasartshow
 permalink: /events/west-kirby-art-group-christmas-show
+published: false
 ---
 
 Open night, meet the artists and enjoy the wonderful art work on show.
