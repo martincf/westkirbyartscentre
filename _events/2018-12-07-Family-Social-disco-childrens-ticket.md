@@ -10,6 +10,7 @@ date: 2018-12-07
 type: family disco
 image: matty-adame-200085-unsplash
 permalink: /events/family-social-disco-children
+published: false
 ---
 
 Classic house and Disco from Matty B and Simon D
