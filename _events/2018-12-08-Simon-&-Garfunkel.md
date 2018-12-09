@@ -10,6 +10,7 @@ date: 2018-12-08
 type: Tim Chu & Ian Bailey
 image: tim-chu-ian-bailey
 permalink: /events/a-celebration-of-Simon-and-Garfunkel
+published: false
 ---
 
 Following on from last years successful show, We are delighted to welcome back Tim Chu & Ian Bailey to West Kirby Arts Centre on Saturday December 8th performing their acclaimed non tribute show ‘A Celebration of Simon & Garfunkel’
