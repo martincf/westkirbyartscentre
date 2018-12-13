@@ -132,8 +132,8 @@
     font-size: $font-large;
     margin-top: $size-small;
   }
-  @include mq(small-smartphone) {
-    font-size: $font-super;
+  @include mq(smartphone) {
+    font-size: calc(1.25 *  #{$font-large});
   }
 }
 .event--tickets {
@@ -146,7 +146,9 @@
   text-align: right;
   @include mq(medium) {
     font-size: $font-med;
-
+  }
+  @include mq(smartphone) {
+    width: 50%;
   }
 }
 .content .event--soldout {
