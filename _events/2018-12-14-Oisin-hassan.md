@@ -10,6 +10,7 @@ date: 2018-12-14
 type: breaking singer songwriters
 image: oisin-hassan
 permalink: /oisin-hassan-singer-songwriters-showcase
+published: false
 ---
 
 Join Oisín Hassan & Friends for an evening of live...soulful music at his first ticketed event in the beautiful venue...The West Kirby Arts Centre with Support from Gareth Heesom and Ahmed Khwaja and a Pop Up stall from Sweet Pea & Little Wolf.

@@ -10,9 +10,8 @@ date: 2018-12-15
 type: singer songwriter
 image: steve-tilston
 permalink: /events/Steve-Tilston
+published: false
 ---
-
-
 
 The West Kirby Arts Centre are delighted to host the return of Steve Tilston, one of the UK’s most celebrated songsmiths with Hugh Bradley and Iain Patterson.
 
