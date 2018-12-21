@@ -4,7 +4,7 @@ title: John O'Connell plays Simply Dylan
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 15
+price: SOLDOUT
 time: 7 for 7.45
 date: 2019-01-11
 type: music of Bob Dylan
