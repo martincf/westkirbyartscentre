@@ -10,6 +10,7 @@ date: 2018-12-21
 type: irish folk music
 image: wetthetea
 permalink: /events/Wet-the-Tea-john-walsh-martin-pope
+published: false
 ---
 
 Wet the Tea with special guests John Walsh and Martin Pope.
