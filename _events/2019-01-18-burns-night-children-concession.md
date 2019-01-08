@@ -9,7 +9,7 @@ time: 6.30pm for 7.00pm
 date: 2019-01-18
 type: live music and dancing
 image: witches-dance-john-faed
-permalink: /events/burns-supper-and-ceilidh
+permalink: /events/burns-supper-and-ceilidh-children
 ---
 
 Robbie Burns’ Immortal Memory and his legacy for the makers of cider in the Wirral
