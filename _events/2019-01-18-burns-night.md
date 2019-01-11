@@ -4,7 +4,7 @@ title: Burns Supper and Ceilidh
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 10
+price: SOLDOUT
 time: 6.30pm for 7.00pm
 date: 2019-01-18
 type: live music and dancing
