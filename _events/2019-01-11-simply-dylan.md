@@ -10,6 +10,7 @@ date: 2019-01-11
 type: music of Bob Dylan
 image: simplydylan
 permalink: /events/john-OConnell-simply-dylan
+published: false
 ---
 
 John O’Connell plays Simply Dylan
