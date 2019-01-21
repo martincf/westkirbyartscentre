@@ -8,7 +8,7 @@ price: 8
 time: 7.00pm for 7.30pm
 date: 2019-03-23
 type: Popular Rock and Pop
-image: LAH-The-Band
+image: lah-the-band
 permalink: /events/Like-a-Hurricane
 ---
 
