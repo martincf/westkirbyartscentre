@@ -10,6 +10,7 @@ date: 2019-01-18
 type: live music and dancing
 image: witches-dance-john-faed
 permalink: /events/burns-supper-and-ceilidh
+published: false
 ---
 
 Robbie Burns’ Immortal Memory and his legacy for the makers of cider in the Wirral
