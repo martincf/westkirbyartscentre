@@ -12,7 +12,7 @@
 - name: Painting Challenge
   day: Monday
   time: 1pm-3pm
-  price: "15 per session (or £140 for 11 week course)"
+  price: "15 per session (or £150 for 12 week course)"
   tutor: Joe McGillivray
   desc: |
     Classes are taught by Joe McGillivray who has been teaching at degree level in Art Schools for over 30 years. Joe was previously Head of the Art School at Wirral Met College, and latterly Director of Higher Education and Arts.
@@ -23,7 +23,7 @@
 - name: Portrait and Figure Drawing and Painting
   day: Monday
   time: 4pm-6pm
-  price: "15 per session (or £140 for 11 week course)"
+  price: "15 per session (or £150 for 12 week course)"
   tutor: Joe McGillivray
   desc: |
     Classes are taught by Joe McGillivray who has been teaching at degree level in Art Schools for over 30 years. Joe was previously Head of the Art School at Wirral Met College, and latterly Director of Higher Education and Arts.
@@ -53,10 +53,21 @@
 #   email: jackie@ballroom-blitz.co.uk
 #   image: class-dancing
 
+- name: Painting Techniques and Ideas
+  day: Tuesday
+  time: 1pm-3pm
+  price: "15 per session (or £150 for 12 week course)"
+  tutor: Joe McGillivray
+  desc: |
+    Classes are taught by Joe McGillivray who has been teaching at degree level in Art Schools for over 30 years. Joe was previously Head of the Art School at Wirral Met College, and latterly Director of Higher Education and Arts.
+  tel: 07414 761 341
+  email: joe.mcgill@hotmail.com
+  image: class-art
+
 - name: Still Life Drawing and Painting
   day: Tuesday
-  time: 1.30pm-3.30pm
-  price: "15 per session (or £140 for 11 week course)"
+  time: 4pm-6pm
+  price: "15 per session (or £150 for 12 week course)"
   tutor: Joe McGillivray
   desc: |
     Classes are taught by Joe McGillivray who has been teaching at degree level in Art Schools for over 30 years. Joe was previously Head of the Art School at Wirral Met College, and latterly Director of Higher Education and Arts.
@@ -102,7 +113,7 @@
 - name: Yoga with the Yogasmiths
   day: Thursday
   time: 7pm-8.30pm
-  price: "4.00"
+  price: "6.00"
   tutor: Paul & Steve Smith
   desc: |
     Yogasmiths are Paul Smith and Stephen Smith. We offer a range of yoga from traditional to specialist classes and one to one's.
@@ -131,17 +142,6 @@
 #   tel: 07799 701 815
 #   email: jackie@ballroom-blitz.co.uk
 #   image: class-dancing
-
-- name: Rooted Rebel Yoga
-  day: Saturday
-  time: 9.00am-10.00am
-  price: "7.00"
-  tutor: "Hannah Doran"
-  desc: |
-    Yoga classes every Saturday morning.
-  tel: 07949 025 366
-  email:
-  image: class-yoga
 
 - name: Drama Central Youth Drama
   day: Saturday
