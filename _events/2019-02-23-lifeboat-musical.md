@@ -1,6 +1,6 @@
 ---
 layout: eventdetail
-title: A Lesson from The Past
+title: A Lesson from The Past – Saturday show
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
