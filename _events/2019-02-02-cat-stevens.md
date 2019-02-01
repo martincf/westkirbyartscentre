@@ -4,7 +4,7 @@ title: Keith James - The music of Cat Stevens
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 12
+price: SOLDOUT
 time: 7.00pm for 7.45pm start
 date: 2019-02-02
 type: UNICEF fundraising concert
