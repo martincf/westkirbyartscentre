@@ -31,10 +31,15 @@ Followed by a Q&A with writer and performer Matt McGuinness.
 ## Media Links
 
 Guest Blog: http://www.mindwavesnews.com/therapy-without-the-wait-matt-mcguinness-on-the-power-of-music-to-provide-focus-healing-and-inspiration/
+
 Matt’s website: www.mattmcguinness.com
+
 Mental Health Awareness Week: www.mentalhealth.org.uk
+
 Spotify link: https://open.spotify.com/track/613XYXjxZnBC5mYOa7pFZM…
+
 Twitter: @McGuinnessMLC
+
 Facebook: @MLCMattMcGuinness
 
 The venue is situated on Brookfield Gardens in the site of the old Unitarian Church. Licensed bar available. Park for free after 6.30pm at West Kirby Concourse as no on street parking. Only 4 minutes walk away.
