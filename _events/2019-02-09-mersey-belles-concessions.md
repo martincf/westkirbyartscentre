@@ -4,7 +4,7 @@ title: Mersey Belles and Beaus concessions
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 4
+price: SOLDOUT
 time: 7.00pm for 7.45pm
 date: 2019-02-09
 type: ukulele ensemble
