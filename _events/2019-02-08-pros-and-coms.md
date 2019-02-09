@@ -10,6 +10,7 @@ date: 2019-02-08
 type: Comedy, Music
 image: che
 permalink: /events/Pros-and-coms-feb-19
+published: false
 ---
 
 Fourth Quarter, an evening of music and comedy, headline by the talented singer songwriter Leonie Jakobi, comedians Che Burnley, Mike Carter, Aaron Wood and Paul Campbell  
