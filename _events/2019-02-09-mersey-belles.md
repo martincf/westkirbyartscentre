@@ -10,6 +10,7 @@ date: 2019-02-09
 type: Ukulele ensemble
 image: merseybelles
 permalink: /events/mersey-belles-and-beaus
+published: false
 ---
 
 Mersey Belles are proud to announce the launch of Belles & Beaus and invite you to join us in celebration of this exciting new ensemble.

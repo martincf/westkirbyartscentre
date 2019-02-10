@@ -10,6 +10,7 @@ date: 2019-02-09
 type: ukulele ensemble
 image: merseybelles
 permalink: /events/mersey-belles-and-beaus-concessions
+published: false
 ---
 
 Concession price for children under 16 years old.
