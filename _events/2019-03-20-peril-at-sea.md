@@ -7,7 +7,7 @@ organiser_url: www.westkirbyartscentre.org.uk
 price: 10
 time: 7pm for 7.30pm
 date: 2019-03-20
-type: Up The Road Theatre Production
+type: Up The Road Theatre
 image: womanonshore
 permalink: /events/peril-at-sea
 ---
