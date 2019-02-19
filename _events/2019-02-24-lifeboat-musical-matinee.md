@@ -4,7 +4,7 @@ title: A Lesson from The Past Matinee
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 8
+price: SOLDOUT
 time: 2pm
 date: 2019-02-24
 type: musical drama
