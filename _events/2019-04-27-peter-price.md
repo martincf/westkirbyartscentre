@@ -8,7 +8,7 @@ price: 10
 time: 7.00pm for 7.45pm
 date: 2019-04-27
 type: Singer Songwriter Guitarist
-image: guitar
+image: peterprice
 permalink: /events/peter-price
 ---
 
