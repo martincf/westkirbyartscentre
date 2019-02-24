@@ -10,6 +10,7 @@ date: 2019-02-23
 type: musical drama
 image: wave
 permalink: /events/lifeboat-disaster-1810-saturday
+published: false
 ---
 
 “A Lesson from The Past” is a new musical drama related to in the 1810 Hoylake Lifeboat disaster. Performances are scheduled for 6:30 pm Saturday 23rd February, 2:00pm Sunday 24th and 6:30pm Sunday 24th February 2019 at West Kirby Arts Centre. Proceeds will be donated to the RNLI.
