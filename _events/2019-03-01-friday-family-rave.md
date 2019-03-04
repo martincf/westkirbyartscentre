@@ -10,6 +10,7 @@ date: 2019-03-01
 type: Friday Family Rave
 image: matty-adame-200085-unsplash
 permalink: /events/Friday-family-rave-march
+published: false
 ---
 
 Classic house and Disco from Matty B and Simon D
