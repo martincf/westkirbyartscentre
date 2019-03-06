@@ -4,7 +4,7 @@ title: Martha Tilston
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 12
+price: POSTPONED
 time: 7.00pm for 7.45pm
 date: 2019-04-13
 type: Singer Songwriter
@@ -12,7 +12,10 @@ image: Martha2
 permalink: /events/Martha-Tilston
 ---
 
-£12 online advance booking; £14 on the door.
+EVENT POSTPONED UNTIL 16TH NOV 2019
+
+The new [event page can be found here](/events/Martha-Tilston-Nov2019).
+
 
 “Sharp, original songs that dissect the modern world.She captures both the harshness and enchantment of life” - Guardian
 
@@ -20,7 +23,7 @@ permalink: /events/Martha-Tilston
 
 Martha has played main stage spots at festivals including Glastonbury Acoustic stage, the Australian National Folk festival among others. She has toured with the likes of Damien Rice and she has also featured on the Zero 7 album ‘Yeah Ghost’.
 
-Martha’s vibrant upbringing was both musical and artistic. In London with her artist mother and theatredirector stepfather, there was always late-night piano sessions, Joni Mitchell or Leonard Cohen spinning on the record player and creative chaos everywhere. But in Bristol her singer-songwriter father Steve Tilston and folk singer Maggie Boyle (step-mother) influenced her musical ear. 
+Martha’s vibrant upbringing was both musical and artistic. In London with her artist mother and theatredirector stepfather, there was always late-night piano sessions, Joni Mitchell or Leonard Cohen spinning on the record player and creative chaos everywhere. But in Bristol her singer-songwriter father Steve Tilston and folk singer Maggie Boyle (step-mother) influenced her musical ear.
 
 he would often find legendary musicians like Bert Jansch, John Renbourn gathered and singing in the familykitchen. It was perhaps no wonder that all these textures fed into her creativity and emergence of Martha as a powerful songstress in her own right.
 

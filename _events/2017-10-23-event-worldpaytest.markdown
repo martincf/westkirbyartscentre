@@ -14,3 +14,9 @@ draft: true
 ---
 
 This is a test page for Worldpay's system check.
+
+Useful 'price' front matter labels:
+- SOLDOUT
+- CANCELLED
+- FREE
+- FREENOTICKETS

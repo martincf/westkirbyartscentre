@@ -24,10 +24,14 @@
               <div class="eventlist-item--banner">
                 SOLD OUT
               </div>
-            {% elsif event.price == "CANCELLED" %}
-              <div class="eventlist-item--banner">
-                CANCELLED
-              </div>
+          {% elsif event.price == "CANCELLED" %}
+            <div class="eventlist-item--banner">
+              CANCELLED
+            </div>
+          {% elsif event.price == "POSTPONED" %}
+            <div class="eventlist-item--banner">
+              POSTPONED
+            </div>
             {% endif %}
             <div class="eventlist-item-link--wrap">
               <h1 class="eventlist-item-link--title">{{ event.title }}</h1>
@@ -48,6 +52,10 @@
             {% elsif event.price == "CANCELLED" %}
               <div class="eventlist-item--banner">
                 CANCELLED
+              </div>
+            {% elsif event.price == "POSTPONED" %}
+              <div class="eventlist-item--banner">
+                POSTPONED
               </div>
             {% endif %}
               <a class="eventlist-item-link" href="{{ event.url }}">
