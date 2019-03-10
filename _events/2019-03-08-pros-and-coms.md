@@ -10,6 +10,7 @@ date: 2019-03-08
 type: Comedy, Music
 image: proscoms2
 permalink: /events/Pros-and-coms-march-19
+published: false
 ---
 Take Me To The Church, an evening of music and comedy, headline by the talented singer songwriter Liz Owen, comedians Barrie Heap, Sam Serrano, Kevin Berry, compered by Adam Hughes.
 
