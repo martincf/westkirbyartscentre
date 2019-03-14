@@ -4,7 +4,7 @@ title: St Patrick's Eve Irish Music Night
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 10
+price: SOLDOUT
 time: 7.00pm for 7.30pm
 date: 2019-03-16
 type: John Walsh, Keith Price with Barbara Haugh
