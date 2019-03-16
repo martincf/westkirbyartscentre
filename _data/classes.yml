@@ -99,6 +99,42 @@
   webtitle: Website
   image: class-singing
 
+- name: Beginners Drawing Course from 27th March
+  day: Wednesday
+  time: 7.30pm-9.30pm
+  price: "15 per class (£75 for 6 week course)"
+  tutor: Cliff Hughes
+  desc: |
+    The class will be taught by Cliff Hughes and is suitable for all levels of ability from the complete beginner to practicing artists. All materials provided.
+  tel: 07714 428852
+  email: cliffrhughes@gmail.com
+  web:
+  image: drawing
+
+- name: Introduction to Life Drawing/Figure Study from 8th May
+  day: Wednesday
+  time: 7.30pm-9.30pm
+  price: "15 per class (£75 for 6 week course)"
+  tutor: Cliff Hughes
+  desc: |
+    The class will be taught by Cliff Hughes and is suitable for all levels of ability from the complete beginner to practicing artists and will lead to a regular weekly Drawing Club. All materials provided.
+  tel: 07714 428852
+  email: cliffrhughes@gmail.com
+  web:
+  image: lifedrawing
+
+- name: West Kirby Drawing Club from June 19th
+  day: Wednesday
+  time: 7.30pm-9.30pm
+  price: "9 per session"
+  tutor: Cliff Hughes
+  desc: |
+    The Club will provide model, equipment and essential materials.
+  tel: 07714 428852
+  email: cliffrhughes@gmail.com
+  web:
+  image: drawing2
+
 # - name: Ballroom & Latin classes
 #   day: Wednesday
 #   time: 7.30pm-10.00pm
