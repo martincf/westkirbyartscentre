@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 10
 time: 7.00pm for 7.30pm
-date: 2019-04-13
+date: 2019-04-19
 type: with Tennessee Waltz
 image: wet-the-tea
 permalink: /events/wet-the-tea-with-tennessee-waltz
