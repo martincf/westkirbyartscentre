@@ -1,13 +1,13 @@
 ---
 layout: eventdetail
-title: All you need is Spam
+title: All you need is spam
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 10
 time: 7.00pm for 7.45pm
 date: 2019-04-20
-type: A celebration of Monty Python and Eric Idle
+type: The songs of Monty Python's Eric Idle
 image: eric-and-george
 permalink: /events/all-you-need-is-spam
 ---
