@@ -1,6 +1,6 @@
 ---
 layout: eventdetail
-title: Another Fine Mess
+title: Another Fine Mess Sunday
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
