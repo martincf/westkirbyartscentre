@@ -8,7 +8,7 @@ price: 10
 time: 7.00pm for 7.30pm
 date: 2019-05-11
 type: award winning singer songwriter
-image: ian-sherwood-1
+image: iansherwood
 permalink: /events/ian-sherwood
 ---
 We are pleased to be welcoming Ian Sherwood to West Kirby Arts Centre.
