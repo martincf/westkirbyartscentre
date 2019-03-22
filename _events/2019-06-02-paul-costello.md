@@ -8,7 +8,7 @@ price: 10
 time: 7.00pm for 7.45pn
 date: 2019-06-02
 type: Classical Guitar Concert
-image: Paul-costello-19
+image: paulcostello
 permalink: /events/paul-costello
 ---
 
