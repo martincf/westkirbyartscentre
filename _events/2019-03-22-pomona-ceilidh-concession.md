@@ -10,6 +10,7 @@ date: 2019-03-22
 type: "Children's concession ticket"
 image: witches-dance-john-faed
 permalink: /events/pomona-ceilidh-children-concession
+published: false
 ---
 
 St Patrick's Pomona Cider Collective Ceilidh with the Melody Makers

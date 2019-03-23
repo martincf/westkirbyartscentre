@@ -10,6 +10,7 @@ date: 2019-03-22
 type: Pomona Cider Collective Friday Night Ceilidh
 image: witches-dance-john-faed
 permalink: /events/pomona-ceilidh
+published: false
 ---
 
 St Patrick's Pomona Cider Collective Ceilidh with the Melody Makers

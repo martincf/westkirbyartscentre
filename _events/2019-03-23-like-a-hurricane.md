@@ -10,6 +10,7 @@ date: 2019-03-23
 type: Popular Rock and Pop
 image: lah
 permalink: /events/Like-a-Hurricane
+published: false
 ---
 
 Like A Hurricane.5 piece guitar band — 70’s to date Classics inc: Eagles, Bryan Adams, Neil Young, Oasis, Santana, Taylor Swift, Lynyrd Skynyrd.
