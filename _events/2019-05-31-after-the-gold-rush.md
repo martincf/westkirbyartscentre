@@ -8,7 +8,7 @@ price: 8
 time: 7.00pm for 7.30pm
 date: 2019-05-31
 type: Dean Johnson in concert
-image: after-the-gold-rush
+image: goldrush
 permalink: /events/after-the-gold-rush
 ---
 
