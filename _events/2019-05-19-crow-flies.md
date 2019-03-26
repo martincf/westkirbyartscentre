@@ -8,7 +8,7 @@ price: 10.50
 time: 8.00am for 8.15am
 date: 2019-05-19
 type: Picnic, Ted Hughes on Hilbre Island
-image: crow-on-perch
+image: tedhughes
 permalink: /events/crow-flies
 ---
 
