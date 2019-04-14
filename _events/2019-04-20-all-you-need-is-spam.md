@@ -4,7 +4,7 @@ title: All you need is spam
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 10
+price: POSTPONED
 time: 7.00pm for 7.45pm
 date: 2019-04-20
 type: The songs of Monty Python's Eric Idle
@@ -12,7 +12,7 @@ image: eric-and-george
 permalink: /events/all-you-need-is-spam
 ---
 
-Dean Johnson celebrates the comedy genious of Eric Idle and Monty Python.
+Dean Johnson celebrates the comedy genius of Eric Idle and Monty Python.
 
 Along with his zeal for surreal characters 'nudge nudge , wink wink ' Wirral educated Eric Idle has created a catalogue of classic catchy songs , years of fraternising with The Beatles , led Zepplin and the Who certainly paid off , Dean will cherry pick through Idle's cheerful and often outrageous songbook. interspersed with a few of Python's greatest skits
 
