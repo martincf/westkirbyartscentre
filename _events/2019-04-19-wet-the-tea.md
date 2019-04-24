@@ -10,6 +10,7 @@ date: 2019-04-19
 type: with Tennessee Waltz
 image: wet-the-tea
 permalink: /events/wet-the-tea-with-tennessee-waltz
+published: false
 ---
 
 Irish Music Night with the ever popular Wet the Tea along with their special guests Tennessee Waltz

@@ -10,6 +10,7 @@ date: 2019-04-20
 type: The songs of Monty Python's Eric Idle
 image: eric-and-george
 permalink: /events/all-you-need-is-spam
+published: false
 ---
 
 Dean Johnson celebrates the comedy genius of Eric Idle and Monty Python.
