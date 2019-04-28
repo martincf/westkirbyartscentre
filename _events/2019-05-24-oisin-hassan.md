@@ -4,7 +4,7 @@ title: Oisin Hassan and Friends
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 5
+price: CANCELLED
 time: 7.00pm for 7.30pm
 date: 2019-05-24
 type: featuring Thom Morecroft and Gareth Heesom
