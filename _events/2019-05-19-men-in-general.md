@@ -4,7 +4,7 @@ title: Men in General
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 12.50
+price: POSTPONED
 time: 6.30pm for 7.00pm
 date: 2019-05-19
 type: Male vocal a cappella singing and comedy
