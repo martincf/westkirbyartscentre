@@ -10,6 +10,7 @@ date: 2019-05-31
 type: 50th Anniversary Concert
 image: goldrush
 permalink: /events/after-the-gold-rush
+published: false
 ---
 
 As part of Wirral International Guitar Festival 2019
