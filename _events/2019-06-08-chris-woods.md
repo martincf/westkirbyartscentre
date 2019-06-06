@@ -4,7 +4,7 @@ title: Chris Woods Groove Orchestra
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 10
+price: CANCELLED
 time: 7.00pm for 7.45pm
 date: 2019-06-08
 type: Instrumental Phenomenon
