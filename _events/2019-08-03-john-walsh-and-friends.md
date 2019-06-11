@@ -8,7 +8,7 @@ price: 10
 time: 7pm for 7.30pm
 date: 2019-08-03
 type: Irish Music Night
-image: hughiejones
+image: HughieJones
 permalink: /events/john-walsh-and-keith-price
 ---
 
