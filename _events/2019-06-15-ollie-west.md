@@ -10,6 +10,7 @@ date: 2019-06-15
 type: The Ollie West Band
 image: ollie-west
 permalink: /events/the-ollie-west-band
+published: false
 ---
 Ollie West and his band return for a second visit to the Arts Centre as part of his national tour 2019. We are pleased to welcome back an up and coming young singer songwriter.
 

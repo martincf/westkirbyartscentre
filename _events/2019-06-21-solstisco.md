@@ -10,6 +10,7 @@ date: 2019-06-21
 type: Fundraiser for Wirral Women's Refuge
 image: SolstiscoBoot
 permalink: /events/solstisco
+published: false
 ---
 
 A Mid-summer Mashup in aid of Wirral Women's Refuge.
