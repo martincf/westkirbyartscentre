@@ -29,6 +29,12 @@
         <h2>Free</h2>
         <p>No tickets required, just turn up!</p>
       </div>
+    {% elsif page.bookable == true and page.price == "PAYONDOOR" %}
+      <div class="event--free">
+        <h2>Pay on the door</h2>
+        <p>No tickets required. Just turn up and pay.</p>
+      </div>
+
     {% elsif page.price == "FREE" %}
     <div class="event--free">
       <h2>Free event</h2>
