@@ -10,6 +10,7 @@ date: 2019-07-05
 type: West Kirby Jazz Club
 image: mike-smith-1
 permalink: /events/west-kirby-jazz-club
+published: false
 ---
 
 The West Kirby Art Centre Jazz Club returns with a special event featuring Mike Smith.

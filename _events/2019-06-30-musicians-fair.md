@@ -10,6 +10,7 @@ date: 2019-06-30
 type: £1 on the door
 image: musicfair
 permalink: /events/musicians-preloved-instrument-and-equipment-fair
+published: false
 ---
 
 ## Please note: All tables are now booked out.

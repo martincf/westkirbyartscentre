@@ -10,6 +10,7 @@ date: 2019-06-29
 type: International guitar festival
 image: bourbon2
 permalink: /events/claude-bourbon-june2019
+published: false
 ---
 
 As part of Wirral International Guitar Festival 2019 we welcome Claude Bourbon.
