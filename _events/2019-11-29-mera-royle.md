@@ -7,7 +7,7 @@ organiser_url: www.westkirbyartscentre.org.uk
 price: 7
 time: 7pm for 7.30pm
 date: 2019-11-29
-type: Up and coming Folk Musician
+type: 2018 BBC Radio 2 Young Folk Musician of the Year
 image: mera-royle-image
 permalink: /events/mera-royle
 ---
