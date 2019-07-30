@@ -26,8 +26,11 @@ accolades for their genre-spanning work.
 Gilmore & Roberts released their fifth studio album, _A Problem Of Our Kind_, in October 2018.
 
 _‘Hot property’_ – fRoots
+
 _Gilmore & Roberts take English folk and scuff it up with indie rock drama’_ – Q Magazine
+
 _‘Enthralling….consistently compelling’_ – Pure M Magazine
+
 _‘Head and shoulders above their contemporaries’_ – Rockin’ Magpie
 
 - [Facebook page](www.facebook.com/GilmoreRoberts)
