@@ -10,6 +10,7 @@ date: 2019-08-03
 type: Irish Music Night
 image: HughieJones
 permalink: /events/john-walsh-and-keith-price
+published: false
 ---
 
 We welcome back John Walsh and Keith Price, Cream of the Barley, for their ever popular Irish Music Night.
