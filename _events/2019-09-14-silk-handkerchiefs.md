@@ -4,7 +4,7 @@ title: 12 Silk Handkerchiefs
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 12
+price: 10
 time: 7pm for 7.30pm
 date: 2019-09-14
 type: Multi-media-song-cycle
@@ -14,6 +14,8 @@ permalink: /events/12-silk-handkerchiefs
 
 12 Silk Handkerchiefs - A song cycle and multi media show about the Hull Triple Trawler
 Disaster of 1968 and the revolutionary Lillian Bilocca
+
+**£10 advance ticket, £12 on the door.**
 
 Reg Meuross’s song cycle, which tells of fighting fishwife Lillian Bilocca who led a
 battle for better trawler safety following the Triple Trawler Disaster of 1968,
