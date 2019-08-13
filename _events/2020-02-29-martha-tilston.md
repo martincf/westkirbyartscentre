@@ -12,11 +12,10 @@ image: Martha2
 permalink: /events/Martha-Tilston-Feb2020
 ---
 
-“Sharp, original songs that dissect the modern world.
-She captures both the harshness and enchantment of life” - Guardian
+_“Sharp, original songs that dissect the modern world.
+She captures both the harshness and enchantment of life”_ - Guardian
 
 £12 online advance booking £14 on the door.
-
 
 With a voice like spider-webbed hollows and lyrics that inspire and captivate, Martha has earned a nomination from the BBC for best newcomer and released seven albums to date on her own label
 Squiggly Records building up a large audience worldwide. Martha has played main stage spots at festivals including Glastonbury Acoustic stage, the Australian National Folk festival among others.
@@ -26,8 +25,7 @@ She has toured with the likes of Damien Rice and she has also featured on the Ze
 
 Martha’s vibrant upbringing was both musical and artistic. In London with her artist mother and theatre director stepfather, there was always late-night piano sessions, Joni Mitchell or Leonard Cohen spinning on the record player and creative chaos everywhere. But in Bristol her singer-songwriter father Steve Tilston and folk singer Maggie Boyle (step-mother) influenced her musical ear.
 
-She would
-often find legendary musicians like Bert Jansch, John Renbourn gathered and singing in the family kitchen. It was perhaps no wonder that all these textures fed into her creativity and emergence of Martha as a powerful songstress in her own right.
+She would often find legendary musicians like Bert Jansch, John Renbourn gathered and singing in the family kitchen. It was perhaps no wonder that all these textures fed into her creativity and emergence of Martha as a powerful songstress in her own right.
 
 
 With her beautiful crystal clear vocals, Martha’s musical arrangements range from the pinhead intimacy of acoustic guitar and voice to the expansive electric, slide guitar, rolling beats, deep bass, banjo, string arrangements and sometimes touches of electronica.
