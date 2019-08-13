@@ -7,7 +7,7 @@ organiser_url: www.westkirbyartscentre.org.uk
 price: 8
 time: 7pm for 7.30pm
 date: 2019-12-13
-type: Folk musical redition of Christams Classic
+type: Folk musical redition of Christams Carol
 image: christmascarol
 permalink: /events/a-christams-carol-concessions
 ---
