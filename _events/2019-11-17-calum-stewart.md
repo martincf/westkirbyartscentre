@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 15
 time: 7pm for 7.30pm
-date: 2019-11-29
+date: 2019-11-17
 type: Scottish Traditional Instrumentalist of the Year 2018
 image: calum-stewart
 permalink: /events/calum-stewart
