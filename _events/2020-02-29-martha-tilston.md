@@ -35,14 +35,14 @@ With her beautiful crystal clear vocals, Martha’s musical arrangements range f
 
 The new album NOMAD will invite you to make a fire outside under the stars, Look up at a big green moon, fly over a world of robots and humans... and to never dwell on the path not taken.
 
-Website - http://www.marthatilston.co.uk
+[Website](http://www.marthatilston.co.uk)
 
-Facebook - https://www.facebook.com/marthatilston/
+[Facebook](https://www.facebook.com/marthatilston/)
 
-Twitter - https://twitter.com/marthatilston
+[Twitter](https://twitter.com/marthatilston)
 
-YouTube - https://www.youtube.com/user/squigglyrecords
+[YouTube](https://www.youtube.com/user/squigglyrecords)
 
-Soundcloud - https://soundcloud.com/marthatilston
+[Soundcloud](https://soundcloud.com/marthatilston)
 
 The venue is situated on Brookfield Gardens in the site of the old Unitarian Church. Licensed bar available. Park for free after 6.30pm at West Kirby Concourse as no on street parking. Only 4 minutes walk away.
