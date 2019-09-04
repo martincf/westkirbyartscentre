@@ -15,7 +15,7 @@ permalink: /events/verdict-matinee
 One of only a few Christie plays written directly for the stage and not adapted from an underlying story,
 Verdict opened in the West End at the Strand Theatre in May 1958.
 
-This production is brought to us by Woollywood and Bravo Theatre Companies and is directed by Shri Jones by special arrangement with Samuel French
+This production is brought to us by Woollywood and Bravo Theatre Companies and is directed by Sheri Jones by special arrangement with Samuel French
 
 Karl Hendryk, a brilliant professor who, with his wife and her cousin, have fled persecution in their homeland to find themselves ensconced in London. The play concerns itself with the relationships the professor has with the women in his life. His wife, Anya, who is suffering from a progressively debilitating disease, her cousin and carer, Lisa, and Helen Rollander, a spoiled student who takes up private lessons with the professor.
 
