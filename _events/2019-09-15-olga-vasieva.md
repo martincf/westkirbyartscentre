@@ -4,7 +4,7 @@ title: Olga Vasieva
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: FREE
+price: FREENOTICKETS
 time: 4pm
 date: 2019-09-15
 type: Exhibition Open Evening
