@@ -4,7 +4,7 @@ title: Verdict Matinee
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 10
+price: CANCELLED
 time: 2pm
 date: 2019-09-29
 type: Play by Agatha Christie
