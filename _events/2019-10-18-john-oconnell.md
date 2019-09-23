@@ -4,7 +4,7 @@ title: John O'Connell
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 12
+price: SOLDOUT
 time: 7pm for 7.30pm
 date: 2019-10-18
 type: Singer Songwriter in Concert
