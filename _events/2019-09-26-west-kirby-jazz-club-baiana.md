@@ -10,6 +10,7 @@ date: 2019-09-26
 type: West Kirby Jazz Club
 image: baiana
 permalink: /events/west-kirby-jazz-club-baiana
+published: false
 ---
 
 We are Baiana
