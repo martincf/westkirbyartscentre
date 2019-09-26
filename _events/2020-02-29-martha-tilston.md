@@ -15,7 +15,7 @@ permalink: /events/Martha-Tilston-Feb2020
 _“Sharp, original songs that dissect the modern world.
 She captures both the harshness and enchantment of life”_ - The Guardian
 
-£12 online advance booking £14 on the door.
+£12 online advance booking. £14 on the door.
 
 With a voice like spider-webbed hollows and lyrics that inspire and captivate, Martha has earned a nomination from the BBC for best newcomer and released seven albums to date on her own label
 Squiggly Records building up a large audience worldwide. Martha has played main stage spots at festivals including Glastonbury Acoustic stage, the Australian National Folk festival among others.
