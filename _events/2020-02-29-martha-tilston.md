@@ -33,9 +33,9 @@ With her beautiful crystal clear vocals, Martha’s musical arrangements range f
 
 The new album NOMAD will invite you to make a fire outside under the stars, Look up at a big green moon, fly over a world of robots and humans... and to never dwell on the path not taken.
 
-[Website](http://www.marthatilston.co.uk)
+[Web site](http://www.marthatilston.co.uk)
 
-[Facebook](https://www.facebook.com/marthatilston/)
+[Facebook page](https://www.facebook.com/marthatilston/)
 
 [Twitter](https://twitter.com/marthatilston)
 
