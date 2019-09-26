@@ -13,7 +13,7 @@ permalink: /events/Martha-Tilston-Feb2020
 ---
 
 _“Sharp, original songs that dissect the modern world.
-She captures both the harshness and enchantment of life”_ - Guardian
+She captures both the harshness and enchantment of life”_ - The Guardian
 
 £12 online advance booking £14 on the door.
 
