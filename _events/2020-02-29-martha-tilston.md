@@ -37,10 +37,10 @@ The new album NOMAD will invite you to make a fire outside under the stars, Look
 
 [Facebook page](https://www.facebook.com/marthatilston/)
 
-[Twitter](https://twitter.com/marthatilston)
+[Twitter page](https://twitter.com/marthatilston)
 
-[YouTube](https://www.youtube.com/user/squigglyrecords)
+[YouTube page](https://www.youtube.com/user/squigglyrecords)
 
-[Soundcloud](https://soundcloud.com/marthatilston)
+[Soundcloud page](https://soundcloud.com/marthatilston)
 
 The venue is situated on Brookfield Gardens in the site of the old Unitarian Church. Licensed bar available. Park for free after 6.30pm at West Kirby Concourse as no on street parking. Only 4 minutes walk away.
