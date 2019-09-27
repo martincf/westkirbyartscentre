@@ -4,7 +4,7 @@ title: Henry Priestman
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 12
+price: SOLDOUT
 time: 7pm for 7.30pm
 date: 2019-09-28
 type: Contemporary Singer songwriter
