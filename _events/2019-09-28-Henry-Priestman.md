@@ -10,6 +10,7 @@ date: 2019-09-28
 type: Contemporary Singer songwriter
 image: henryp
 permalink: /events/Henry-Priestman-2019
+published: false
 ---
 We welcome back Henry Priestman and Friends      
 
