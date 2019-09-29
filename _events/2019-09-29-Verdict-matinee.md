@@ -10,6 +10,7 @@ date: 2019-09-29
 type: Play by Agatha Christie
 image: woolywood-actors
 permalink: /events/verdict-matinee
+published: false
 ---
 
 One of only a few Christie plays written directly for the stage and not adapted from an underlying story,
