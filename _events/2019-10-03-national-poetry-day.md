@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: FREENOTICKETS
 time: 12pm
-date: 2019-10-12
+date: 2019-10-03
 type: National Poetry Day Event
 image: wilfredowen  
 permalink: /events/national-poetry-day-west-kirby-arts-centre-2019
