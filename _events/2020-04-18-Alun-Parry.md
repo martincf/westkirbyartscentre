@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: POSTPONED
 time: 7pm for 7.30pm
-date: 2019-10-12
+date: 2020-04-18
 type: Contemporary Singer Songwritter
 image: alunparry
 permalink: /events/Alun-parry-2020
