@@ -1,4 +1,4 @@
-﻿---
+---
 layout: eventdetail
 title: Zingaro  
 section_title: Events
