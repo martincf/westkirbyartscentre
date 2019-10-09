@@ -4,7 +4,7 @@ title: Alun Parry
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: POSTPONED
+price: 8
 time: 7pm for 7.30pm
 date: 2020-04-18
 type: Contemporary Singer Songwritter
