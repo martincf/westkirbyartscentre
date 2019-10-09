@@ -9,10 +9,8 @@ time: 7pm for 7.30pm
 date: 2019-10-12
 type: Contemporary Singer Songwritter
 image: alunparry
-permalink: /events/Alun-parry
+permalink: /events/Alun-parry-2020
 ---
-
-**Due to illness, this event has been postponed and will be rescheduled for 18th April 2020. We apologise for any inconvenience caused.**
 
 Alun Parry is a socially conscious storytelling songwriter. His hopeful, uplifting folk songs tell inspiring stories of social and personal change.
 
