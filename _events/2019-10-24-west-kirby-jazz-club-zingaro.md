@@ -9,7 +9,7 @@ time: 7pm for 7.45pm
 date: 2019-10-24
 type: West Kirby Jazz Club
 image: zingaro-music2
-permalink: /events/west-kirby-jazz-club-zingaro
+permalink: /events/west-kirby-jazz-club-zingaro-october-2019
 ---
 
 An evening of live music and classic vinyl
