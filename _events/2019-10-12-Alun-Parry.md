@@ -12,7 +12,7 @@ image: alunparry
 permalink: /events/Alun-parry
 ---
 
-**Due to illness, this event has been postponed and will be rescheduled for 18th April 2020. We apologise for any inconvenience caused.**
+**Due to illness, this event has been postponed and will be rescheduled for 4th April 2020. We apologise for any inconvenience caused.**
 
 Alun Parry is a socially conscious storytelling songwriter. His hopeful, uplifting folk songs tell inspiring stories of social and personal change.
 
