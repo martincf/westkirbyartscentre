@@ -4,7 +4,7 @@ title: Son of Dave
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 10
+price: SOLDOUT
 time: 19.00
 date: 2019-10-11
 type: Rob Gough presents
