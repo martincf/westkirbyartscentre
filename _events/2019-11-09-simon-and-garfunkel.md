@@ -1,13 +1,13 @@
 ---
 layout: eventdetail
-title: The songs of Simon and Garfunkel
+title: A Celebration of Simon & Garfunkel
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 12
 time: 7pm for 7.30pm
 date: 2019-11-09
-type: Tim Chou and Ian Bailey in concert
+type: Tim Chu and Ian Bailey in concert
 image: tim-chou-and-ian-bailey
 permalink: /events/simon-and-garfunkel
 ---
