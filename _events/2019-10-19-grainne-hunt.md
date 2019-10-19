@@ -28,7 +28,7 @@ Following on from her first solo release in 2015, Firing Pin, Gráinne released 
 
 This is Gráinne’s first full length EP.
 
-[Stream and listen on Soundcloud](https://soundcloud.com/grainne-hunt/sets/this-secret/s-zfu4Y)
+[Stream and listen on Spotify](https://open.spotify.com/artist/7BCD2hkYfZj2y454dFSgpC)
 
 [Let go - Vienna](https://youtu.be/ETWi4Oc5H7k)
 
