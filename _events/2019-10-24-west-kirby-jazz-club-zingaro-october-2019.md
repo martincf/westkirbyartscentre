@@ -10,6 +10,7 @@ date: 2019-10-24
 type: West Kirby Jazz Club
 image: zingaro-music2
 permalink: /events/west-kirby-jazz-club-zingaro-october-2019
+published: false
 ---
 
 An evening of live music and classic vinyl
