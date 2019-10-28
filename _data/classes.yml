@@ -86,18 +86,18 @@
   email:
   image: class-yoga2
 
-- name: West Kirby Wailers
-  day: Wednesday
-  time: 2.45pm-4.00pm
-  price: "5.00 per week or £25 for 6 sessions"
-  tutor: James Sills
-  desc: |
-    Singing a mix of traditional and contemporary music from around the world, in harmony, all taught by ear: no auditions, no sheet music, no monthly subscription.
-  tel:
-  email:
-  web: http://www.jamessillsmusic.co.uk/contact.html
-  webtitle: Website
-  image: class-singing
+# - name: West Kirby Wailers
+#   day: Wednesday
+#   time: 2.45pm-4.00pm
+#   price: "5.00 per week or £25 for 6 sessions"
+#   tutor: James Sills
+#   desc: |
+#     Singing a mix of traditional and contemporary music from around the world, in harmony, all taught by ear: no auditions, no sheet music, no monthly subscription.
+#   tel:
+#   email:
+#   web: http://www.jamessillsmusic.co.uk/contact.html
+#   webtitle: Website
+#   image: class-singing
 
 - name: Beginners Drawing Course from 27th March
   day: Wednesday
@@ -146,16 +146,27 @@
 #   email: jackie@ballroom-blitz.co.uk
 #   image: class-dancing
 
-- name: Yoga with the Yogasmiths
+# - name: Yoga with the Yogasmiths
+#   day: Thursday
+#   time: 7pm-8.30pm
+#   price: "6.00"
+#   tutor: Paul & Steve Smith
+#   desc: |
+#     Yogasmiths are Paul Smith and Stephen Smith. We offer a range of yoga from traditional to specialist classes and one to one's.
+#   tel:
+#   email: enquiries@yogasmiths.org
+#   image: class-yogasmith
+
+- name: Crystal Singing Bowls
   day: Thursday
-  time: 7pm-8.30pm
-  price: "6.00"
-  tutor: Paul & Steve Smith
+  time: 4pm-6pm
+  price: "15.00 per session"
+  tutor: Katy Shay
   desc: |
-    Yogasmiths are Paul Smith and Stephen Smith. We offer a range of yoga from traditional to specialist classes and one to one's.
-  tel:
-  email: enquiries@yogasmiths.org
-  image: class-yogasmith
+    Healing Meditation Sound Bath and Chakra Balancing. Come and experience an insight into the nature of your energy body and allow your entire being to be tuned for optimal well-being. 2 hours of peace, relaxation. healing and rejuvenation.
+  tel: 07885288490
+  email: katyshay@btinternet.com
+  image: crystal
 
 - name: Afternoon Folk
   day: Friday
