@@ -4,7 +4,7 @@ title: Bullets and daffodils
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: £6
+price: 6
 time: 7pm for 7.30pm
 date: 2019-11-10
 type: Musical about Wilfred Owen
