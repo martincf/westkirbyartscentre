@@ -4,7 +4,7 @@ title: Martha Tilston
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 12
+price: CANCELLED
 time: 7.00pm for 7.45pm
 date: 2020-02-29
 type: Singer Songwriter
