@@ -8,8 +8,9 @@ price: 12
 time: 19.00 for 19.30
 date: 2019-11-02
 type: Folk Rock of the Laurel Canyon
-image: zervas-and-pepper 
+image: zervas-and-pepper
 permalink: /events/zervas-and-pepper
+published: false
 ---
 
 Zervas and Pepper are singer/songwriters that have been crafting songs and capturing imaginations with their previous critically acclaimed albums 'Lifebringer' and 'Abstract Heart', and 2017 brought a fresh offering in ‘Wilderland'
