@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 12
 time: 7.00pm for 7.30pm
-date: 2019-03-06
+date: 2020-03-06
 type: Music
 image: kickinside
 permalink: /events/the-kick-inside
