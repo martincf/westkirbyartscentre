@@ -4,13 +4,15 @@ title: Simply Dylan
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: SOLDOUT
+price: 15
 time: 7pm for 7.45pm
-date: 2020-01-10
+date: 2020-01-11
 type: John O'Connell pre-tour warm up gig
 image: johnoconnell2
-permalink: /events/john-oconnell-jan-2020-night1
+permalink: /events/john-oconnell-jan-2020-night2
 ---
+
+John O’Connell plays Simply Dylan, for an additional night due to public demand
 
 For one night only John O’Connell, formerly GROUNDPIG, will be playing a SIMPLY DYLAN acoustic set at West Kirby Arts Centre. No frills, no gimmicks, no pretence Simply Dylan is John’s personal interpretation of the songs of one of the world’s most prodigious song writers, Bob Dylan. Joined by some of his band members John will be covering a wide range of songs from the 1960s, 1970s and 1980s. From a modest project celebrating Dylan’s 70th Birthday Simply Dylan has gone from selling out the Cavern Club 6 times, to receiving fantastic reviews from the Spanish Press, to impressing Dylan fans from across the UK on their theatre tours with SJM Concerts.
 
