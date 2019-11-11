@@ -8,7 +8,7 @@ price: 7.50
 time: 19.00 for 19.45
 date: 2019-12-19
 type: West Kirby Jazz Club
-image: Mike-smith-1
+image: mike-smith-1
 permalink: /events/west-kirby-jazz-club-mike-smith-quintet-2019
 ---
 
