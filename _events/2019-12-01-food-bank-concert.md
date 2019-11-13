@@ -5,7 +5,7 @@ section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: FREENOTICKETS
-time: 19.00 for 19.30
+time: 15.00 to 19.00
 date: 2019-12-01
 type: WKAC Annual Foodbank Concert
 image: foodbank2

@@ -5,11 +5,11 @@ section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 10.00
-time: 12.00 - 14.00
+time: 15.00 - 17.00
 date: 2019-12-22
-type: Children's Christmas Princess Ball 12pm-2pm
+type: Children's Christmas Princess Ball 3pm-5pm
 image: christmas-princess
-permalink: /events/Festive-Snow-Ball-early
+permalink: /events/Festive-Snow-Ball-later
 ---
 
 A Christmas Ball for all you aspiring Princesses.
