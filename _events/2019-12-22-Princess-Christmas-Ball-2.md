@@ -8,7 +8,7 @@ price: 10.00
 time: 15.00 - 17.00
 date: 2019-12-22
 type: Children's Christmas Princess Ball 3pm-5pm
-image: christmas-princess
+image: princess
 permalink: /events/Festive-Snow-Ball-later
 ---
 
