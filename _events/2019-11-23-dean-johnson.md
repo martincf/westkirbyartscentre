@@ -4,7 +4,7 @@ title: Hits of Gold
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 8
+price: SOLDOUT
 time: 7pm for 7.30pm
 date: 2019-11-23
 type: Dean Johnson does Neil Young
