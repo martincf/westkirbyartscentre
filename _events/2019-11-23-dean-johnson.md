@@ -10,6 +10,7 @@ date: 2019-11-23
 type: Dean Johnson does Neil Young
 image: neilyoung
 permalink: /events/hits-of-gold
+published: false
 ---
 
 Following two spectacular 'album themed' celebrations Neil Young superfan Dean Johnson mines 50 years of the Canadian's Hits of Gold. This unique performance will be staged 'in the round' and totally acoustic reflecting the intimacy of Neil Young's early live shows, where the audience were so close they could almost touch the artist.  
