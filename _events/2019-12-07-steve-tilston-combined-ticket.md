@@ -5,7 +5,7 @@ section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 22.50
-time: TBC
+time: 3pm-5pm and 7pm for 7.30pm
 date: 2019-12-07
 type: Combined ticket
 image: steve-tilston

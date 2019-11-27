@@ -5,7 +5,7 @@ section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 15
-time: TBC
+time: 3pm-5pm
 date: 2019-12-07
 type: Song Writting Workshop
 image: steve-tilston
