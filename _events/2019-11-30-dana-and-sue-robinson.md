@@ -10,6 +10,7 @@ date: 2019-11-30
 type: Fiddle tunes, earthy grooves, elegant melodies and rich harmonies
 image: robinsons
 permalink: /events/dana-and-susan-robinson
+published: false
 ---
 
 Dana and Susan Robinson were one of our first touring artists from America, two years ago. They may not be back again for a while so catch them this time around, I promise you will not be disappointed.
