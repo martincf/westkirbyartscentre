@@ -10,6 +10,7 @@ date: 2019-12-07
 type: Combined ticket
 image: steve-tilston
 permalink: /events/steve-tilston-dec-2019-combined
+published: false
 ---
 
 Special price for a combined ticket for the workshop and evening concert.
