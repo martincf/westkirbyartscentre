@@ -10,6 +10,7 @@ date: 2019-12-07
 type: Song Writting Workshop
 image: steve-tilston
 permalink: /events/steve-tilston-dec-2019-workshop
+published: false
 ---
 Steve Tilston will be holding a songwriting workshop in the afternoon before his concert. The workshop will take the form of question, answers and demonstrations from Steve.
 
