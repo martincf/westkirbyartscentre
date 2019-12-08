@@ -10,6 +10,7 @@ date: 2019-12-07
 type: Folk Legend in concert
 image: steve-tilston
 permalink: /events/steve-tilston-dec-2019
+published: false
 ---
 We welcome Steve Tilston back for his 4th visit to the Arts Centre, he has helped us build a reputation for great nights with great musicians. This is your chance to see one of the great folk singer songwriters of the last 50 years.
 
