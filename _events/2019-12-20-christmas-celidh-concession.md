@@ -4,7 +4,7 @@ title: Christmas Ceilidh Children's Concession
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 6
+price: CANCELLED
 time: 18.15 for 18.45
 date: 2019-12-20
 type: Ceilidh with live band and caller
