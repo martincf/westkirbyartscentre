@@ -1,6 +1,6 @@
 ---
 layout: eventdetail
-title: Festive Snow Ball
+title: Festive Snow Ball 12pm-2pm
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
