@@ -4,7 +4,7 @@ title: Simply Dylan
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 15
+price: SOLDOUT
 time: 7pm for 7.45pm
 date: 2020-01-11
 type: John O'Connell pre-tour warm up gig
