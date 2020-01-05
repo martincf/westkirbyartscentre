@@ -1,4 +1,4 @@
-﻿---
+---
 layout: eventdetail
 title: Burn's Supper children's ticket
 section_title: Events
