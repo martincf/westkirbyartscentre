@@ -27,7 +27,7 @@ Wirral Pomona helps local communities press surplus apples into juice and cider.
 
 *e-mail pdellwand@hotmail.com to check food orders, or find out more at the Wirral Wassail event on Sunday 5th January*
 
-[https://www.facebook.com/events/561239154731167/](Facebook page)
+[Facebook page](https://www.facebook.com/events/561239154731167/)
 
 The venue is situated in Brookfield Gardens on the site of the old Unitarian Church.
 Access from the street is via a flight of steps with, curently, no ramped access for wheelchairs.
