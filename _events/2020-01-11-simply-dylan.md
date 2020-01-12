@@ -10,6 +10,7 @@ date: 2020-01-11
 type: John O'Connell pre-tour warm up gig
 image: johnoconnell2
 permalink: /events/john-oconnell-jan-2020-night2
+published: false
 ---
 
 John O’Connell plays Simply Dylan, for an additional night due to public demand
