@@ -8,7 +8,7 @@ price: 10
 time: 19.00 for 19.30
 date: 2020-03-28
 type: An evening without Jake Thackery
-image: jakethackery
+image: jakethackray
 permalink: /events/sister-josephine
 ---
 
