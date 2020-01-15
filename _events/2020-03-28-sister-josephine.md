@@ -8,7 +8,7 @@ price: 10
 time: 19.00 for 19.30
 date: 2020-03-28
 type: An evening without Jake Thackery
-image: jake-thackery
+image: jakethackery
 permalink: /events/sister-josephine
 ---
 
@@ -24,11 +24,14 @@ These songs, along with never-before told stories from the biography research pl
 ‘Highly entertaining whether you are discovering Jake for the first time, or an ardent fan’
 
 [Website](http://www.fakethackray.com)
+
 [Facebook](https://www.facebook.com/FakeThackray)
+
 [Youtube video 1](http://www.youtube.com/watch?v=PoxGCAwC1Us)
+
 [Youtube video 2](http://www.youtube.com/watch?v=Yvb8a0YWj5M)
 
-##Testimonials
+## Testimonials
 
 ### Edinburgh Fringe 4 star official reviews
 
