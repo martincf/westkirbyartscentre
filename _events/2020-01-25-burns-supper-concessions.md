@@ -4,7 +4,7 @@ title: Burn's Supper children's ticket
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 5
+price: SOLDOUT
 time: 18.30 - 22.00
 date: 2020-01-25
 type: Traditional Concession for 6-16 year olds
