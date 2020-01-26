@@ -10,6 +10,7 @@ date: 2020-01-25
 type: Traditional Concession for 6-16 year olds
 image: witches-dance
 permalink: /events/burns-supper-2020-concessions
+published: false
 ---
 
 Barn Dance (Or Cider Ceildh) for Wirral Pomona

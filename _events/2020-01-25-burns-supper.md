@@ -10,6 +10,7 @@ date: 2020-01-25
 type: Traditional Ceilidh
 image: witches-dance
 permalink: /events/burns-supper-2020
+published: false
 ---
 
 Barn Dance (Or Cider Ceildh) for Wirral Pomona
