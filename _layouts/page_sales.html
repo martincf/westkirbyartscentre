@@ -1,0 +1,68 @@
+{% include header.html %}
+<h1 class="event--title"><span>{{ page.title }}</span></h1>
+<main class="content">
+{{ content }}
+
+<div class="event--pay">
+  <h1 class="event--pay-title">Purchase</h1>
+<p class="event--tickets">
+  Quantity:
+  <select required id="unitNo" class="event--ticketno">
+    <optgroup>
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3">3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+    </optgroup>
+  </select>
+</p>
+<script>
+  document.getElementById("unitNo").addEventListener("change", function getTicketNo(){
+    var tickets = document.getElementById("unitNo").value;
+    document.getElementById("totalTickets").innerHTML = tickets;
+
+    var ticketsTotal = {{ page.unitprice }} * tickets;
+    document.getElementById("totalPrice").innerHTML = ticketsTotal;
+    document.getElementById("wpTotalPrice").value = ticketsTotal;
+  });
+</script>
+
+<p class="event--ticketssummary">
+  Total <span class="event--totaltickets" id="totalTickets">1</span>
+  <!-- Format price for trailing zeros -->
+  {% assign price_split = page.unitprice | round: 2 | split: "." %}
+  {% assign integral = price_split[0] %}
+  {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
+  &pound;<span id="totalPrice">{{ integral }}.{{ fractional }}</span>
+</p>
+
+<form action="https://secure.worldpay.com/wcc/purchase" method="POST">
+  <!-- This next line contains the testMode parameter - it species that the submission is a test submission -->
+  <input type="hidden" name="testMode" value="0">
+  <input type="hidden" name="instId" value="1254946">
+  <input type="hidden" name="amount" id="wpTotalPrice" value="{{ page.price }}">
+  <input type="hidden" name="currency" value="GBP">
+  <input id="wpSubmit" class="event--purchase" type="submit" value="Purchase">
+  <script>
+    document.getElementById("wpSubmit").addEventListener("click", function getTicketsTotal(){
+      var allTickets = document.getElementById("unitNo").value;
+      document.getElementById("wpTotalTickets").value += allTickets;
+    });
+  </script>
+  <input type="hidden" name="cartId" id="wpTotalTickets" value="{{ page.title }} CD(s) x ">
+</form>
+<div class="event--wpcards">
+  <script language="JavaScript" src="https://secure.worldpay.com/wcc/logo?instId=1254946"></script>
+  <p><a href="{{ site.baseurl }}/refund-policy">Review our refund policy</a></p>
+</div>
+</div>
+<p><img src="{{ site.baseurl }}/assets/images/{{ page.image }}.jpg" alt="{{ page.title }}" />
+
+</main>
+{% include footer.html %}

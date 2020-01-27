@@ -105,6 +105,20 @@
 
     }
 }
+.page_sales .event--pay {
+    position: relative;
+    display: block;
+    clear: both;
+    top: 0;
+    margin: 50px auto -50px;
+    width: 50%;
+    padding-bottom: 5px;
+    @include mq(small-smartphone) {
+      margin: 50px auto 25px !important;
+      width: 90%;
+    }
+}
+
 .event--pay-title {
   margin: -55px 0 $size-small !important;
   padding: calc(0.5 * #{$size-small}) $size-small;
@@ -150,6 +164,9 @@
   @include mq(smartphone) {
     width: 50%;
   }
+}
+.page_sales .event--tickets {
+  background-color: $yellow;
 }
 .content .event--soldout {
   h2 {
