@@ -10,9 +10,10 @@ date: 2020-03-07
 type: progessive folk rock
 image: gentlemen-of-the-few
 permalink: /events/gentlemen-of-the-few
+published: false
 ---
 
-The Gents have performed all over the country for the last 9 years, regularly returning to Scotland and Europe and even organising two very successful tours of Northern Spain and 
+The Gents have performed all over the country for the last 9 years, regularly returning to Scotland and Europe and even organising two very successful tours of Northern Spain and
 Catalonia.
 
 Having been finalists of the BBC Radio 2 Folk Awards and appearing on Chris Evans' "TFI Friday", and performing at hundreds of festivals and venues over the years, they’ve become a truly experienced and entertaining band to watch.
