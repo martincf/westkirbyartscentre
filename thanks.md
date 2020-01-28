@@ -7,7 +7,7 @@ permalink: /payment-confirmed/
 
 ## Thanks!
 
-**A big thank you for purchase!**
+**A big thank you for your purchase!**
 
 ### Ticket purchase – collecting your tickets
 
