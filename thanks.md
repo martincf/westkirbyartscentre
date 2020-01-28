@@ -9,12 +9,12 @@ permalink: /payment-confirmed/
 
 **A big thank you for purchase!**
 
-### Collecting your tickets
+### Ticket purchase – collecting your tickets
 
 Please note, we do not issue tickets. Tickets are collected at the door on the night of the event. Please keep the Worldpay receipt for your records as proof of purchase.
 
 We're really looking forward to seeing you soon. Please make sure you arrive early enough to get comfortable and buy a drink at our licensed bar. For directions to the arts centre, you can read the Visiting details below.
 
-### CD Purchase
+### CD purchase
 
-If you purchased a CD, it will posted to you in due course. 
+If you purchased a CD, it will posted to you in due course.
