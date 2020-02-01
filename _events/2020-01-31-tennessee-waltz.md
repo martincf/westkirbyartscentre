@@ -10,6 +10,7 @@ date: 2020-01-31
 type: January Art Festival Concert No. 3
 image: artfestival
 permalink: /events/Tennessee-Waltz-Art-Festival
+published: false
 ---
 
 Continuing the tradition set over the last two years, for the month of January, we are handing the Arts Centre over to the 'Friends of West Kirby Arts Centre' to run a series of
