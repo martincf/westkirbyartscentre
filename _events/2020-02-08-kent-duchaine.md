@@ -4,7 +4,7 @@ title: Kent Duchaine and Leadbessie
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 10
+price: SOLDOUT
 time: 19.00 for 19.30
 date: 2020-02-08
 type: American Delta Blues
