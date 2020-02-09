@@ -10,6 +10,7 @@ date: 2020-02-08
 type: American Delta Blues
 image: kentduchaine
 permalink: /events/kent-duchaine-feb-2020
+published: false
 ---
 
 Kent returns after his sell out show last year. We are so pleased to have Kent back this year for what will be one of the highlights of our 2020 calendar.
