@@ -4,7 +4,7 @@ title: The Heart of Neil Young
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 8
+price: SOLDOUT
 time: 19.00 for 19.30
 date: 2020-02-15
 type: Dean Johnson in concert
