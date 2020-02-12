@@ -10,6 +10,7 @@ date: 2020-02-29
 type: Singer Songwriter
 image: Martha2
 permalink: /events/Martha-Tilston-Feb2020
+published: false
 ---
 
 This event has now been cancelled.

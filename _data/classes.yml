@@ -168,13 +168,24 @@
   email: katyshay@btinternet.com
   image: crystal
 
+- name: "Singer Songwriter club - Waxing Lyrical"
+  day: Thursday
+  time: 7.30pm-10pm
+  price: "5.00 per session"
+  tutor: Glyn Jones
+  desc: |
+    Held on 2nd Thursday of each month. Come along and share your songs and get support from the group to create new ones. We are of various ability/experience  levels and the  atmosphere is very laid back. Creators of instrumental music are also welcome and we have a good piano. There is also a PA system.
+  tel: 07808247882
+  email: Glynjones777@btinternet.com
+  image: singer-songwriter
+
 - name: Afternoon Folk
   day: Friday
   time: 2pm-5pm
   price: "3.00"
   tutor: "-"
   desc: |
-    Come and perform in the sing around, sing along or just listen. All welcome. Please note: This event is only on the 2nd Friday of every month!
+    Come and perform in the sing around, sing along or just listen. All welcome. Please note: This event is only on the 2nd & 4th Friday afternoon of every month!
   tel: 07484 537 502
   email: hello@westkirbyartscentre.org.uk
   image: events/acousticharvest

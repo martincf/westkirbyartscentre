@@ -7,7 +7,7 @@ organiser_url: www.westkirbyartscentre.org.uk
 price: 5
 time: 19.00 for 19.30
 date: 2020-04-18
-type: Folk concert
+type: Blues & contemporary
 image: split-level
 permalink: /events/phil-chisnall-and-split-Level
 ---
