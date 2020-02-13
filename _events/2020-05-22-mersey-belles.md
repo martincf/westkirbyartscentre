@@ -8,7 +8,7 @@ price: 8
 time: 7.00pm for 7.30pm
 date: 2020-05-22
 type: four string fabulousness
-image: mersey-belles-and-beaus
+image: mersey-belles-and-beaus2
 permalink: /events/mersey-belles-and-beaus-2020
 ---
 
@@ -19,6 +19,6 @@ This musical set up consists of various combinations of ukulele. banjo and bass.
 
 The Mersey Belles duo have played most of the UK ukulele festivals as well as Finland, Prague, Austria, Scotland and Ireland, also providing vocal workshops with an inclusive feel good style. The girls have also provided bespoke shows for Google, Volkswagen, O2, Sky and BMW and UK Parliament.
 
-Danielle, Rosie double the duo with Liam and Ged now, presenting an unprecedented combinations of four string fabulousness, Belles and Beaus. The band started out there first year last year with a range of ukulele festivals, corporate shows, a tour of china and their usual local residency's in Wirral and Chester. Each member of Belles and Beaus brings a lifetime of musical passion, talent and experience, plus a diverse background of musical tastes and techniques to merge into a foursome founded in friendship. 
+Danielle, Rosie double the duo with Liam and Ged now, presenting an unprecedented combinations of four string fabulousness, Belles and Beaus. The band started out there first year last year with a range of ukulele festivals, corporate shows, a tour of china and their usual local residency's in Wirral and Chester. Each member of Belles and Beaus brings a lifetime of musical passion, talent and experience, plus a diverse background of musical tastes and techniques to merge into a foursome founded in friendship.
 
 This anniversary revisit to the West Kirby Arts Centre after a year since their debut promises to be a a wonderful variety of ukulele music for all ages and tastes.
