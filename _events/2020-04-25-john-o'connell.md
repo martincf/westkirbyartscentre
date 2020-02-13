@@ -8,9 +8,9 @@ price: 12
 time: 7.00pm for 7.30pm
 date: 2020-04-25
 type: John gets back to his roots
-image: hollis
+image: johnoconnell3
 permalink: /events/John-O-Connell
-published: false
+published: true
 ---
 
 John O’Connell is one of Liverpool’s firm favourites. The remarkable partnership and infectious stage presence he had with the late Graham Evans in Groundpig saw hundreds of people attend their gigs every week. Their musicianship and seemingly endless repertoire from a range of genres had their young fans mesmerised. After the sad passing of Graham, John reinvented himself concentrating his time on his song writing, refining his classical guitar technique and putting on his own concerts. He supported Martin Carthy, Sean Lakeman and toured the UK with the American songwriter Steven Bishop.
