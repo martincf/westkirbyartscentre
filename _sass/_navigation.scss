@@ -22,8 +22,8 @@
 
 }
 .site-nav-item {
-  font-size: $font-large;
-  margin-right: $size-med;
+  font-size: 18px;
+  margin-right: $size-small;
   @include mq(smartphone and medium) {
     font-size: $font-med;
   }
