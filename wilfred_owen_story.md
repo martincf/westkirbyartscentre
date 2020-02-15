@@ -1,13 +1,15 @@
 ---
 layout: page
 title: The Wilfred Owen Story
-image:
+image: wilfredowen02
 permalink: /wilfred_owen_story/
 ---
 
 ## Admission is free – 12pm-2pm daily
 
 **The Wilfred Owen Story is the UK's first and only permanent exhibition dedicated to the iconic WW1 poet. The museum was established in 2011 and celebrates Wilfred Owen's formative years spent on the Wirral.**
+
+![Exhibition]({{ site.baseurl }}/assets/images/wilfredowen01.jpg)
 
 On display are many unique items that have attracted visitors from all over the world. Exhibits include a letter from Wilfred's mother Susan addressed to her godchild in Birkenhead after the Owens had left the area. Further investigation discovered that the little girl Susie was of German descent. This astonishing fact was the subject of a BBC documentary.
 
