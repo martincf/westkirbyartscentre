@@ -10,6 +10,7 @@ date: 2020-02-15
 type: Dean Johnson in concert
 image: hony1
 permalink: /events/heart-of-neil-young
+published: false
 ---
 
 Well known for his environmental anthems and timely protest songs, Neil Young composed some of the most poignant and heartfelt love songs of any of the 1970s singer/songwriters. A series of bittersweet, breathtakingly honest ballads helped create his lonesome, often dark persona, at odds with his superstar status.
