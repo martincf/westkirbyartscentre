@@ -10,6 +10,7 @@ date: 2020-02-22
 type: Folk singer-songwriter
 image: lizzy-hardingham
 permalink: /events/lizzy-hardingham
+published: false
 ---
 
 Lizzy is a captivating and energetic folk singer-songwriter, playing a vibrant mix of traditional, original and contemporary music. Her delicate and interesting guitar parts mingle with her immensely powerful yet pure voice to tell a story. She writes song from the heart, mulling over the subtleties of everyday life as well as re-arranging and re-invigorating traditional tunes. After appearing as a finalist in 2018’s New Roots competition she has gone from strength to strength.
