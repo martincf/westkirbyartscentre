@@ -49,6 +49,6 @@ You will learn about the most effective way to look after your body and your hea
 
 My name is Ana. I've read psychology at the University of Liverpool and then furthered my interest in human behaviour at postgraduate level in counselling at the University of Chester.
 
-![Keto Life Coach: Ana]({{ site.baseurl }}/assets/images/events/ana01-w1200.jpg)
+![Keto Life Coach: Ana](/assets/images/events/ana01-w1200.jpg)
 
 After 3 years of research and self-experimentation I have mastered the challenges of reaching optimum health. I will give you the practical advice you need from the vast amount of research behind the ketogenic diet. I will guide you through the process, in a way you feel most comfortable with.does bring many other benefits!
