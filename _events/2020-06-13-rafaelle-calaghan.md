@@ -8,7 +8,7 @@ price: 7
 time: 7.00 for 7.30
 date: 2020-06-13
 type: Blues  
-image: Raphael-callaghan
+image: raphael-callaghan
 permalink: /events/Raphael-callaghan
 ---
 
