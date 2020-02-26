@@ -7,7 +7,7 @@ organiser_url: www.westkirbyartscentre.org.uk
 price: 8
 time: 7.00 for 7.30
 date: 2020-06-12
-type: Dan Johnson performs Neil Youngs deep cuts
+type: Dean Johnson performs Neil Youngs deep cuts
 image: rusty-neil
 permalink: /events/rust-o-vision
 ---
