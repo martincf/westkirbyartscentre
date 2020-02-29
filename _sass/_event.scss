@@ -268,12 +268,14 @@
 .event--genre {
   color: lighten($purple, 25%);
   text-transform: capitalize;
+  max-width: 50%;
 }
 .event--date {
   font-weight: 700;
   font-size: $size-med;
   color: $pink;
   position: relative;
+  max-width: 65%;
   @include mq(medium) {
     margin-top: $size-super;
     width: 50%;
