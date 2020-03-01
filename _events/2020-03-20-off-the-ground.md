@@ -6,10 +6,10 @@ bookable: no
 organiser_url: https://www.offtheground.co.uk/whats-on-theatre-wirral
 price: 7
 time: 7.00 for 7.30
-date: 2020-03-19
+date: 2020-03-20
 type: Off The Ground Youth Theatre
 image: windinthewillows
-permalink: /events/wind-in-the-willows-off-the-ground-thursday
+permalink: /events/wind-in-the-willows-off-the-ground-Friday
 ---
 
 Off The Ground Youth Theatre present Wind in the Willows
