@@ -8,7 +8,7 @@ price: 8
 time: 7.00 for 7.30
 date: 2020-06-19
 type: contemporary singer songwriter
-image: peter-davies
+image: pete-davies
 permalink: /events/peter-davies
 ---
 
@@ -33,4 +33,4 @@ We are pleased to be able to present the unique talent of Pete Davies:
 
 [www.petedaviesmusic.co.uk](www.petedaviesmusic.co.uk)
 
-[Email: ](mailto:pete@petedaviesmusic.co.uk)
+[Email](mailto:pete@petedaviesmusic.co.uk)
