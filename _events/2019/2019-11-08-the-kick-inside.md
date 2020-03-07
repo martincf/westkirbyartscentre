@@ -10,6 +10,7 @@ date: 2020-03-06
 type: Music
 image: kickinside
 permalink: /events/the-kick-inside
+published: false
 ---
 
 This event is now postponed until Friday 6th March 2020.
