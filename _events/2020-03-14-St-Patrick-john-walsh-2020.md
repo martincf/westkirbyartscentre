@@ -10,6 +10,7 @@ date: 2020-03-14
 type: Irish Music Night
 image: john-and-keith
 permalink: /events/st-pats-2020
+published: false
 ---
 
 John Walsh, Keith Price and Barbara Hough help us celebrate
