@@ -10,6 +10,7 @@ date: 2020-04-01
 type: Health
 image: ketolifecoach
 permalink: /events/intro-to-keto-april2020
+published: false
 ---
 
 ## Losing weight is not vanity, it's a life necessity!
