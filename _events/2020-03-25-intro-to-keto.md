@@ -2,11 +2,11 @@
 layout: eventdetail
 title: Keto Life Coach - Introduction to a keto lifestyle
 section_title: Events
-bookable: yes
+bookable: no
 organiser_url: http://www.ketolifecoach.me
-price: POSTPONED
-time: 2pm-3pm
-date: 2020-03-25
+price: 15
+time: 2.30pm-3.30pm
+date: 2020-05-20
 type: Health
 image: ketolifecoach
 permalink: /events/intro-to-keto-march2020
