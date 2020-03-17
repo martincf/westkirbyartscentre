@@ -4,13 +4,15 @@ title: Luke Jackson
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 12
+price: POSTPONED
 time: 19.00 for 19.30
 date: 2020-03-27
 type: The Blues
 image: luke2019
 permalink: /events/luke-jackson
 ---
+
+This event has been postponed until further notice.
 
 Every so often a new voice emerges, one so stunning that it knocks you sideways. Jackson has been compared to a young Richard Thompson and for once these are not empty
 words –  Acoustic Magazine
