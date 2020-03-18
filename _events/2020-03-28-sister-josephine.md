@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 10
 time: 19.00 for 19.30
-date: 2020-03-28
+date: 2020-11-27
 type: An evening without Jake Thackery
 image: jakethackray
 permalink: /events/sister-josephine

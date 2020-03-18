@@ -4,9 +4,9 @@ title: Luke Jackson
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: POSTPONED
+price: 12
 time: 19.00 for 19.30
-date: 2020-03-27
+date: 2020-07-11
 type: The Blues
 image: luke2019
 permalink: /events/luke-jackson

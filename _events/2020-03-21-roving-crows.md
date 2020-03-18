@@ -4,9 +4,9 @@ title: Roving Crows
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: POSTPONED
+price: 10
 time: 19.00 for 19.30
-date: 2020-03-21
+date: 2020-10-16
 type: Celtic folk rock
 image: roving-crows-2020
 permalink: /events/roving-crows
