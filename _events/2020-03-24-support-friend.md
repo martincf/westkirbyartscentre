@@ -9,7 +9,7 @@ time: NA
 date: 2020-03-01
 type: Support West Kirby Arts Centre by becoming a friend
 image: friend
-permalink: /events/friend
+permalink: /friend
 tags: support
 ---
 

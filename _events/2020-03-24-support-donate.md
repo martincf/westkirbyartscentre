@@ -9,7 +9,7 @@ time: NA
 date: 2020-03-01
 type: Support the Arts Centre with a donation
 image: donate
-permalink: /events/donate
+permalink: /donate
 tags: support
 ---
 
