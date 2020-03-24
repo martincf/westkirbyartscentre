@@ -1,4 +1,20 @@
 <ul class="eventlist">
+{% for event in site.events %}
+  {% if event.tags contains 'support' %}
+    <li class="eventlist-item" style="background-image: url({{ site.baseurl }}/assets/images/events/{{ event.image }}.jpg);">
+        <a class="eventlist-item-link" href="{{ event.url }}">
+          <div class="eventlist-item-link--wrap">
+            <h1 class="eventlist-item-link--title">{{ event.title }}</h1>
+            <h2 class="eventlist-item-link--data">
+              {{ event.type }}
+            </h2>
+          </div>
+
+        </a>
+    </li>
+    {% endif %}
+{% endfor %}
+
   <!--
     Current date: currentDateInt
     Event date: eventDateInt

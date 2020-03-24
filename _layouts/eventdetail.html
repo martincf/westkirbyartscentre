@@ -2,7 +2,13 @@
   <h1 class="event--title"><span>{{ page.title }}</span></h1>
   <main class="content event--content">
   <div class="event--pay">
-    <h1 class="event--pay-title">Book tickets</h1>
+    <h1 class="event--pay-title">
+      {% if page.tags contains 'support' %}
+        Support the Art Centre
+        {% else %}
+      Book tickets
+    {% endif %}
+    </h1>
     {% if page.bookable == false %}
       <p class="event--nobooking">Tickets must be booked via the organiser:</p>
         <a class="event--organisertickets" href="{{ page.organiser_url }}">
@@ -52,7 +58,11 @@
 
   <!-- Ticket calc -->
   <p class="event--tickets">
+    {% if page.tags contains 'support' %}
+      Quantity:
+    {% else %}
     Tickets:
+    {% endif %}
     <select required id="ticketNo" class="event--ticketno">
       <optgroup>
         <option value="1">1</option>
@@ -96,6 +106,8 @@
     <input type="hidden" name="currency" value="GBP">
     {% if page.price == "TBA" %}
       <input id="wpSubmit" disabled class="event--purchase disabled" type="submit" value="Buy tickets">
+    {% elsif page.tags contains 'support' %}
+    <input id="wpSubmit" class="event--purchase" type="submit" value="Pay">
     {% else %}
       <input id="wpSubmit" class="event--purchase" type="submit" value="Buy tickets">
     {% endif %}
@@ -123,10 +135,12 @@
 </div>
   <div class="event--data">
       <!-- Get event date -->
+      {% if page.tags contains 'support' %}
+        <p class="event--date">Support us</p>
+      {% else %}
       <p class="event--date">{{ page.date | date: '%A, %d %b %Y' }} – {{ page.time }} </p>
+      {% endif %}
       <p class="event--genre">{{ page.type }}</p>
-      <!-- Go to www.addthis.com/dashboard to customize your tools -->
-      <div class="addthis_inline_share_toolbox_41ud"></div>
   </div>
   <article  markdown="1" class="event--details">
     {{ page.content | markdownify }}
