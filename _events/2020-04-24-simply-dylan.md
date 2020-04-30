@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 15
 time: 7.00pm for 7.30pm
-date: 2020-04-24
+date: 2020-11-20
 type: John O'Connell post tour celebration
 image: simply-dylan-logo
 permalink: /events/simply-dylan
