@@ -10,7 +10,6 @@ date: 2020-11-13
 type: Blues & contemporary
 image: split-level
 permalink: /events/phil-chisnall-and-split-Level
-published: false
 ---
 
 
