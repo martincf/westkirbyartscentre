@@ -10,6 +10,7 @@ date: 2020-06-05
 type: American Blue Grass inspired music
 image: nell-and-jim
 permalink: /events/nell-and-jim-band
+published: false
 ---
 
 We are pleased to announce that the acclaimed American roots band - the Nell & Jim Band - will be playing West Kirby Arts Centre as part of their tour of Europe in June and July 2020. They have festivals and shows in the UK, Germany and Poland.

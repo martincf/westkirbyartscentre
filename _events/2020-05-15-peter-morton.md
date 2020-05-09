@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 10
 time: 19.00 for 19.30
-date: 2021-02-15
+date: 2021-02-05
 type: Folk singer-songwriter
 image: peter-morton
 permalink: /events/peter-morton
