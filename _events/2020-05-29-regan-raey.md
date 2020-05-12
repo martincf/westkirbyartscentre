@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 6
 time: 7.00 for 7.30
-date: 2020-05-29
+date: 2021-05-28
 type:  local young singer songwritter
 image: regan-reay
 permalink: /events/regan-raey-and-his-band
