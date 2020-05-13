@@ -4,7 +4,7 @@ title: John O'Connell
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 12
+price: SOLDOUT
 time: 7.00pm for 7.30pm
 date: 2020-11-21
 type: John gets back to his roots
