@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 10
 time: 7.00 for 7.30
-date: 2020-06-06
+date: 2021-01-30
 type: Fundraiser for Tyddyn-Mon, Folk on the Farm
 image: corki
 permalink: /events/Corki-Tyddyn-Mon-Folk-on-the-Farm
