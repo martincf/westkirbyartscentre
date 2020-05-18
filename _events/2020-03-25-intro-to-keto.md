@@ -5,8 +5,8 @@ section_title: Events
 bookable: no
 organiser_url: http://www.ketolifecoach.me
 price: 15
-time: 2.30pm-3.30pm
-date: 2020-05-20
+time: 2pm-3pm
+date: 2020-07-08
 type: Health
 image: ketolifecoach
 permalink: /events/intro-to-keto-march2020
