@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 8
 time: 7.00 for 7.30
-date: 2020-06-19
+date: 2021-04-17
 type: contemporary singer songwriter
 image: pete-davies
 permalink: /events/peter-davies

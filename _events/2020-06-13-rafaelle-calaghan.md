@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 7
 time: 7.00 for 7.30
-date: 2020-06-13
+date: 2021-06-11
 type: Blues  
 image: raphael-callaghan
 permalink: /events/Raphael-callaghan
