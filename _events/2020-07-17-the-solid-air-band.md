@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 8
 time: 7.00 for 7.30
-date: 2020-07-17
+date: 2021-03-13
 type:  The music of John Martyn
 image: solid-air
 permalink: /events/the-solid-air-band
