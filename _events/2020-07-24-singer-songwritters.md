@@ -10,9 +10,10 @@ date: 2020-07-24
 type: A Celebration of Song Writting
 image: songs-for-all-reasons
 permalink: /events/songs-for-all-reasons
+published: false
 ---
 
-Come and hear a pick of handwritten songs from Waxing Lyrical - the Wirral Singer/songwriter group based here at West Kirby Arts Centre. You will hear piano, guitar, fiddle and mandolin players match their instrumental talents with fine lyrics and vocals. 
+Come and hear a pick of handwritten songs from Waxing Lyrical - the Wirral Singer/songwriter group based here at West Kirby Arts Centre. You will hear piano, guitar, fiddle and mandolin players match their instrumental talents with fine lyrics and vocals.
 
 Styles range from folk to country to contemporary to blues and back again! With both solo and group performances
 
