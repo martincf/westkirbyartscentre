@@ -5,9 +5,9 @@ section_title: Events
 bookable: no
 organiser_url: https://www.ticketsource.co.uk/firebrand-music/t-xonnqm
 price: 20
-time: 7.00 for 7.30
+time: 8pm
 date: 2020-07-28
-type: Blues  
+type: Virtual concert  
 image: steveknightly
 permalink: /events/steve-knightly-online
 ---
