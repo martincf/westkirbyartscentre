@@ -4,7 +4,7 @@ title: Keto Life Coach - Introduction to a keto lifestyle
 section_title: Events
 bookable: no
 organiser_url: http://www.ketolifecoach.me
-price: 15
+price: CANCELLED
 time: 7.30pm-8.30pm
 date: 2020-07-15
 type: Health
