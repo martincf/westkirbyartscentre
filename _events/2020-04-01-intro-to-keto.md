@@ -2,7 +2,7 @@
 layout: eventdetail
 title: Keto Life Coach - Introduction to a keto lifestyle
 section_title: Events
-bookable: no
+bookable: yes
 organiser_url: http://www.ketolifecoach.me
 price: CANCELLED
 time: 7.30pm-8.30pm
