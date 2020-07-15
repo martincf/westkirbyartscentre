@@ -1,6 +1,6 @@
 ---
 layout: eventdetail
-title: The music of the Steriophonics
+title: The music of the Stereophonics
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
@@ -12,6 +12,6 @@ image: darylryan
 permalink: /events/steriophonics
 ---
 
-A solo acoustic celebration, featuring classic album tracks and singles from every album released by The Steriophonics.
+A solo acoustic celebration, featuring classic album tracks and singles from every album released by The Stereophonics.
 
 Performed live by one of this country's foremost interpreters of their music. You won't be disappointed.
