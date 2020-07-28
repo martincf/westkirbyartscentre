@@ -1,19 +1,19 @@
 ---
 layout: eventdetail
-title: Become a Friend
+title: Become a Member
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 20
 time: NA
 date: 2020-03-01
-type: Support West Kirby Arts Centre by becoming a friend
+type: Support West Kirby Arts Centre by becoming a member
 image: friend
 permalink: /friend
 tags: support
 ---
 
-Become a Friend of West Kirby Arts Centre
+Become a member of the Friends of West Kirby Arts Centre
 
 Join the _Friends of West Kirby Arts Centre_ scheme – only £20 per year. Help support the Arts in West Kirby and receive the following benefits:
 
