@@ -3,6 +3,7 @@ layout: page
 title: The Wilfred Owen Story
 image: wilfredowen02
 permalink: /wilfred_owen_story/
+published: false
 ---
 
 ## Admission is free – 12pm-2pm daily
