@@ -1,18 +1,18 @@
 ---
 layout: eventdetail
-title: Edge Larks
+title: Edgelarks
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 14.00
 time: 19.00 for 19.30
-date: 2020-10-19
+date: 2020-10-16
 type: Award Winning Folk Artists
 image: edge-larks-oct-2020
 permalink: /events/edge-larks-2020
 ---
 
-We welcome back one of our favourite acts Edge Larks
+We welcome back one of our favourite acts Edgelarks
 
 Born from the work of the duo Phillip Henry and Hannah Martin, Edgelarks combine exquisite folk with influences as diverse as the blues and Indian classical slide guitar, to create a sound that is
 
