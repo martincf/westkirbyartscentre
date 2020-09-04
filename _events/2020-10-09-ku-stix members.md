@@ -12,4 +12,4 @@ image: ku-stix-oct-2020
 permalink: /events/ku-stix-members
 ---
 
-A special night from our friends Ku-Stix, Phil Chisnall and Iain Patterson in support of the Art Centres coming out of Lock Down programme.
+A special night from our friends Ku-Stix, Phil Chisnall and Iain Paterson in support of the Art Centres coming out of Lock Down programme.
