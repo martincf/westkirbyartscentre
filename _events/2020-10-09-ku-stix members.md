@@ -10,6 +10,7 @@ date: 2020-10-09
 type: Live Music – Members tickets
 image: ku-stix-oct-2020
 permalink: /events/ku-stix-members
+published: no
 ---
 
 A special night from our friends Ku-Stix, Phil Chisnall and Iain Paterson in support of the Art Centres coming out of Lock Down programme.

@@ -4,7 +4,7 @@ title: Like A Hurricane
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 8
+price: POSTPONED
 time: 7.00 for 7.30
 date: 2020-11-06
 type: Classic Rock Guitar Band
