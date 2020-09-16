@@ -4,7 +4,7 @@ title: Harbottle and Jonas
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 10.00
+price: POSTPONED
 time: 19.00 for 19.30
 date: 2020-10-30
 type: The Sea Is My Brother

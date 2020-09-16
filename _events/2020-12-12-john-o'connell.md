@@ -9,7 +9,7 @@ time: 7.00 for 7.30
 date: 2020-12-12
 type: John gets back to his roots
 image: johnoconnell2
-permalink: /events/john-oconnell
+permalink: /events/john-oconnell-Xmas2020-first
 ---
 
 John O’Connell is one of Liverpool’s firm favourites. The remarkable partnership and infectious stage presence he had with the late Graham Evans in Groundpig saw hundreds of people attend their gigs every week.
