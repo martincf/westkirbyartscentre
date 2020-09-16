@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 10
 time: 7.00 for 7.45
-date: 2020-10-10
+date: 2021-01-09
 type: Live Solo Acoustic Celebration
 image: darylryan
 permalink: /events/steriophonics

@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 14.00
 time: 19.00 for 19.30
-date: 2020-10-16
+date: 2021-11-12
 type: Award Winning Folk Artists
 image: edge-larks-oct-2020
 permalink: /events/edge-larks-2020
