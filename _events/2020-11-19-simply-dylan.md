@@ -4,12 +4,12 @@ title: Simply Dylan
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: SOLDOUT
+price: 17.50
 time: 7.00 for 7.30
-date: 2020-12-11
-type: Simply Dylan goes acoustic for WKAC
+date: 2020-11-19
+type: Non-members tickets
 image: simply-dylan-logo
-permalink: /events/simply-dylan-dec2020
+permalink: /events/simply-dylan-nov2020
 ---
 
 Join John O’Connell and his Simply Dylan band for an acoustic gig.
