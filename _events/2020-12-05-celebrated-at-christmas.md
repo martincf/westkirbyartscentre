@@ -10,6 +10,7 @@ date: 2020-12-05
 type: Members only Christmas celebration
 image: celebrated
 permalink: /events/the-celebrated-at-Christmas
+published: false
 ---
 
 The Celebrated and Friends at Christmas

@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: SOLDOUT
 time: 7.00 for 7.30
-date: 2020-12-12
+date: 2021-02-27
 type: John gets back to his roots
 image: johnoconnell2
 permalink: /events/john-oconnell-Xmas2020-first

@@ -10,6 +10,7 @@ date: 2020-11-06
 type: Classic Rock Guitar Band
 image: lah3
 permalink: /events/Like-a-Hurricane
+published: false
 ---
 
 Postponed, new date to be confirmed.

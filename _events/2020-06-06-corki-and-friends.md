@@ -10,6 +10,7 @@ date: 2021-01-30
 type: Fundraiser for Tyddyn-Mon, Folk on the Farm
 image: corki
 permalink: /events/Corki-Tyddyn-Mon-Folk-on-the-Farm
+published: false
 ---
 
 Corki, ex Wreckless Elbow, will be getting some friends, Will Riding, Carl Southworth and Tennessee waltz together to raise funds for the Tyd-Y-Mon charity which runs the annual 'Folk on the Farm'.

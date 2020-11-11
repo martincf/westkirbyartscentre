@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 15
 time: 7.00 for 7.30
-date: 2020-12-10
+date: 2020-02-26
 type: Non-members tickets
 image: johnoconnell2
 permalink: /events/John-OConnell-Xmas

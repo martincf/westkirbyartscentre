@@ -6,10 +6,11 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 5.00
 time: 7.00 for 7.30
-date: 2020-12-10
+date: 2021-02-26
 type: Members ticket
 image: johnoconnell2
 permalink: /events/John-OConnell-Xmas-members
+published: false
 ---
 
 John O’Connell is one of Liverpool’s firm favourites. The remarkable partnership and infectious stage presence he had with the late Graham Evans in Groundpig saw hundreds of people attend their gigs every week. Their musicianship and seemingly endless repertoire from a range of genres had their young fans mesmerised. Since the passing of Graham, John has reinvented himself concentrating his time on his song writing, refining his classical guitar technique and putting on his own concerts. He has supported Martin Carthy, Gordon Haskell,  Sean Lakeman & Kathryn Roberts and has toured the UK with the American songwriter Stephen Bishop.

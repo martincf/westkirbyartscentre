@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 14
 time: 19.00 for 19.30
-date: 2021-04-06
+date: 2021-11-27
 type: The Great Canadian Songbook
 image: keith-james-march-2021
 permalink: /events/keith-james-the-great-canadian-songbook

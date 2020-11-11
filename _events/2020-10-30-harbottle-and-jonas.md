@@ -10,6 +10,7 @@ date: 2020-10-30
 type: The Sea Is My Brother
 image: harbottle-and-jonas-pic
 permalink: /events/harbottle-and-jonas
+published: false
 ---
 
 Devon based duo Harbottle & Jonas met at Liverpool Uni where they studied music. Partners in life as well as music, combining their love of the rich stories and music of traditional folk with their own original songwriting and contemporary interpretations, they have developed a signature sound, blending concertina, harmonium, banjo, stomp box, acoustic guitar and cittern with their beautiful and closely intertwined vocal harmonies.  

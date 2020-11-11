@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 14
 time: 7.00 for 7.45
-date: 2020-11-28
+date: 2021-03-06
 type: Keith James in concert
 image: keithjames2020
 permalink: /events/Keith-james-leonard-cohen

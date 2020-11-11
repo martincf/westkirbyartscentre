@@ -10,6 +10,7 @@ date: 2020-11-19
 type: Members ticket
 image: simply-dylan-logo
 permalink: /events/simply-dylan-nov2020-members
+published: false
 ---
 
 Join John O’Connell and his Simply Dylan band for an acoustic gig.

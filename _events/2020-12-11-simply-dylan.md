@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: SOLDOUT
 time: 7.00 for 7.30
-date: 2020-12-11
+date: 2021-05-01
 type: Simply Dylan goes acoustic for WKAC
 image: simply-dylan-logo
 permalink: /events/simply-dylan-dec2020
