@@ -7,7 +7,7 @@ organiser_url: www.westkirbyartscentre.org.uk
 price: 17.50
 time: 7.00 for 7.30
 date: 2021-04-29
-type: Non-members tickets
+type: Non-members tickets – Simply Dylan goes acoustic for WKAC
 image: simply-dylan-logo
 permalink: /events/simply-dylan-nov2020
 ---

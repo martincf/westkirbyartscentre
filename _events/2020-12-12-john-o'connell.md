@@ -1,6 +1,6 @@
 ---
 layout: eventdetail
-title: "John O'Connell at Christmas"
+title: "John O'Connell"
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk

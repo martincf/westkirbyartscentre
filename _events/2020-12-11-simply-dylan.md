@@ -4,7 +4,7 @@ title: Simply Dylan
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: SOLDOUT
+price: 17.50
 time: 7.00 for 7.30
 date: 2021-05-01
 type: Simply Dylan goes acoustic for WKAC

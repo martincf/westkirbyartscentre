@@ -10,6 +10,7 @@ date: 2021-01-15
 type: Dean Johnson performs Neil Youngs deep cuts
 image: rusty-neil
 permalink: /events/rust-o-vision
+published: false
 ---
 
 2020 RUST-O-VISION - NEIL YOUNG'S DEEP CUTS & RARITIES
