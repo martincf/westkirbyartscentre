@@ -7,7 +7,7 @@ organiser_url: www.westkirbyartscentre.org.uk
 price: 15.00
 time: 7.00 for 7.30
 date: 2021-02-26
-type: Non-members tickets
+type: John gets back to his roots
 image: johnoconnell2
 permalink: /events/John-OConnell-Xmas
 ---
