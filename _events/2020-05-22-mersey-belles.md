@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 8
 time: 7.00pm for 7.30pm
-date: 2021-02-12
+date: 2021-03-12
 type: four string fabulousness
 image: mersey-belles-and-beaus2
 permalink: /events/mersey-belles-and-beaus-2020
