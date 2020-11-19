@@ -123,7 +123,7 @@
       });
 
     </script>
-    <input type="hidden" name="cartId" id="wpTotalTickets" value="{{ page.title }} ticket(s) x ">
+    <input type="hidden" name="cartId" id="wpTotalTickets" value="{{ page.title }} ({{ page.date | date: '%A, %d %b %Y' }}) – ticket(s) x ">
   </form>
   <div class="event--wpcards">
     <script language="JavaScript" src="https://secure.worldpay.com/wcc/logo?instId=1254946"></script>
