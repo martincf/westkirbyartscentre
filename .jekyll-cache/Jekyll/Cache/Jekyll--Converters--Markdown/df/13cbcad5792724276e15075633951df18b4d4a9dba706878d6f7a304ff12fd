@@ -1,0 +1,12 @@
+I"�<p>This is a test page for Worldpay’s system check.</p>
+
+<p>Useful ‘price’ front matter labels:</p>
+<ul>
+  <li>SOLDOUT</li>
+  <li>CANCELLED</li>
+  <li>POSTPONED</li>
+  <li>FREE</li>
+  <li>FREENOTICKETS</li>
+  <li>PAYONDOOR</li>
+</ul>
+:ET
