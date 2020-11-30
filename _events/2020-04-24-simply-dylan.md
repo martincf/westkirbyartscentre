@@ -4,10 +4,10 @@ title: Simply Dylan
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: SOLDOUT
+price: 17.50
 time: 7.00pm for 7.30pm
 date: 2021-04-30
-type: John O'Connell post tour celebration
+type: Simply Dylan goes acoustic for WKAC
 image: simply-dylan-logo
 permalink: /events/simply-dylan
 ---
