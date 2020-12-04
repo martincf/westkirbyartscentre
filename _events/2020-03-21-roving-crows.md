@@ -12,8 +12,6 @@ image: roving-crows-2020
 permalink: /events/roving-crows
 ---
 
-This event has been postponed until further notice.
-
 The Roving Crows have been carving out their niche in the UK folk music scene since early 2009.
 
 Over ten years and evolving incarnations Roving Crows have cultivated an arresting, singular sound that pushes the boundaries of the Celtic Folk genre. The band play with
