@@ -14,14 +14,11 @@ permalink: /events/all-I-have-to-do
 
 All I Have to Do is Dream – an Everly Brothers celebration, with Tennessee Waltz and friends
 
-Following their run of sold out shows on the Wirral in 2018/19, acoustic country duo Tennessee Waltz invite you to share in celebrating the hits and harmonies of their
-musical heroes The Everly Brothers, at the newly refurbished, Covid-safe West Kirby Arts Centre, Brookfield Gardens, West Kirby on Friday 14 May 2021.
+Following their run of sold out shows on the Wirral in 2018/19, acoustic country duo Tennessee Waltz invite you to share in celebrating the hits and harmonies of their musical heroes The Everly Brothers, at the newly refurbished, Covid-safe West Kirby Arts Centre, Brookfield Gardens, West Kirby on Friday 14 May 2021.
 
-Step back in time to the late 50s and early 60s when the Everlys ruled supreme with hits such as Wake Up Little Susie, Bye Bye Love, Claudette, Bird Dog, Till I Kissed You,
-Let it Be Me, Cathy’s Clown, Walk Right Back, Devoted to You, Crying in the Rain and the sublime All I Have to Do is Dream.
+Step back in time to the late 50s and early 60s when the Everlys ruled supreme with hits such as Wake Up Little Susie, Bye Bye Love, Claudette, Bird Dog, Till I Kissed You, Let it Be Me, Cathy’s Clown, Walk Right Back, Devoted to You, Crying in the Rain and the sublime All I Have to Do is Dream.
 
-With their country roots, matching guitars, driving rock’n’roll backbeat and distinctive harmonies, Don and Phil Everly left an indelible mark on generations of bands to
-come including The Beatles, The Searchers, The Beach Boys and Simon and Garfunkel, through to Status Quo and The Proclaimers.
+With their country roots, matching guitars, driving rock’n’roll backbeat and distinctive harmonies, Don and Phil Everly left an indelible mark on generations of bands to come including The Beatles, The Searchers, The Beach Boys and Simon and Garfunkel, through to Status Quo and The Proclaimers.
 
 The sound of youth and innocence that somehow never grew old.
 
