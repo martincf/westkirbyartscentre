@@ -7,7 +7,7 @@ organiser_url: www.westkirbyartscentre.org.uk
 price: 10
 time: 19.00 for 19.30
 date: 2021-04-09
-type: An evening without Jake Thackery
+type: An evening without Jake Thackray
 image: jakethackray
 permalink: /events/sister-josephine
 ---
