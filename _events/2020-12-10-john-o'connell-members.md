@@ -4,7 +4,7 @@ title: John O'Connell at Christmas – Members tickets
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: 5.00
+price: SOLDOUT
 time: 7.00 for 7.30
 date: 2021-02-26
 type: Members ticket
