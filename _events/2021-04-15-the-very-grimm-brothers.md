@@ -20,4 +20,4 @@ Words & music from The Very Grimm Brothers - Adrian Mealing + John Denton (gtr) 
 
 Tickets are available from Wirral Festival of Firsts using this link
 
-For more information contact: [www.wirralpoetryfestival.org.uk](www.wirralpoetryfestival.org.uk)
+For more information contact: [https://wirralpoetryfestival.org.uk/the-very-grimm-brothers/](https://wirralpoetryfestival.org.uk/the-very-grimm-brothers/)
