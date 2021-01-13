@@ -79,5 +79,3 @@ Although the band originator is not with them full time, Broken Strings are alwa
 pleased to have her join them on occasion so,
 
 On Ukulele, Flute, Whistles,Vocals and Harmonies- Emma Owen.
-
-All I Have to Do is Dream – an Everly Brothers celebration, with Tennessee Waltz and friends
