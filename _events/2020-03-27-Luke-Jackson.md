@@ -12,8 +12,6 @@ image: luke2019
 permalink: /events/luke-jackson
 ---
 
-This event has been postponed until further notice.
-
 Every so often a new voice emerges, one so stunning that it knocks you sideways. Jackson has been compared to a young Richard Thompson and for once these are not empty
 words –  Acoustic Magazine
 
