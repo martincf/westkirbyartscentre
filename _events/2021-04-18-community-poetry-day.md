@@ -10,6 +10,7 @@ date: 2021-04-18
 type: Wirral Poetry festival
 image: books
 permalink: /community-poetry-day
+published: false
 ---
 
 Wirral Poetry Festival brings you their annual Community Day of Poetry
