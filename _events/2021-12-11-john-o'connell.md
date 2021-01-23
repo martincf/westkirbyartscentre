@@ -4,7 +4,7 @@ title: "John O'Connell at Christmas"
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: SOLDOUT
+price: 15
 time: 7.00 for 7.30
 date: 2021-12-11
 type: John gets back to his roots
