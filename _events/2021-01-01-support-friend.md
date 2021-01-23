@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 20
 time: NA
-date: 2020-03-01
+date: 2021-01-01
 type: Support West Kirby Arts Centre by becoming a member
 image: friend
 permalink: /friend
