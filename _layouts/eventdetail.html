@@ -20,6 +20,12 @@
         <h2>Sold out</h2>
         <p>We're sorry, this event is now sold out.</p>
       </div>
+    {% elsif page.bookable == true and page.price == "SOLDOUTRESERVED" %}
+      <div class="event--soldout">
+        <h2>Sold out</h2>
+        <p><a href="mailto:hello@westkirbyartscentre.org.uk?subject={{page.title}} reserve list">Email us</a> for a reserve list place.</p>
+      </div>
+
     {% elsif page.bookable == true and page.price == "CANCELLED" %}
       <div class="event--cancelled">
         <h2>Cancelled</h2>
