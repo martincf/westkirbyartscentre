@@ -1,6 +1,6 @@
 ---
 layout: eventdetail
-title: Peter Morton
+title: Pete Morton
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
@@ -9,7 +9,7 @@ time: 19.00 for 19.30
 date: 2021-09-03
 type: Folk singer-songwriter
 image: peter-morton
-permalink: /events/peter-morton
+permalink: /events/pete-morton
 ---
 
 Pete Morton is a folk singer-songwriter with a wealth of great songs and a remarkable singing voice.
