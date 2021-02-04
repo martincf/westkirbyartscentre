@@ -23,5 +23,3 @@ A compelling and energetic performer whose songs have been described as an unrul
 > “An independent spirit, an old school troubadour…he continues his merry niche” – froots magazine
 
 > “Pete is probably best known for writing ‘Another Train’ but that is just the very tip of the iceberg. ” – FATEA magazine
-
-The venue is situated in Brookfield Gardens on the site of the old Unitarian Church. Access from the street is via a flight of steps with, currently, no ramped access for wheelchairs. Park for free after 6.30pm at West Kirby Concourse, only 4 minutes walk away, as there is no on street parking available at the venue.  Licensed bar available.
