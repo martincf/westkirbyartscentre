@@ -4,7 +4,7 @@ title: Martyn Joseph
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
-price: SOLDOUTRESERVED
+price: 20.00
 price_note: 20.00
 time: 19.00 for 19.30
 date: 2021-07-30

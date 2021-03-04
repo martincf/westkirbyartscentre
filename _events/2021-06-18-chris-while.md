@@ -10,6 +10,7 @@ date: 2021-06-18
 type: contemporary folk duo
 image: chris-kellie
 permalink: /events/chris-and-kellie-while
+published: false
 ---
 
 We are very pleased to present Chris and Kellie While for what we expect to be a night to remember:

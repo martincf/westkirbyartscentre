@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 15.00
 time: 19.00 for 19.30
-date: 2021-05-14
+date: 2021-07-02
 type: Live music from Tennessee Waltz and friends
 image: tennessee-waltz-guitar-pic
 permalink: /events/all-I-have-to-do

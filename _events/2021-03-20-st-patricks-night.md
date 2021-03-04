@@ -10,6 +10,7 @@ date: 2021-03-20
 type: John Walsh and Keith Price
 image: john-and-keith
 permalink: /events/st-patricks-night
+published: false
 ---
 
 John Walsh, Keith Price and no doubt a friend or two will help us all celebrate

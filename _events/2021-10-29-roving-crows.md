@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 10
 time: 19.00 for 19.30
-date: 2021-07-02
+date: 2021-10-29
 type: Celtic folk rock
 image: roving-crows-2020
 permalink: /events/roving-crows
