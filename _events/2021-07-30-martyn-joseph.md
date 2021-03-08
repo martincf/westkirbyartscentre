@@ -13,8 +13,6 @@ image: martynjoseph
 permalink: /events/martynjoseph
 ---
 
-We are currently operating at 50% of normal capacity. We have sold out the initial allocation of tickets but if Social Distancing is relaxed before July 30th (as we hope it will) we will be able to release another 50 tickets, these will be offered on a first come first served basis to the reserve list. Email hello@westkirbyartscentre.org.uk to be put on the reserve list.
-
 Martyn Joseph is a completely unique and mind blowing artist. Take everything you think you know about singer songwriters... and rip it up. For one man and a guitar he creates a performance with a huge far-reaching sound that is energetic, compelling and passionate. Be it to two hundred people or twenty thousand, he blows the crowd away night after night.
 
 April 2019 saw him win a 'Wales Folk Award' for 'Here Come The Young', the title track of his most recent album, of which Uncut magazine said 'He’s never sounded more potent than he does here'.
