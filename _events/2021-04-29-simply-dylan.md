@@ -10,6 +10,7 @@ date: 2021-04-29
 type: Simply Dylan goes acoustic for WKAC
 image: simply-dylan-logo
 permalink: /events/simply-dylan-nov2020
+published: false
 ---
 
 Join John O’Connell and his Simply Dylan band for an acoustic gig.

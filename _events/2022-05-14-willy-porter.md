@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 12.00
 time: 19.00 for 19.30
-date: 2021-05-14
+date: 2022-05-14
 type: Live music
 image: willy-porter-hi-res
 permalink: /events/willy-porter

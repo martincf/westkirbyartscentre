@@ -10,6 +10,7 @@ date: 2021-06-19
 type: Cal Ruddy and Megan-Louise
 image: jade-thunder
 permalink: /events/jade-thunder-and-friends
+published: false
 ---
 
 We are always pleased to be able to bring you the best local singer songwriters, and helping us to celebrate coming out of lockdown we are proud to present Jade Thuder with her friends Cal Ruddy and Megan-Louise.
@@ -21,4 +22,4 @@ Inheriting a love of classic rock bands – the likes of Heart, Blondie and Joan
 We are looking forward to Jade showcasing some of the songs that will be appearing on her new album later in 2021, of which Jade says
 “I have never felt confident enough to release such a personal record before, but the pandemic gave me the freedom to write and create, which therefore give me the confidence to achieve what I never thought I could a complete album”.
 
-Supported by her good friends Cal and Megan you beter book early for this one as this is bound to be a very popular night with all their local fans and suporters. 
+Supported by her good friends Cal and Megan you beter book early for this one as this is bound to be a very popular night with all their local fans and suporters.

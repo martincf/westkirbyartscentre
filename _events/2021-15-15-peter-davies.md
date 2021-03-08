@@ -1,12 +1,12 @@
 ---
 layout: eventdetail
-title: Peter Davies
+title: Pete Davies
 section_title: Events
 bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 8
 time: 7.00 for 7.30
-date: 2021-04-17
+date: 2021-10-15
 type: contemporary singer songwriter
 image: pete-davies
 permalink: /events/peter-davies

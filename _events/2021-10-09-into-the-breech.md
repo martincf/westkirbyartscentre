@@ -6,7 +6,7 @@ bookable: yes
 organiser_url: www.westkirbyartscentre.org.uk
 price: 10
 time: 19.00 for 19.30
-date: 2021-04-10
+date: 2021-10-09
 type: One man's battle with Shakespeare
 image: breachsoutwold5
 permalink: /events/into-the-breach

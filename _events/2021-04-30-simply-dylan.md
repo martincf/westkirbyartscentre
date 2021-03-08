@@ -10,6 +10,7 @@ date: 2021-04-30
 type: Simply Dylan goes acoustic for WKAC
 image: simply-dylan-logo
 permalink: /events/simply-dylan
+published: false
 ---
 
 Fresh from their UK Tour Simply Dylan return to one of their favourite venues WKAC. John will be trying out some new Dylan songs with the band so be prepared for an exciting preview of their future shows.
