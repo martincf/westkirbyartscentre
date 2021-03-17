@@ -1,0 +1,27 @@
+---
+layout: eventdetail
+title: Kent DuChaine
+section_title: Events
+bookable: yes
+organiser_url: www.westkirbyartscentre.org.uk
+price: 10
+time: 19.00 for 19.30
+date: 2021-10-22
+type: American Delta Blues Legend
+image: kentduchaine
+permalink: /events/Kent-DuChaine-oct-22
+---
+
+We are pleased to welcome back one of West Kirby Arts true favourites.
+
+The Legendary American Delta Bluesman Kent DuChaine has listened to, hung out with, opened up for, traveled and played with most of the great Blues men and women his whole adult life. The list is too long to name them all, but some of the major ones are:  Muddy Waters, Howlin' Wolf, John Lee Hooker, Big Mama Thornton, Koko Taylor, BB, Albert and Freddie King, Willie Dixon, Bukka White, Johnny Shines, Robert JR Lockwood, Mississippi, Fred McDowell, Furry Lewis and Son House. These were the big Country and Urban Blues influences who Kent heard and/or played with.
+
+Kent's early days with the Blues involved him both living and learning the Blues life. He was part of a Grammy nominated album recorded at the prestigious Smithsonian Institute Festival of Folk Life in Washington D.C. The theme of the festival was "The Roots of Rhythm & Blues, The Robert Johnson Era" and was recorded and released by Sony Music. It featured Robert Johnson's old buddies, Johnny Shines, Robert JR Lockwood, Honeyboy Edwards, and Henry Townsend.
+
+Kent spent time in Austin, Texas in the mid 70's, soaking up the blues at "Antone's", who were beginning to bring in a lot of the old Blues men. He met Stevie Ray Vaughn and learned that there where others who shared the same passion and respect for the real Blues.
+
+Around this time the most incredible thing happened: after searching for ten years, Kent found his beloved 1934 National Steel guitar, Leadbessie.
+
+After some time, Kent could see that the solo Blues life was where he wanted to go. Traveling the roads alone allowed him the opportunities he was seeking. Following the Blues trails unhindered gave him the freedom to play where and when he wanted, for whatever he could get, even if it was just a meal and a drink.  The solo life built his following, reputation, and talent for the real Blues.
+
+He has spent most of the last 24 years traveling back and forth to Europe and has done 100 plus European tours of 4-7 weeks each. He has logged millions of miles and many 1000's of shows.
